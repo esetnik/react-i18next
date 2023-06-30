@@ -1,0 +1,64 @@
+{
+  "accountType": {
+    "bundles": {
+      "item_one": "<0></0> ينتهي في غضون {{daysRemaining}} يوم",
+      "item_other": "<0></0> ينتهي في غضون {{daysRemaining}} أيام",
+      "title": "الحزم"
+    },
+    "description": {
+      "basicUser": "لديك حق الوصول إلى فئات محددة مجانًا. يمكن شراء الفئات الإضافية بشكل فردي أو في حزمة Prodigy.",
+      "bundleUser": "يمكنك الوصول إلى فئات <0>الصفوف</0> بناءً على اشتراكك.",
+      "departmentUser": "لديك حق الوصول إلى الفئات <0>الصفوف</0> كجزء من اشتراك القسم الخاص بك."
+    },
+    "manageAccountLink": "إدارة الحساب",
+    "title": {
+      "basicUser": "حساب مستخدم عادي",
+      "bundleUser": "حساب مستخدم الاشتراك",
+      "departmentUser": "حساب مستخدم القسم"
+    }
+  },
+  "assignments": {
+    "item": {
+      "assignedBy": "مسند من قِبل {{assignBy}}",
+      "dueOn": "تاريخ الاستحقاق"
+    },
+    "title": "الإسنادات"
+  },
+  "continueClasses": {
+    "item": {
+      "startedOn": "بدأ في {{date}} في {{time}}"
+    },
+    "title": "متابعة الصفوف",
+    "noAssignments": "لا يوجد صفوف مسندة",
+    "manageAssignments": "إدارة الإسنادات"
+  },
+  "salesBanner": {
+    "buttons": {
+      "learnMore": "إعلم المزيد",
+      "seeOtherBundles": "عرض الحزم الأخرى"
+    },
+    "description": "افتح الوصول إلى المحتوى المتميز باستخدام حزمة Prodigy!",
+    "title": "احصل على أقصى استفادة من حسابك."
+  },
+  "title": "مرحبًا, {{userName}}!",
+  "trainingPlans": {
+    "contentForEmpty": {
+      "button": "عرض خطط التدريب",
+      "descriptionPart1": "ابدأ بخطط التدريب بإضافة شهادة. ستنشئ Prodigy خطة بناءً على مستوى شهادتك وانتماء القسم والحالة.",
+      "descriptionPart2": "تسمح لك خطط التدريب الخاصة بنا بإدخال تفاصيل شهادتك والاطلاع على الفور على ما تحتاج لإكماله. تعمل خطط التدريب على التخلص من التوتر الناتج عن تتبع إعادة التأهيل وتسمح بمسارات تدريب مخصصة."
+    },
+    "titleForEmpty": "ابدأ خطط التدريب",
+    "titleForExist": "خطط التدريب"
+  },
+  "upcomingLiveSessions": {
+    "descriptionForEmpty": "لا توجد صفوف مباشرة قادمة متاحة في هذا الوقت",
+    "title": "الجلسات المباشرة القادمة",
+    "trainingPlansPickerTitle": "كل القادم"
+  },
+  "virtualConferences": {
+    "item": {
+      "viewConferenceButton": "مشاهدة المؤتمر"
+    },
+    "title": "المؤتمرات الافتراضية"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "buttons": {
+    "addCertification": "ⴰⵙⵙⴹⴼⵕ ⵏ ⵜⵓⴳⴳⴰ",
+    "addNewCertification": "ⴰⵙⵙⴹⴼⵕ ⵏ ⵜⵓⴳⴳⴰ ⵜⴰⵎⴰⵢⵏⵓⵜ",
+    "deleteCertification": "ⵓⴽⵓⵙ ⵏ ⵜⵓⴳⴳⴰ",
+    "saveChanges": "ⴰⵃⵙⵙⵓ ⵏ ⴰⵙⵏⴼⵍ"
+  },
+  "labels": {
+    "certificationLevelOptional": "ⴰⵙⵡⵉⵔ ⵏ ⵜⵓⴳⴳⴰ(ⴰⵔⵓⵛⵛⵉⵍ)",
+    "certificationLevel": "ⴰⵙⵡⵉⵔ ⵏ ⵜⵓⴳⴳⴰ",
+    "certificationName": "ⴰⵙⵙⴰⵖ ⵏ ⵜⵓⴳⴳⴰ",
+    "certificationNumber": "ⵓⵟⵟⵓⵏ ⵏ ⵜⵓⴳⴳⴰ",
+    "certificationNumberOptional": "ⵓⵟⵟⵓⵏ ⵏ ⵜⵓⴳⴳⴰ(ⴰⵔⵓⵛⵛⵉⵍ)",
+    "certNumber": "ⵜⵓⴳⴳⴰ#",
+    "expirationDate": "ⴰⵎⵣⵔⴰⵢ ⵏ ⵓⴼⵓⴹ ⵏ ⵜⵉⵡⵓⵔⵉⵡⵉⵏ",
+    "expirationDateOptional": "ⴰⵎⵣⵔⴰⵢ ⵏ ⵓⴼⵓⴹ ⵏ ⵜⵉⵡⵓⵔⵉⵡⵉⵏ (ⴰⵔⵓⵛⵛⵉⵍ)",
+    "expiresAt": "ⴰⵔ ⵜⴰⴼⵓⴹ",
+    "issuedAt": "ⵜⵉⴼⵉⴼⵖⵜ",
+    "issuedDate": "ⴰⵎⵣⵔⴰⵢ ⵏ ⵜⵉⴼⵉⴼⵖⵜ",
+    "issuedDateOptional": "ⴰⵎⵣⵔⴰⵢ ⵏ ⵜⵉⴼⵉⴼⵖⵜ(ⴰⵔⵓⵛⵛⵉⵍ)",
+    "level": "ⴰⵙⵡⵉⵔ",
+    "state": "ⵍⵡⵉⵍⴰⵢⴰ",
+    "stateOptional": "ⵍⵡⵉⵍⴰⵢⴰ(ⴰⵔⵓⵛⵛⵉⵍ)",
+    "city": "ⵜⵉⵖⵔⵎⵜ",
+    "cityOptional": "ⵜⵉⵖⵔⵎⵜ (ⴰⵔⵓⵛⵛⵉⵍ)",
+    "status": "ⴰⴷⴷⴰⴷ",
+    "uploadCertification": "ⴰⴳⴰⵎ ⵏ ⵜⵓⴳⴳⴰ (ⴰⵔⵓⵛⵛⵉⵍ)",
+    "verified": "ⴰⵙⵖⵣⵏ"
+  },
+  "links": {
+    "viewTrainingPlan": "ⵉⴼⵙⵔ ⵍⵅⵓⵜⵜⴰ ⵏ ⴰⵙⵍⵎⴹ"
+  },
+  "messages": {
+    "back": "ⵓⵖⵓⵍ",
+    "backToCertifications": "ⵓⵖⵓⵍ ⵙ ⵜⵓⴳⴳⴰⵜⵉⵏ",
+    "confirmDeleteCertification": "ⵜⵔⵉⵜ ⴰⵜⴽⵙⵜ ⵜⵓⴳⴳⴰ ? ⵓⵔ ⴰⵜⵜⴰⵔⵣⵜ ⵖ ⴰⵙⴽⴽⵉⵔ.",
+    "dateTip": "ⵙⵉⴷⵖ ⴰⵎⵣⵔⴰⵢ ⵏ ⵜⵓⴳⴳⴰ ⵜⴰⵎⴳⴳⴰⵔⵓⵜ.",
+    "manageAndTrackCertification": "ⵜⴰⴷⴱⵉⵍⵜ ⴹ ⴰⴹⴼⵓⵕ ⵏ ⵜⵓⴳⴳⴰ.ⴰⵙⵎⵔⵙ ⵏ ⵜⵓⴳⴳⴰ ⵉ ⴰⵙⵍⵎⴷ ⵡⴰⵃⴹⵔⵙ.",
+    "prodigyNotVerifyCertification": "ⵍⴰ ⵢⵜⵃⵇⴻⵇ Prodigy EMS ⵎⵏ ⵎⵄⵍⵓⵎⴰⵜ ⴰⵍⵛⵀⴰⴷⴰ",
+    "prodigyNotVerifyCertificationTO": "ⵢⵊⴱ ⴰⵄⵜⵎⴰⴷ ⵊⵎⵉⵄ ⴰⵍⵛⵀⴰⴷⴰⵜ ⵢⴷⵓⵢⴰ ⵎⵏ ⵇⴱⵍ ⴰⵍⵇⵙⵎ. ⵍⴰ ⵢⵜⵃⵇⴻⵇ ⵏⵥⴰⵎ ProEMS ⵎⵏ ⴰⵍⵛⵀⴰⴷⴰⵜ."
+  },
+  "placeholders": {
+    "certificationLevel": "ⵉⵙⵜⵉ ⴰⵙⵡⵉⵔ",
+    "certificationName": "ⵉⵙⵜⵉ ⵜⵓⴳⴳⴰ",
+    "certificationNumber": "ⴰⴷⴷⴰⴼ ⵓⵟⵟⵓⵏ",
+    "state": "--",
+    "city": "ⴰⴷⴷⴰⴼ ⵜⵉⵖⵔⵎⵜ",
+    "selectUser": "ⴰⴷⴷⴰⴼ ⴰⵅⴳⴳⴰⵎ"
+  },
+  "titles": {
+    "addCertification": "ⴰⵙⵙⴹⴼⵕ ⵏ ⵜⵓⴳⴳⴰ",
+    "certifications": "ⵜⵓⴳⴳⴰⵜⵉⵏ",
+    "deleteCertification": "ⵓⴽⵓⵙ ⵏ ⵜⵓⴳⴳⴰ",
+    "noCertifications": "ⵓⵔ ⵢⵓⴼⴰ ⵜⵓⴳⴳⴰ",
+    "manageCertification": "ⵜⴰⴷⴱⵉⵍⵜ ⵏ ⵜⵓⴳⴳⴰ"
+  }
+}

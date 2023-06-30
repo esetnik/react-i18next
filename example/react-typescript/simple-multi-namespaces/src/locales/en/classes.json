@@ -1,0 +1,341 @@
+{
+  "buttons": {
+    "continue": "Continue",
+    "continueClass": "Continue Class",
+    "continueClassNow": "Continue Class Now",
+    "downloadTemplate": "Download template",
+    "goToClass": "Go To Class",
+    "saveAsDraft": "Save As Draft",
+    "submit": "Submit",
+    "takeClass": "Take Class",
+    "takeClassNow": "Take Class Now",
+    "takeQuiz": "Take Quiz",
+    "save": "Save",
+    "saveAndPublish": "Save & Publish",
+    "updateClass": "Update Class",
+    "addLiveSession": "Add Live Session",
+    "backTo": "Back to",
+    "createNewSection": "Create A New Section",
+    "addContent": "Add Content",
+    "addQuizQuestions": "Add Quiz Question",
+    "continueUploading": "Continue Uploading",
+    "deleteSection": "Delete Section",
+    "uploadFile": "Upload File",
+    "uploading": "Uploading",
+    "addAnswer": "Add Answer",
+    "registerForSession": "Register For {{type}}",
+    "shareClass": "Share Class"
+  },
+  "filters": {
+    "labels": {
+      "credit": "Credit",
+      "distributive": "Distributive",
+      "inProgress": "In Progress",
+      "live": "Live",
+      "nonCredit": "Non-credit",
+      "purchased": "Purchased",
+      "registered": "Registered"
+    },
+    "placeholders": {
+      "searchClasses": "Search Classes",
+      "searchDrafts": "Search Drafts"
+    },
+    "titles": {
+      "availableOrPurchased": "Available / Purchased",
+      "classStatus": "Class Status",
+      "classType": "Class Type",
+      "creditType": "Credit Type",
+      "liveClassDate": "Live Class Date"
+    }
+  },
+  "labels": {
+    "classDescription": "Class Description:",
+    "correct": "Correct",
+    "className": "Class Name",
+    "draftName": "Draft Name",
+    "headline": "Headline",
+    "classImage": "Class Image",
+    "durationHours": "Class Duration (hrs)",
+    "invalidTime": "Invalid Time e.g. 12:00",
+    "description": "Description",
+    "distributive": "Distributive",
+    "live": "Live",
+    "incorrect": "Incorrect",
+    "nonCredit": "This is a non-credit class",
+    "classVisibility": "Class Visibility",
+    "classVisibilityOptions": {
+      "visible": "<0>Visible</0>. Accessible via the class catalog, direct link to the class, or users who have been assigned the class.",
+      "hidden": "<0>Hidden</0>. Accessible only by direct link to the class or by users who have been assigned the class.",
+      "assignedOnly": "<0>Assigned Only</0>. Accessible only by users who have been assigned the class."
+    },
+    "percentage": "Percentage",
+    "questionNumber": "Question {{number}} of {{total}}",
+    "questionsCorrect": "{{correct}} out of {{total}}",
+    "score": "Score",
+    "segmentsComplete": "<0>{{segmentCompleteCount}}</0> segments complete out of <0>{{segmentCount}}</0>",
+    "segmentStatuses": {
+      "Complete": "Complete",
+      "In Progress": "In Progress",
+      "None": "None"
+    },
+    "segmentTypeNames": {
+      "audioLink": "Audio Link",
+      "checkInQuestion": "Check-in Question",
+      "externalLink": "External Link",
+      "quiz": "Quiz",
+      "reading": "Reading",
+      "video": "Video",
+      "youtube": "Video Link",
+      "audio": "Audio",
+      "text": "Text"
+    },
+    "addSegmentTypeNames": {
+      "audioLink": "Audio Link",
+      "checkInQuestion": "Check-in Quiz",
+      "externalLink": "External Link",
+      "reading": "Upload a Document",
+      "video": "Upload Video",
+      "youtube": "Video Link",
+      "audio": "Upload Audio",
+      "text": "Text"
+    },
+    "shortAnswer": "Enter Response",
+    "shortAnswerLimit": "Max limit {{charactersLimit}} characters",
+    "status": "Status",
+    "active": "Active",
+    "statusValues": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "draft": "Draft"
+    },
+    "takeTypes": "Take Types",
+    "creditHours": "Credit Hours",
+    "duration": "Duration",
+    "durationMinutes": "Duration (Minutes)",
+    "nextLive": "Next Live",
+    "nextLiveNoneScheduled": "None Scheduled",
+    "addContent": "Add Content",
+    "liveClass": {
+      "date": "Date",
+      "start": "Start",
+      "end": "End",
+      "link": "Link"
+    },
+    "shuffleQuestions": "Shuffle quiz questions?",
+    "shuffleAnswers": "Shuffle answers?",
+    "questions": "Questions",
+    "question": "Question",
+    "answers": "Answers",
+    "answer": "Answer",
+    "correctAnswers": "Correct Answers",
+    "correctAnswer": "Correct Answer",
+    "questionType": "Question Type",
+    "feedback": "Feedback",
+    "questionsTypes": {
+      "multiple-choice": "Multiple Choice - Single Select",
+      "choose-many": "Multiple Choice - Multi Select",
+      "true-false": "True or False"
+    },
+    "overview": "Overview",
+    "materials": "Materials",
+    "contentName": "Content Name",
+    "quizName": "Quiz Name",
+    "uploadedVideo": "Uploaded Video",
+    "remove": "Remove",
+    "uploadInProgress": "Upload In Progress",
+    "preventSeeking": "Prevent seeking? If selected the student will not be able to fast forward through this content.",
+    "autoplay": "Play content automatically? If selected the media will play without user interaction (only available on supported browsers).",
+    "deleteSection": "Confirm Delete Section",
+    "passingScore": "Passing Score %",
+    "classTags": "Class Tags",
+    "true": "True",
+    "false": "False",
+    "lastUpdatedOn": "Last updated on",
+    "charactersLeft": "Characters left",
+    "deleteDraft": "Delete Draft",
+    "releaseDate": "Release Date",
+    "uploadedAudio": "Uploaded Audio",
+    "removeMedia": "Remove media",
+    "online": "Online",
+    "inPerson": "In-Person",
+    "showCorrectAnswers": "Show Correct Answers? After the user attempts the quiz, show the correct answers.",
+    "instructions": "Instructions",
+    "howToEnterLiveClass": "How to enter the class",
+    "section": "Section",
+    "thumbnail": "Thumbnail",
+    "text": "Text",
+    "pickAClass": "Pick A Class",
+    "pickADepartment": "Pick A Department",
+    "pickAClassToShare": "Pick a class to share",
+    "pickADepartmentToShareWith": "Pick a department to share with"
+  },
+  "manageClasses": {
+    "titles": {
+      "classes": "Classes",
+      "prodigyClasses": "Prodigy Classes",
+      "organizationClasses": "Organization Classes",
+      "organizationDrafts": "Organization Drafts",
+      "sharedClasses": "Shared Classes"
+    },
+    "placeholders": {
+      "noClasses": "No classes found",
+      "noDrafts": "No drafts found"
+    },
+    "buttons": {
+      "addClass": "Add Class",
+      "completeClass": "Complete Class For User"
+    },
+    "validations": {
+      "maxTags": "You can't add more than {{maxTags}} tags",
+      "tagLength": "You can't add a tag longer than {{tagLength}} characters"
+    }
+  },
+  "classEdit": {
+    "buttons": {
+      "editClassDetails": "Edit Details",
+      "editClassLiveSessions": "Edit Live Sessions",
+      "editDistributiveContent": "Edit Content",
+      "editClassQuiz": "Edit Quiz"
+    },
+    "liveSessions": {
+      "title": "Live Class Sessions",
+      "description": "Schedule live class sessions with in-person instruction. You’ll be able to edit all upcoming live sessions.",
+      "noLiveSessions": "This class has no live sessions scheduled, Try adding one."
+    },
+    "distributiveContent": {
+      "title": "Distributive Class Outline",
+      "noContent": "This class has no distributive content. try adding new segments."
+    },
+    "quiz": {
+      "title": "Class Quiz",
+      "labels": {
+        "totalClassRegistrations": "Total Class Registrations",
+        "completedClasses": "Completed Classes",
+        "averageQuizScore": "Average Quiz Score",
+        "averageAttempts": "Average Attempts"
+      },
+      "messages": {
+        "totalClassRegistrations": "All time registered users for all class types",
+        "completedClasses": "<0>{{percentage}}%</0> of registered users have completed this class",
+        "averageQuizScore": "All time across all attempts",
+        "averageAttempts": "Number of times quiz is taken to pass"
+      }
+    }
+  },
+  "messages": {
+    "materialsError": "An error occurred while loading materials. Refresh the page to retry.",
+    "noMaterials": "No materials for this class.",
+    "back": "Back",
+    "backToClass": "Back to class",
+    "backToClassDetails": "Back to Class Details",
+    "classAvailableAsDistributiveEducation": "This class is available as Distributive Education. Please note that some re-certifications only allow for a certain number of distributive classes.",
+    "classCanTakenDistributive": "This class can be taken as distributive education. Check your training plan for distributive education limits.",
+    "classDetailsDescription": "Enter the basic information for this class.",
+    "classDistributiveDescription": "Create class sections, add content and structure your custom class to suit your organizations needs.",
+    "classLiveDescription": "Schedule live class sessions with in-person instruction. You’ll be able to add additional live sessions after the class is published.",
+    "classQuizDescription": "Create a graded class quiz. Users will need to pass this quiz in order to complete the class.",
+    "classPublishModalDescription": "Publishing this class will make it available in the class catalog for your organization. You can always toggle a class on or off from the custom class table.",
+    "classUpdateModalDescription": "Updating this class will make these changes available in the class for your organization.",
+    "scheduleLiveSession": "Pick a date and time and add a link to create a new live session.",
+    "noSections": "Try adding a new content to this class section.",
+    "noQuestions": "Try adding a new question to this quiz.",
+    "selectSegmentType": "Select the type of content you would like to add to this class.",
+    "classNotAvailable": "This class is not available to be taken at this time. Please contact\nsupport@prodigyems.com if you have any questions.",
+    "clickToJoinClass": "Click here to join the class",
+    "dragAndDropCSV": "Once you've filled out the CSV, Drag and Drop or Click to Upload.",
+    "failedQuiz": "You’ve failed to successfully complete the quiz with at least {{passingScore}}% completion grade. You must pass this quiz to receive credit for this class.",
+    "methodOfDeliveringEMSEducation": "This is a method of delivering EMS education where the educator and student are not able to interact in real time.",
+    "methodOfDeliveringEMSEducationAvailable": "This is a method of delivering EMS education where an educator is available to the student for any questions throughout the duration of the class. These classes are conducted by a real time webinar and count as live training under NREMT standards.",
+    "missingCertification": "You must <0>enter a valid state or NREMT certification</0> to get CAPCE credit for this class.",
+    "noResults": "No results...",
+    "noUpcomingLiveSessionsAvailable": "No upcoming live sessions are currently available. Please check back later.",
+    "noWantReceiveCredit": "No longer want to receive credit for this class?",
+    "quizDescription": "This quiz must be completed with at least {{passingScore}}% completion grade in order to receive credit for this class. The quiz must be completed at one time. If you leave this quiz all progress will be lost.",
+    "sessionAvailableToEnterNow": "This session is available to enter now and will start in",
+    "sessionInProgressAndStarted": "This session is already in progress and started",
+    "sessionWillAvailableToEnter": "This session will be available to enter in",
+    "somethingWentWrong": "Something went wrong while loading sessions. Please refresh the page to try again.",
+    "successfullyCompleteQuiz": "You've successfully completed the quiz.",
+    "takeQuiz": "Take the quiz to complete this class session",
+    "unableAttendClass": "Unable to attend this class?",
+    "unableContinueClass": "Unable to continue this class?",
+    "unableTakeClass": "Unable to take this class?",
+    "useThisTemplate": "Use this template with pre-defined columns, and fill in.",
+    "wantSwitchToLive": "Want to switch to live class?",
+    "youMissedClassSession": "You missed this class session. You should unregister and choose a\ndifferent session to complete the class.",
+    "segmentTypeTexts": {
+      "audioLink": "Add a link to an audio like a podcast.",
+      "checkInQuestion": "Create a mini quiz to test knowledge of a specific segment or content.",
+      "externalLink": "Add a link to another website, document, or video.",
+      "reading": "Upload a .pdf document to Prodigy.",
+      "video": "Upload your own video content to Prodigy.",
+      "youtube": "Add a link to a video hosted on YouTube.",
+      "audio": "Upload your own audio content to Prodigy.",
+      "text": "Written content with links, lists, and images."
+    },
+    "classWizardInputsInfo": {
+      "classDetailsHeadline": "This is a short description used for the class catalog.",
+      "classDetailsDuration": "Duration must be in .25 hour increments",
+      "classLiveLink": "Ensure this link does not require additional login and has been added correctly.",
+      "externalLink": "Ensure this link does not require additional login and has been added correctly.",
+      "youtube": "Only YouTube links are supported at this time.",
+      "inPersonInstructions": "Users will be able to see this when registering for a class.",
+      "thumbnail": "You can upload a thumbnail for your content to add a visual interest."
+    },
+    "confirmExitMultipartUpload": "Are you sure you want to exit? Your file upload progress will be lost.",
+    "confirmDeleteSection": "Are you sure you want to delete this section? This section segments will be deleted as well.",
+    "questionUploadMediaText": "Upload a video, audio or image file to include in the question.",
+    "passingScore": "Enter a number between 0 and 100",
+    "confirmDeleteDraft": "This action is irreversible, are you sure you want to delete ({{draftName}}) draft?",
+    "answerUploadMediaText": "Upload a video, audio, or image file to include in the answer.",
+    "noClassAccessDepartmentUser": "If you think this is a mistake, please contact your training officer for assistance. They can help you resolve any issues preventing you from accessing the classes you need.",
+    "noClassAccessIndividual": "This class is restricted to department users only. Please contact the relevant department or person in charge for more information on how to gain access to this class or for alternative options that may be available to you.",
+    "shareClassesModal": "Make your classes available for other associated departments."
+  },
+  "placeholders": {
+    "enterDescription": "Enter Description",
+    "enterName": "Enter Name",
+    "title": "Title",
+    "sectionName": "Add a Section Name (optional)",
+    "enterHeadline": "Enter Headline",
+    "enterQuestion": "Enter Question",
+    "enterFeedback": "Enter Feedback",
+    "enterDuration": "Enter Duration In Minutes",
+    "segmentsForms": {
+      "audio": "Paste Audio Link",
+      "externalLink": "Paste External Link",
+      "youtube": "Paste Video Link"
+    },
+    "enterQuizName": "Enter Quiz Name",
+    "enterPassingScore": "Enter Passing Score",
+    "classTags": "Start entering a tag name",
+    "enterText": "Enter Text"
+  },
+  "titles": {
+    "classCatalog": "Class Catalog",
+    "classDetails": "Class Details",
+    "classDistributive": "Distributive Class Content",
+    "classLive": "Live Classes",
+    "classQuiz": "Class Quiz",
+    "classPublishModal": "Would you like to publish this class?",
+    "classUpdateModal": "Would you like to update this class?",
+    "scheduleLiveSession": "Schedule Live Session",
+    "classInProgress": "Class In Progress",
+    "classMissed": "Class Missed",
+    "classNotAvailable": "Class Not Available",
+    "continueDistributiveClass": "Continue Distributive Class",
+    "distributiveClasses": "Distributive Classes",
+    "downloadTemplate": "Step 1: Download template",
+    "liveClasses": "Live Classes",
+    "registerForLiveClasses": "Register For Live Classes",
+    "startDistributiveClass": "Start Distributive Class",
+    "takeQuiz": "Take quiz",
+    "upcomingClass": "Upcoming Class",
+    "uploadCSV": "Step 2: Upload CSV",
+    "noClassAccess": "Oops! It seems that you do not have the necessary access to this class.",
+    "shareClass": "Share Class"
+  },
+  "validations": {
+    "classImageUploadRequirements": "Image must be {{types}} under {{size}}. Minimum size: {{minimumSize}} ({{aspectRatio}} aspect ratio)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "addEditAssignment": {
+    "buttons": {
+      "assignClass": "Attribuer une classe",
+      "deleteAssignment": "Supprimer l'affectation",
+      "saveChanges": "Sauvegarder les modifications"
+    },
+    "labels": {
+      "assignDate": "Attribuer la date",
+      "assignedUsers": "Utilisateurs attribués",
+      "excludeAnyone": "Exclure toute personne qui a suivi ce cours au cours des 12 derniers mois",
+      "users": "Utilisateurs",
+      "usersSelected": "Utilisateurs sélectionnés"
+    },
+    "messages": {
+      "backToAssignments": "Retour aux affectations"
+    },
+    "titles": {
+      "addAssignment": "Ajouter une affectation",
+      "manageAssignment": "Gérer l'attribution"
+    }
+  },
+  "manageAssignments": {
+    "buttons": {
+      "addAssignment": "Ajouter une affectation",
+      "removeAssignments": "Supprimer les attributions"
+    },
+    "messages": {
+      "removeAssignments": "Vous êtes sur le point de supprimer les attributions des utilisateurs sélectionnés. Cette action ne peut pas être annulée. Voulez-vous continuer?"
+    },
+    "placeholders": {
+      "noAssignments": "Aucune affectation trouvée."
+    },
+    "titles": {
+      "assignments": "Affectations",
+      "individualRecords": "Dossiers individuels",
+      "removeAssignment": "Supprimer l'attribution"
+    }
+  },
+  "userAssignments": {
+    "placeholders": {
+      "noAssignedClasses": "Aucune classe attribuée trouvée."
+    },
+    "title": "Affectations"
+  }
+}

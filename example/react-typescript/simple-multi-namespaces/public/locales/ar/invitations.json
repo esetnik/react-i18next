@@ -1,0 +1,7 @@
+{
+  "title": "انضم إلى <0>{{departmentName}}</0> على Prodigy",
+  "description": "بالنقر فوق الزر \"قبول الدعوة\" أدناه ، ستصبح عضوًا في {{departmentName}}. من خلال الانضمام إلى {{departmentName}} ستتمكن من الوصول إلى محتوى وميزات إضافية.",
+  "buttons": {
+    "acceptInvite": "قبول الدعوة"
+  }
+}

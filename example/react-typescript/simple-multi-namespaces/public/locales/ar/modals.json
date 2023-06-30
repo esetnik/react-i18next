@@ -1,0 +1,77 @@
+{
+  "classCompletionSuccess": {
+    "message": "لقد أكملت بنجاح <0> {{className}} </0>.",
+    "title": "تهانينا!"
+  },
+  "makePurchase": {
+    "buttons": {
+      "cancelPayment": "الغاء الدفع",
+      "purchaseFor": "شراء لـ"
+    },
+    "labels": {
+      "hasPaymentMethods": "أكمل هذا الشراء عن طريق اختيار الدفع أدناه.",
+      "noPaymentMethods": "أكمل هذا الشراء بإدخال معلومات بطاقتك الائتمانية أدناه."
+    },
+    "messages": {
+      "discountApplied": "الخصم قد تم"
+    },
+    "placeholders": {
+      "couponCode": "رمز الكوبون"
+    },
+    "title": "شراء - {{purchaseName}}"
+  },
+  "outsideCompletion": {
+    "buttons": {
+      "add": "إضافة استكمال خارجي",
+      "delete": "حذف استكمال خارجي",
+      "saveChanges": "حفظ التغييرات"
+    },
+    "confirmModal": {
+      "destructiveButtonTitle": "حذف استكمال خارجي",
+      "message": "لن يظهر بعد ذلك كجزء من سجل التدريب الخاص بك.",
+      "title": "هل أنت متأكد أنك تريد حذف الإكمال الخارجي؟"
+    },
+    "description": "لا يتم التحقق من الإكمالات الخارجية والفئات المرتبطة بها بواسطة Prodigy.",
+    "labels": {
+      "approvalNumber": "عدد الموافقة",
+      "certificateUpload": "تحميل الشهادة",
+      "classCategory": "فئة الصف",
+      "completionDate": "موعد الإكمال",
+      "creditHours": "الساعات المعتمدة"
+    },
+    "placeholders": {
+      "approvalNumber": "رقم الموافقة للصف (اختياري)",
+      "classCategory": "اختر فئة الصف",
+      "className": "اسم الصف",
+      "creditHours": "مدة الصف"
+    },
+    "titleAdd": "إضافة إكمال خارجي - {{requirementsGroupName}}",
+    "titleEdit": "تعديل الإكمال الخارجي - {{requirementsGroupName}}"
+  },
+  "paymentComplete": {
+    "message": "لقد اشتريت بنجاح <0> {{purchaseName}} </0>",
+    "title": "الدفع تم!"
+  },
+  "purchase": {
+    "buttons": {
+      "purchaseClass": "شراء الصف",
+      "seeClassBundles": "عرض حزم الصف"
+    },
+    "messages": {
+      "individualPurchaseAllowed": "يمكن شراء هذا الصف بشكل فردي أو كجزء من حزمة الصف.",
+      "individualPurchaseNotAllowed": "يجب شراء هذا الصف كجزء من حزمة الصف."
+    },
+    "title": "شراء - {{className}}"
+  },
+  "registrationSuccess": {
+    "messages": {
+      "available": "سيكون رابط الصف هذا متاحًا قبل بدء الصف الدراسي بـ <0> {{minutesAvailableBefore}} </> دقيقة. ارجع إلى هذه الصفحة <0> {{minutesAvailableBefore}} قبل دقائق من بدء الصف للدخول إلى الصف الافتراضي.",
+      "general": "لقد سجلت بنجاح في فئة <0> {{takeType}} </0> من <0> {{className}} </0> في <0> {{sessionStartString}} </0>."
+    },
+    "title": "سجلت بنجاح!"
+  },
+  "unregisterConfirmation": {
+    "message": "أنت على وشك إلغاء التسجيل من جلسة الصف هذه. سيتم فقدان التقدم المحرز الخاص بك. هل أنت متأكد أنك تريد إلغاء التسجيل من هذا الصف؟",
+    "title": "الغاء التسجيل"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "buttons": {
+    "purchaseFor": "Achat pour"
+  },
+  "messages": {
+    "back": "Dos"
+  },
+  "placeholders": {
+    "noBundleClasses": "Aucune classe de bundle trouvée",
+    "noBundles": "Aucun bundle trouvé."
+  },
+  "titles": {
+    "exploreBundles": "Explorer les offres groupées",
+    "manageBundles": "Gérer les lots"
+  }
+}

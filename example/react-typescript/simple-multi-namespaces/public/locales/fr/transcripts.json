@@ -1,0 +1,11 @@
+{
+  "placeholders": {
+    "noTranscripts": "Aucun relevé de notes trouvé.",
+    "searchClassName": "Nom de la classe de recherche",
+    "trainingPlan": "Plan de formation"
+  },
+  "titles": {
+    "allTrainingPlans": "Tous les plans de formation",
+    "transcripts": "Transcriptions"
+  }
+}

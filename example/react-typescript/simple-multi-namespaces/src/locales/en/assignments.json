@@ -1,0 +1,46 @@
+{
+  "addEditAssignment": {
+    "buttons": {
+      "assignClass": "Assign Class",
+      "deleteAssignment": "Delete Assignment",
+      "saveChanges": "Save Changes"
+    },
+    "labels": {
+      "assignDate": "Assign Date",
+      "assignedUsers": "Assigned Users",
+      "excludeAnyone": "Exclude anyone who’s taken this class in the past 12 months",
+      "users": "Users",
+      "usersSelected": "Users Selected"
+    },
+    "messages": {
+      "backToAssignments": "Back to Assignments"
+    },
+    "titles": {
+      "addAssignment": "Add Assignment",
+      "manageAssignment": "Manage Assignment"
+    }
+  },
+  "manageAssignments": {
+    "buttons": {
+      "addAssignment": "Add Assignment",
+      "removeAssignments": "Remove Assignments"
+    },
+    "messages": {
+      "removeAssignments": "You are about to remove assignments for the selected users. This action cannot be undone. Would you like to continue?"
+    },
+    "placeholders": {
+      "noAssignments": "No assignments found."
+    },
+    "titles": {
+      "assignments": "Assignments",
+      "individualRecords": "Individual Records",
+      "removeAssignment": "Remove Assignment"
+    }
+  },
+  "userAssignments": {
+    "placeholders": {
+      "noAssignedClasses": "No assigned classes found."
+    },
+    "title": "Assignments"
+  }
+}

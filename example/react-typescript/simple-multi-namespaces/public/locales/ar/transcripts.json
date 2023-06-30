@@ -1,0 +1,11 @@
+{
+  "placeholders": {
+    "noTranscripts": "لم يتم العثور على نصوص.",
+    "searchClassName": "البحث عن اسم الصف",
+    "trainingPlan": "خطة التدريب"
+  },
+  "titles": {
+    "allTrainingPlans": "جميع خطط التدريب",
+    "transcripts": "نسخ طبق الأصل"
+  }
+}

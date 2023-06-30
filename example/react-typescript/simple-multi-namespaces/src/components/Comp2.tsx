@@ -1,12 +1,12 @@
 import { useTranslation } from "react-i18next";
 
 function Comp2() {
-  const {t} = useTranslation('ns2');
+  const {t} = useTranslation();
 
   return (
     <div className="App">
-      <p>{t('description.part1')}</p>
-      <p>{t('description.part2')}</p>
+      <p>{t('labels.test')}</p>
+      <p>{t('labels.test')}</p>
     </div>
   );
 }

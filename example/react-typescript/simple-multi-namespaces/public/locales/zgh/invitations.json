@@ -1,0 +1,7 @@
+{
+  "title": "ⴰⵏⴹⵎ ⵉⵍⴰ <0>{{departmentName}}</0> ⵄⵍⴰ Prodigy",
+  "description": "ⴱⴰⵍⵏⵇⵔ ⴼⵓⵇ ⴰⵍⵣⵔ \"ⵇⴱⵓⵍ ⴰⵍⴷⵄⵓⵜ\" ⴰⴷⵏⴰ , ⵙⵜⵚⴱⵃ ⵄⴹⵡⴰ ⴼⵉ {{departmentName}}. ⵎⵏ ⵅⵍⴰⵍ ⴰⵍⴰⵏⴹⵎⴰⵎ ⵉⵍⴰ {{departmentName}} ⵙⵜⴻⵜⵎⴽⵏ ⵎⵏ ⴰⵍⵓⵚⵓⵍ ⵉⵍⴰ ⵎⵃⵜⵡⴰ ⵡⵎⵉⵣⴰⵜ ⵉⴹⴰⴼⵉⵜ.",
+  "buttons": {
+    "acceptInvite": "ⵇⴱⵓⵍ ⴰⵍⴷⵄⵓⵜ"
+  }
+}

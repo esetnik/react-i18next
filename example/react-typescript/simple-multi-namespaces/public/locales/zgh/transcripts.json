@@ -1,0 +1,11 @@
+{
+  "placeholders": {
+    "noTranscripts": "ⵍⵎ ⵢⵜⵎ ⴰⵍⵄⵜⵓⵔ ⵄⵍⴰ ⵏⵚⵓⵚ.",
+    "searchClassName": "ⴰⵍⴱⵃⵜ ⵄⵏ ⴰⵙⵎ ⴰⵍⵚⴼ",
+    "trainingPlan": "ⵅⵟⴰ ⴰⵍⵜⴷⵔⵉⴱ"
+  },
+  "titles": {
+    "allTrainingPlans": "ⵊⵎⵉⵄ ⵅⵟⴻⵟ ⴰⵍⵜⴷⵔⵉⴱ",
+    "transcripts": "ⵏⵙⵅ ⵟⴱⵇ ⴰⵍⴰⵚⵍ"
+  }
+}

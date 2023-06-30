@@ -1,0 +1,29 @@
+{
+  "buttons": {
+    "getInTouch": "Entrer en contact"
+  },
+  "descriptions": {
+    "somethingWentWrong": "Parfois, nous rencontrons des problèmes avec une page. Ces problèmes sont suivis automatiquement, mais si ce problème persiste, n'hésitez pas à nous contacter. Pendant ce temps, essayez d'actualiser la page."
+  },
+  "labels": {
+    "stillNeedHelp": "Encore besoin d'aide?"
+  },
+  "titles": {
+    "somethingWentWrong": "Oups! On dirait que quelque chose s'est mal passé.",
+    "invalidYoutubeURL": "URL Youtube invalide",
+    "invalidAudioURL": "URL audio  invalide",
+    "noUpdatedRecords": "Oups! Apparemment, rien n'a été mis à jour."
+  },
+  "validations": {
+    "date": "Doit être une date valide au format",
+    "number": "Doit être un nombre",
+    "datePast": "Doit être une date dans le passé",
+    "dateFuture": "Doit être une date dans le futur",
+    "hours": "Doit être un incrément de 0,25 heures de crédit",
+    "email": "Doit être une adresse e-mail valide",
+    "url": "Doit être une https URL valide, par ex. https://prodigyems.com",
+    "integer": "Doit être un entier",
+    "minNumber": "Doit être supérieur ou égal à {{min}}",
+    "maxNumber": "Doit être inférieur ou égal {{max}}"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "addOutsideCompletion": "إضافة استكمال خارجي"
+  },
+  "contentForEmpty": {
+    "button": "أضف شهادة",
+    "description": "يتم إنشاء خطط التدريب بناءً على الشهادات التي قمت بإدراجها في النظام أو عن طريق تعيين القسم. قم بتحميل شهادة للبدء أو اتصل بمسؤول التدريب للحصول على المساعدة.",
+    "title": "لم يتم العثور على خطط تدريب"
+  },
+  "imagesAlts": {
+    "headerImage": "خطة تدريب {{name}}"
+  },
+  "labels": {
+    "complete": "مكتمل",
+    "distributiveLimit": "حد التوزيع",
+    "headerProgress": "تقدم خطة التدريب",
+    "overallProgress": "التقدم الكامل",
+    "requirements": "المتطلبات:",
+    "used": "مستخدم"
+  },
+  "messages": {
+    "noDescription": "لا تحتوي خطة التدريب هذه على وصف"
+  },
+  "placeholders": {
+    "selectTrainingPlan": "إختر خطة التدريب"
+  },
+  "title": "خطط التدريب"
+}

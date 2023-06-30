@@ -1,0 +1,16 @@
+{
+  "buttons": {
+    "purchaseFor": "Purchase for"
+  },
+  "messages": {
+    "back": "Back"
+  },
+  "placeholders": {
+    "noBundleClasses": "No bundle classes found",
+    "noBundles": "No bundles found."
+  },
+  "titles": {
+    "exploreBundles": "Explore Bundles",
+    "manageBundles": "Manage Bundles"
+  }
+}

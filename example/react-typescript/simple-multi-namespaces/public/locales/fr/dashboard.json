@@ -1,0 +1,64 @@
+{
+  "accountType": {
+    "bundles": {
+      "item_one": "<0> </0> se termine dans {{daysRemaining}} jour",
+      "item_other": "<0> </0> se termine dans {{daysRemaining}} jours",
+      "title": "Liasses"
+    },
+    "description": {
+      "basicUser": "Vous avez accès à certaines classes gratuitement. Des cours supplémentaires peuvent être achetés individuellement ou dans un ensemble Prodigy.",
+      "bundleUser": "Vous avez accès aux <0> classes </0> suivantes en fonction de votre abonnement.",
+      "departmentUser": "Vous avez accès aux <0> classes </0> suivantes dans le cadre de votre abonnement au service."
+    },
+    "manageAccountLink": "Gérer son compte",
+    "title": {
+      "basicUser": "Compte utilisateur de base",
+      "bundleUser": "Compte utilisateur d'abonnement",
+      "departmentUser": "Compte d'utilisateur du service"
+    }
+  },
+  "assignments": {
+    "item": {
+      "assignedBy": "Attribué par {{assignedBy}}",
+      "dueOn": "Dû le"
+    },
+    "title": "Affectations",
+    "noAssignments": "Aucune classe attribuée trouvée.",
+    "manageAssignments": "Gérer les affectations"
+  },
+  "continueClasses": {
+    "item": {
+      "startedOn": "Commencé le {{date}} à {{time}}"
+    },
+    "title": "Continuer les cours"
+  },
+  "salesBanner": {
+    "buttons": {
+      "learnMore": "Apprendre encore plus",
+      "seeOtherBundles": "Voir les autres forfaits"
+    },
+    "description": "Débloquez l'accès au contenu premium avec un pack Prodigy!",
+    "title": "Tirez le meilleur parti de votre compte."
+  },
+  "title": "Bienvenue à nouveau, {{userName}}!",
+  "trainingPlans": {
+    "contentForEmpty": {
+      "button": "Voir les plans de formation",
+      "descriptionPart1": "Commencez avec des plans de formation en ajoutant une certification. Prodigy établira un plan basé sur votre niveau de certification, votre affiliation au département et votre état.",
+      "descriptionPart2": "Nos plans de formation vous permettent de saisir les détails de votre certification et de voir instantanément ce que vous devez accomplir. Les plans de formation éliminent le stress lié au suivi de votre recertification et permettent des parcours de formation personnalisés."
+    },
+    "titleForEmpty": "Commencez avec les plans de formation",
+    "titleForExist": "Plans de formation"
+  },
+  "upcomingLiveSessions": {
+    "descriptionForEmpty": "Il n'y a pas de cours en direct à venir disponibles pour le moment",
+    "title": "Prochaines sessions en direct",
+    "trainingPlansPickerTitle": "Tout à venir"
+  },
+  "virtualConferences": {
+    "item": {
+      "viewConferenceButton": "Voir la conférence"
+    },
+    "title": "Conférences virtuelles"
+  }
+}

@@ -12,4 +12,13 @@ function Comp1() {
   );
 }
 
+export const Test: React.FC<{
+  prop?: string;
+}> = ({ prop }) => {
+  const { t } = useTranslation();
+
+  return <div>{prop ?? `${t('labels.complete')}`}</div>;
+};
+
+
 export default Comp1;

@@ -1,4 +1,4 @@
-import './i18n/config';
+import './i18n';
 import Comp1 from './components/Comp1';
 import Comp2 from './components/Comp2';
 import Comp3 from './components/Comp3';

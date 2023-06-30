@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "addOutsideCompletion": "Add Outside Completion"
+  },
+  "contentForEmpty": {
+    "button": "Add Certification",
+    "description": "Training Plans are generated based on the certifications you've listed\nin the system or by department assignment. Upload a certification to\nget started or contact your training officer for help.",
+    "title": "No Training Plans Found"
+  },
+  "imagesAlts": {
+    "headerImage": "training plan {{name}}"
+  },
+  "labels": {
+    "complete": "Complete",
+    "distributiveLimit": "Distributive Limit",
+    "headerProgress": "Training Plan Progress",
+    "overallProgress": "Overall Progress",
+    "requirements": "Requirements:",
+    "used": "Used"
+  },
+  "messages": {
+    "noDescription": "This training plan does not have a description"
+  },
+  "placeholders": {
+    "selectTrainingPlan": "Select Training Plan"
+  },
+  "title": "Training Plans"
+}

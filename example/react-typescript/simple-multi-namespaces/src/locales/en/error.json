@@ -1,0 +1,30 @@
+{
+  "buttons": {
+    "getInTouch": "Get In Touch"
+  },
+  "descriptions": {
+    "somethingWentWrong": "Sometimes we encounter issues with a page. These issues are tracked automatically, but if this issue continues feel free to contact us. Meanwhile, try refreshing the page."
+  },
+  "labels": {
+    "stillNeedHelp": "Still need help?"
+  },
+  "titles": {
+    "somethingWentWrong": "Oops! Looks like something went wrong.",
+    "invalidYoutubeURL": "Invalid Youtube URL",
+    "invalidAudioURL": "Invalid Audio URL",
+    "noUpdatedRecords": "Oops! Looks like nothing got updated."
+  },
+  "validations": {
+    "date": "Must be a valid date in the format",
+    "number": "Must be a number",
+    "datePast": "Must be a date in the past",
+    "dateFuture": "Must be a date in the future",
+    "hours": "Must be an increment of 0.25 credit hours",
+    "email": "Must be a valid email address",
+    "url": "Must be a valid https URL e.g. https://prodigyems.com",
+    "integer": "Must be an integer",
+    "minNumber": "Must be more than or equals {{min}}",
+    "maxNumber": "Must be less than or equals {{max}}",
+    "emsId": "Must be a valid EMS ID e.g. 1234-1234-1234"
+  }
+}

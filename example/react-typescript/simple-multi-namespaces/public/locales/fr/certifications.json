@@ -1,0 +1,57 @@
+{
+  "buttons": {
+    "addCertification": "Ajouter une certification",
+    "addNewCertification": "Ajouter une nouvelle certification",
+    "deleteCertification": "Supprimer la certification",
+    "saveChanges": "Sauvegarder les modifications"
+  },
+  "labels": {
+    "certificationLevelOptional": "Niveau de certification (facultatif)",
+    "certificationLevel": "Niveau de certification",
+    "certificationName": "Nom de la certification",
+    "certificationNumber": "Numéro de certification",
+    "certificationNumberOptional": "Numéro de certification (facultatif)",
+    "certNumber": "Cert #",
+    "expirationDate": "Date d'expiration",
+    "expirationDateOptional": "Date d'expiration (facultatif)",
+    "expiresAt": "Expire",
+    "issuedAt": "Publié",
+    "issuedDate": "Date de publication",
+    "issuedDateOptional": "Date de publication (facultatif)",
+    "level": "Niveau",
+    "state": "État",
+    "stateOptional": "État (facultatif)",
+    "city": "Ville",
+    "cityOptional": "Ville (facultatif)",
+    "status": "Statut",
+    "uploadCertification": "Télécharger la certification (facultatif)",
+    "verified": "Vérifié"
+  },
+  "links": {
+    "viewTrainingPlan": "Voir le plan de formation"
+  },
+  "messages": {
+    "back": "Dos",
+    "backToCertifications": "Retour aux certifications",
+    "confirmDeleteCertification": "Voulez-vous vraiment supprimer cette certification? Cette action ne peut pas être annulée.",
+    "dateTip": "Saisissez la date de début de votre certification la plus récente.",
+    "manageAndTrackCertification": "Gérez et suivez la certification. La certification peut également être utilisée pour générer des plans de formation personnalisés.",
+    "prodigyNotVerifyCertification": "Prodigy EMS ne vérifie pas les informations de certification",
+    "prodigyNotVerifyCertificationTO": "Toutes les certifications doivent être approuvées manuellement par le ministère. ProEMS ne vérifie pas les certifications."
+  },
+  "placeholders": {
+    "certificationLevel": "Choisir le niveau",
+    "certificationName": "Sélectionnez Certification",
+    "certificationNumber": "Entrer un nombre",
+    "state": "--",
+    "city": "Entrer ville",
+    "selectUser": "Sélectionnez l'utilisateur"
+  },
+  "titles": {
+    "addCertification": "Ajouter une certification",
+    "certifications": "Certifications",
+    "deleteCertification": "Supprimer la certification",
+    "noCertifications": "Aucune certification trouvée",
+    "manageCertification": "Gérer la certification"
+  }
+}

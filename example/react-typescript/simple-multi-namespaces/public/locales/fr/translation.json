@@ -1,0 +1,210 @@
+{
+  "actions": {
+    "dateRange": {
+      "endDatePlaceholder": "Date de fin",
+      "startDatePlaceholder": "Date de début"
+    },
+    "sortByName": {
+      "directionDown": "A - Z",
+      "directionUp": "Z - A",
+      "title": "Nom"
+    },
+    "sortByUpdatedAt": {
+      "directionDown": "Descendante",
+      "directionUp": "Ascendante",
+      "title": "Date de sortie"
+    }
+  },
+  "buttons": {
+    "apply": "Appliquer",
+    "backToProdigy": "Retour à Prodigy",
+    "cancel": "Annuler",
+    "clearSelection": "Effacer la sélection",
+    "continue": "Continuer",
+    "continueClass": "Continuer la classe",
+    "export": "Exportation",
+    "getInTouch": "Entrer en contact",
+    "gotIt": "J'ai compris",
+    "markComplete": "Marquer comme terminé",
+    "ok": "D'accord",
+    "openLink": "Ouvrir le lien",
+    "register": "S'inscrire",
+    "removeSelected": "Enlever la sélection",
+    "retry": "Réessayez",
+    "selectAll": "Tout sélectionner",
+    "submitAnswers": "Soumettre les réponses",
+    "today": "Aujourd'hui",
+    "unregister": "Se désinscrire",
+    "exit": "Sortir",
+    "delete": "Effacer"
+  },
+  "descriptions": {
+    "notFound": "La page que vous recherchez n'a pas pu être trouvée. Il peut avoir été supprimé, renommé ou n'avoir jamais existé.",
+    "confirmUnsavedChanges": "Les modifications que vous avez apportées ne sont pas encore enregistrées ! Es-tu sûre de vouloir annuler?",
+    "takeTypes": {
+      "distributive": "Distributif",
+      "distributiveAndLive": "Distributif et en direct",
+      "live": "Vivre",
+      "liveOnline": "En direct en ligne",
+      "liveInPerson": "En direct en personne"
+    }
+  },
+  "formatters": {
+    "certificationNumber": "Cert #{{certNumber}}",
+    "hoursDescription_one": "{{count}} heure",
+    "hoursDescription_other": "{{count}} heures",
+    "imageFor": "image pour {{target}}",
+    "sessions_one": "Session de {{count}}",
+    "sessions_other": "{{count}} sessions",
+    "takeDate": "{{takeType}} le {{date}}",
+    "timeDuration": "<0> Heure: </0> {{duration}}",
+    "timeInterval": "{{from}} à {{to}}"
+  },
+  "header": {
+    "userPicker": {
+      "admin": "Administrateur",
+      "logout": "Se déconnecter",
+      "manageProfile": "Gérer le profil"
+    }
+  },
+  "labels": {
+    "active": "Actif",
+    "assignedBy": "Assigné par",
+    "assignedTo": "Assigné à",
+    "capceNumber": "Accréditation#",
+    "certificate": "Certificat",
+    "certName": "Nom du certificat",
+    "classBundle": "Bundle de classe",
+    "className": "Nom du cours",
+    "classStatus": {
+      "completed": "Complété",
+      "inProgress": "En cours",
+      "registered": "Inscrit",
+      "started": "A débuté"
+    },
+    "classType": "Type de classe",
+    "clearFile": "Effacer le fichier",
+    "closeAllSections": "Fermer toutes les sections",
+    "complete": "Compléter",
+    "correctAnswer": "Bonne réponse",
+    "creditHours": "Des heures de credit",
+    "creditTypes": {
+      "credit": "Crédit",
+      "nonCredit": "Non-crédit"
+    },
+    "daysRemaining": "Jours restant",
+    "dueDate": "Date d'échéance",
+    "duration": "Durée",
+    "expirationDate": "Date d'expiration",
+    "expired": "Expiré",
+    "expires": "Expire",
+    "expiresOn": "Expire le",
+    "inactive": "Inactif",
+    "incomplete": "Incomplet",
+    "loadingText": "Chargement...",
+    "next7Days": "7 Prochains Jours",
+    "next30Days": "30 Prochains Jours",
+    "next60Days": "60 Prochains Jours",
+    "openAllSections": "Ouvrir toutes les sections",
+    "overdue": "En retard",
+    "presentedBy": "Présenté par",
+    "purchaseDate": "date d'achat",
+    "rememberMe": "Souviens-toi de moi",
+    "saveCardInfo": "Enregistrez les informations de la carte pour un paiement facile",
+    "status": "Statut",
+    "takeType": "Type de prise",
+    "today": "Aujourd'hui",
+    "uploadingText": "Téléchargement",
+    "uploadQuiz": "Télécharger le questionnaire via .CSV",
+    "uploadVideo": "Télécharger une video",
+    "useNewPaymentMethod": "Utiliser un nouveau mode de paiement",
+    "userName": "Nom d'utilisateur",
+    "yourResponse": "Votre réponse",
+    "searchTheList": "Rechercher dans la liste",
+    "uploadAudio": "Télécharger l'audio",
+    "loadingMedia": "Chargement du média...",
+    "selectRange": "Sélectionnez une gamme"
+  },
+  "nav": {
+    "assignments": "Affectations",
+    "bundles": "Liasses",
+    "catalog": "Catalogue de classe",
+    "classes": "Classes",
+    "certifications": "Certifications",
+    "dashboard": "Tableau de bord",
+    "department": "département",
+    "reporting": "Rapports",
+    "resources": "Ressources",
+    "trainingPlans": "Plans de formation",
+    "transcripts": "Transcriptions",
+    "users": "Utilisateurs",
+    "subNav": {
+      "reports": {
+        "systemReports": "Rapports Système",
+        "customReports": "Rapports Personnalisés",
+        "recertificationSnapshot": "Progrès du plan de formation",
+        "userClassRecord": "Enregistrement de Classe",
+        "userCertification": "Certification",
+        "classStatistics": "Statistiques de Classe",
+        "featureAvailableSoon": "Cette fonctionnalité sera bientôt disponible."
+      }
+    }
+  },
+  "placeholders": {
+    "allClasses": "Toutes les classes",
+    "assignedBy": "Assigné par",
+    "cardHolderName": "Nom du titulaire",
+    "chooseOption": "Choisis une option",
+    "className": "Nom du cours",
+    "confirmPassword": "Confirmez le mot de passe",
+    "country": "Pays",
+    "creditType": "Type de crédit",
+    "dragAndDrop": "Glisser déposer\nou alors\nCliquez pour télécharger",
+    "dueDate": "Date d'échéance",
+    "email": "E-mail",
+    "expirationDate": "Date d'expiration",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "organization": "Organisation",
+    "password": "Mot de passe",
+    "referralCode": "Code de Parrainage",
+    "status": "Statut"
+  },
+  "titles": {
+    "allCertNames": "Tous les noms de certificats",
+    "allClasses": "Toutes les classes",
+    "allCreditTypes": "Tous les types de crédit",
+    "allDueDates": "Toutes les dates d'échéance",
+    "allExpirationDates": "Toutes les dates d'expiration",
+    "allStatuses": "Tous les statuts",
+    "allUsers": "Tous les utilisateurs",
+    "conferenceSponsors": "Commanditaires de la conférence",
+    "error": "Erreur",
+    "notFound": " Oups! On dirait qu'il n'y a rien ici.",
+    "overview": "Aperçu",
+    "stillNeedHelp": "Encore besoin d'aide?",
+    "changesWillBeLost": "Les modifications seront perdues",
+    "paymentPastDue": "<0>Attention requise</0> : le paiement de votre service est en retard. veuillez contacter <1>{{email}}</1>",
+    "featureDisabled": "Votre département n'a pas accès à cette fonctionnalité."
+  },
+  "validations": {
+    "minLength": "Doit contenir au moins {{min}} caractères",
+    "required": "Obligatoire",
+    "fileTypesAndSize": "Le fichier doit être {{types}} inférieur à {{size}}.",
+    "certificationNumberFormat": "Doit être une lettre suivie de 7 chiffres décimaux"
+  },
+  "words": {
+    "ago": "depuis",
+    "all": "Tout",
+    "and": "et",
+    "days": "journées",
+    "false": "Faux",
+    "individuals": "personnes",
+    "perPage": "par page",
+    "true": "Vrai",
+    "yes": "Oui"
+  },
+  "attestation": {
+    "audio": "En cliquant sur le bouton \"Marquer comme terminé\", j'atteste que j'ai écouté l'épisode du podcast sur une autre plateforme."
+  }
+}

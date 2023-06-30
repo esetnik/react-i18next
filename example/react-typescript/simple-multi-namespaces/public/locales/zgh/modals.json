@@ -1,0 +1,77 @@
+{
+  "classCompletionSuccess": {
+    "message": "ⵍⵇⴷ ⴰⴽⵎⵍⵜ ⴱⵏⵊⴰⵃ <0> {{className}} </0>.",
+    "title": "ⵜⵀⴰⵏⵉⵏⴰ!"
+  },
+  "makePurchase": {
+    "buttons": {
+      "cancelPayment": "ⴰⵍⵖⴰ ⴰⵍⴷⴼⵄ",
+      "purchaseFor": "ⵛⵔⴰ ⵍـ"
+    },
+    "labels": {
+      "hasPaymentMethods": "ⴰⴽⵎⵍ ⵀⴷⴰ ⴰⵍⵛⵔⴰ ⵄⵏ ⵟⵔⵉⵇ ⴰⵅⵜⵢⴰⵔ ⴰⵍⴷⴼⵄ ⴰⴷⵏⴰⵀ.",
+      "noPaymentMethods": "ⴰⴽⵎⵍ ⵀⴷⴰ ⴰⵍⵛⵔⴰ ⴱⵉⴷⵅⴰⵍ ⵎⵄⵍⵓⵎⴰⵜ ⴱⵟⴰⵇⵜⴽ ⴰⵍⴰⵉⵜⵎⴰⵏⵢⴰ ⴰⴷⵏⴰⵀ."
+    },
+    "messages": {
+      "discountApplied": "ⴰⵍⵅⵚⵎ ⵇⴷ ⵜⵎ"
+    },
+    "placeholders": {
+      "couponCode": "ⵔⵎⵣ ⴰⵍⴽⵓⴱⵓⵏ"
+    },
+    "title": "ⵛⵔⴰ - {{purchaseName}}"
+  },
+  "outsideCompletion": {
+    "buttons": {
+      "add": "ⵉⴹⴰⴼⴰ ⴰⵙⵜⴽⵎⴰⵍ ⵅⴰⵔⵊⵉ",
+      "delete": "ⵃⴷⴼ ⴰⵙⵜⴽⵎⴰⵍ ⵅⴰⵔⵊⵉ",
+      "saveChanges": "ⵃⴼⵥ ⴰⵍⵜⵖⵉⵢⵔⴰⵜ"
+    },
+    "confirmModal": {
+      "destructiveButtonTitle": "ⵃⴷⴼ ⴰⵙⵜⴽⵎⴰⵍ ⵅⴰⵔⵊⵉ",
+      "message": "ⵍⵏ ⵢⵥⵀⵔ ⴱⵄⴷ ⴷⵍⴽ ⴽⵊⵣ ⵎⵏ ⵙⵊⵍ ⴰⵍⵜⴷⵔⵉⴱ ⴰⵍⵅⴰⵚ ⴱⴽ.",
+      "title": "ⵀⵍ ⴰⵏⵜ ⵎⵜⴰⴽⴷ ⴰⵏⴽ ⵜⵔⵉⴷ ⵃⴷⴼ ⴰⵍⵉⴽⵎⴰⵍ ⴰⵍⵅⴰⵔⵊⵉ?"
+    },
+    "description": "ⵍⴰ ⵢⵜⵎ ⴰⵍⵜⵃⵇⴻⵇ ⵎⵏ ⴰⵍⵉⴽⵎⴰⵍⴰⵜ ⴰⵍⵅⴰⵔⵊⵢⴰ ⵡⴰⵍⴼⵢⴰⵜ ⴰⵍⵎⵔⵜⴱⵟⴰ ⴱⵀⴰ ⴱⵡⴰⵙⵟⴰ Prodigy.",
+    "labels": {
+      "approvalNumber": "ⵄⴷⴻⴷ ⴰⵍⵎⵡⴰⴼⵇⵜ",
+      "certificateUpload": "ⵜⵃⵎⵉⵍ ⴰⵍⵛⵀⴰⴷⵜ",
+      "classCategory": "ⴼⵢⴰ ⴰⵍⵚⴼ",
+      "completionDate": "ⵎⵓⵄⴷ ⴰⵍⵉⴽⵎⴰⵍ",
+      "creditHours": "ⴰⵍⵙⴰⵄⴰⵜ ⴰⵍⵎⵄⵜⵎⴷⵜ"
+    },
+    "placeholders": {
+      "approvalNumber": "ⵔⵇⵎ ⴰⵍⵎⵡⴰⴼⵇⴰ ⵍⴻⵍⵚⴼ (ⴰⵅⵜⵢⴰⵔⵉ)",
+      "classCategory": "ⴰⵅⵜⵔ ⴼⵢⴰ ⴰⵍⵚⴼ",
+      "className": "ⴰⵙⵎ ⴰⵍⵚⴼ",
+      "creditHours": "ⵎⴷⴰ ⴰⵍⵚⴼ"
+    },
+    "titleAdd": "ⵉⴹⴰⴼⴰ ⵉⴽⵎⴰⵍ ⵅⴰⵔⵊⵉ - {{requirementsGroupName}}",
+    "titleEdit": "ⵜⵄⴷⵉⵍ ⴰⵍⵉⴽⵎⴰⵍ ⴰⵍⵅⴰⵔⵊⵉ - {{requirementsGroupName}}"
+  },
+  "paymentComplete": {
+    "message": "ⵍⵇⴷ ⴰⵛⵜⵔⵉⵜ ⴱⵏⵊⴰⵃ <0> {{purchaseName}} </0>",
+    "title": "ⴰⵍⴷⴼⵄ ⵜⵎ!"
+  },
+  "purchase": {
+    "buttons": {
+      "purchaseClass": "ⵛⵔⴰ ⴰⵍⵚⴼ",
+      "seeClassBundles": "ⵄⵔⴹ ⵃⵣⵎ ⴰⵍⵚⴼ"
+    },
+    "messages": {
+      "individualPurchaseAllowed": "ⵢⵎⴽⵏ ⵛⵔⴰ ⵀⴷⴰ ⴰⵍⵚⴼ ⴱⵛⴽⵍ ⴼⵔⴷⵉ ⴰⵡ ⴽⵊⵣ ⵎⵏ ⵃⵣⵎⴰ ⴰⵍⵚⴼ.",
+      "individualPurchaseNotAllowed": "ⵢⵊⴱ ⵛⵔⴰ ⵀⴷⴰ ⴰⵍⵚⴼ ⴽⵊⵣ ⵎⵏ ⵃⵣⵎⴰ ⴰⵍⵚⴼ."
+    },
+    "title": "ⵛⵔⴰ - {{className}}"
+  },
+  "registrationSuccess": {
+    "messages": {
+      "available": "ⵙⵉⴽⵓⵏ ⵔⴰⴱⵟ ⴰⵍⵚⴼ ⵀⴷⴰ ⵎⵜⴰⵃⴰ ⵇⴱⵍ ⴱⴷ ⴰⵍⵚⴼ ⴰⵍⴷⵔⴰⵙⵉ ⴱـ <0> {{minutesAvailableBefore}} <> ⴷⵇⵉⵇⵜ. ⴰⵔⵊⵄ ⵉⵍⴰ ⵀⴷⴰ ⴰⵍⵚⴼⵃⴰ <0> {{minutesAvailableBefore}} ⵇⴱⵍ ⴷⵇⴰⵉⵇ ⵎⵏ ⴱⴷ ⴰⵍⵚⴼ ⵍⴻⵍⴷⵅⵓⵍ ⵉⵍⴰ ⴰⵍⵚⴼ ⴰⵍⴰⴼⵜⵔⴰⴹⵉ.",
+      "general": "ⵍⵇⴷ ⵙⵊⵍⵜ ⴱⵏⵊⴰⵃ ⴼⵉ ⴼⵢⴰ <0> {{takeType}} </0> ⵎⵏ <0> {{className}} </0> ⴼⵉ <0> {{sessionStartString}} </0>."
+    },
+    "title": "ⵙⵊⵍⵜ ⴱⵏⵊⴰⵃ!"
+  },
+  "unregisterConfirmation": {
+    "message": "ⴰⵏⵜ ⵄⵍⴰ ⵡⵛⴽ ⵉⵍⵖⴰ ⴰⵍⵜⵙⵊⵉⵍ ⵎⵏ ⵊⵍⵙⴰ ⴰⵍⵚⴼ ⵀⴷⵀ. ⵙⵉⵜⵎ ⴼⵇⴷⴰⵏ ⴰⵍⵜⵇⴷⵎ ⴰⵍⵎⵃⵔⵣ ⴰⵍⵅⴰⵚ ⴱⴽ. ⵀⵍ ⴰⵏⵜ ⵎⵜⴰⴽⴷ ⴰⵏⴽ ⵜⵔⵉⴷ ⵉⵍⵖⴰ ⴰⵍⵜⵙⵊⵉⵍ ⵎⵏ ⵀⴷⴰ ⴰⵍⵚⴼ?",
+    "title": "ⴰⵍⵖⴰ ⴰⵍⵜⵙⵊⵉⵍ"
+  }
+}

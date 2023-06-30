@@ -1,0 +1,46 @@
+{
+  "addEditAssignment": {
+    "buttons": {
+      "assignClass": "إسناد الصف",
+      "deleteAssignment": "حذف الإسناد",
+      "saveChanges": "حفظ التغييرات"
+    },
+    "labels": {
+      "assignDate": "تاريخ الإسناد",
+      "assignedUsers": "المستخدمين المسند إليهم",
+      "excludeAnyone": "إستبعاد اي مستخدم قام بأخذ الصف في الـ١٢ شهر الماضية",
+      "users": "المستخدمين",
+      "usersSelected": "المستخدمين المختارين"
+    },
+    "messages": {
+      "backToAssignments": "العودة الى الإسنادات"
+    },
+    "titles": {
+      "addAssignment": "إضافة إسناد",
+      "manageAssignment": "إدارة الإسنادات"
+    }
+  },
+  "manageAssignments": {
+    "buttons": {
+      "addAssignment": "إضافة إسناد",
+      "removeAssignments": "حذف إسناد"
+    },
+    "messages": {
+      "removeAssignments": "أنت على وشك حذف الإسنادات للمستخدمين المختارين. لا يمكنك التراجع عن هذا الفعل. هل تريد الإكمال؟"
+    },
+    "placeholders": {
+      "noAssignments": "لا يوجد اي إسنادات"
+    },
+    "titles": {
+      "assignments": "الإسنادات",
+      "individualRecords": "سجلات الأفراد",
+      "removeAssignment": "حذف الإسناد"
+    }
+  },
+  "userAssignments": {
+    "placeholders": {
+      "noAssignedClasses": "لا يوجد صفوف مسندة"
+    },
+    "title": "الإسنادات"
+  }
+}

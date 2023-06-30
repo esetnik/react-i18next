@@ -1,0 +1,77 @@
+{
+  "classCompletionSuccess": {
+    "message": "You have successfully completed <0>{{className}}</0>.",
+    "title": "Congratulations!"
+  },
+  "makePurchase": {
+    "buttons": {
+      "cancelPayment": "Cancel Payment",
+      "purchaseFor": "Purchase for"
+    },
+    "labels": {
+      "hasPaymentMethods": "Complete this purchase by selecting payment below.",
+      "noPaymentMethods": "Complete this purchase by entering your credit card information below."
+    },
+    "messages": {
+      "discountApplied": "discount applied"
+    },
+    "placeholders": {
+      "couponCode": "Coupon code"
+    },
+    "title": "Purchase - {{purchaseName}}"
+  },
+  "outsideCompletion": {
+    "buttons": {
+      "add": "Add Outside Completion",
+      "delete": "Delete Outside Completion",
+      "saveChanges": "Save Changes"
+    },
+    "confirmModal": {
+      "destructiveButtonTitle": "Delete Outside Completion",
+      "message": "It will no longer appear as part of your training record.",
+      "title": "Are you sure you want to delete the outside completion?"
+    },
+    "description": "Outside completions and the categories they are associated with are not verified by Prodigy.",
+    "labels": {
+      "approvalNumber": "Approval Number",
+      "certificateUpload": "Certificate Upload",
+      "classCategory": "Class Category",
+      "completionDate": "Completion Date",
+      "creditHours": "Credit Hours"
+    },
+    "placeholders": {
+      "approvalNumber": "The approval number for the class (optional)",
+      "classCategory": "Choose a class category",
+      "className": "The name of the class",
+      "creditHours": "The duration of the class"
+    },
+    "titleAdd": "Add Outside Completion - {{requirementGroupName}}",
+    "titleEdit": "Edit Outside Completion - {{requirementGroupName}}"
+  },
+  "paymentComplete": {
+    "message": "You’ve successfully purchased <0>{{purchaseName}}</0>",
+    "title": "Payment Complete!"
+  },
+  "purchase": {
+    "buttons": {
+      "purchaseClass": "Purchase class",
+      "seeClassBundles": "See Class bundles"
+    },
+    "messages": {
+      "individualPurchaseAllowed": "This class can be purchased individually or as part of a class bundle.",
+      "individualPurchaseNotAllowed": "This class must be purchased as part of a class bundle."
+    },
+    "title": "Purchase - {{className}}"
+  },
+  "registrationSuccess": {
+    "messages": {
+      "available": "This class link will be available\n<0>{{minutesAvailableBefore}}</0> minutes before the start\nof the class. Return to this page\n<0>{{minutesAvailableBefore}}</0> minutes before the start\nof the class to enter the virtual classroom.",
+      "general": "You’ve successfully registered for the <0>{{takeType}}</0>\nclass of <0>{{className}}</0> on\n<0>{{sessionStartString}}</0>."
+    },
+    "title": "Successfully Registered!"
+  },
+  "unregisterConfirmation": {
+    "message": "You are about to unregister from this class session. Your progress\nwill be lost. Are you sure you want to unregister from this class?",
+    "title": "Unregister"
+  }
+}

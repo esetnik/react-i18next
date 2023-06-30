@@ -1,0 +1,85 @@
+{
+  "names": {
+    "recertificationSnapshot": "Training Plan Progress Report",
+    "classRecord": "Class Record Report",
+    "classStatistics": "Class Statistics Report",
+    "userCertification": "User Certification Report"
+  },
+  "descriptions": {
+    "recertificationSnapshot": "This report allows you as a training officers to get a single view to track the progress of your provider's training requirements.",
+    "classRecord": "This reports allows you as a training officer to report on individual class completion records.",
+    "classStatistics": "Get general statics on all organizational classes.",
+    "userCertification": "This reports allows you as a training officer to report on individual users certification status."
+  },
+  "labels": {
+    "selectDateRange": "Select A Date Range"
+  },
+  "placeholders": {
+    "noRecords": "No records found"
+  },
+  "filters": {
+    "class": "Class",
+    "user": "User",
+    "allUsers": "All Users",
+    "completionStatus": {
+      "complete": "Complete",
+      "incomplete": "Incomplete"
+    },
+    "registrationStatus": {
+      "registered": "Registered",
+      "notRegistered": "Not Registered"
+    }
+  },
+  "columns": {
+    "progress": "Progress",
+    "progressPercent": "Progress %",
+    "renewalDate": "Renewal Date",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "fullName": "Name",
+    "email": "Email",
+    "state": "State",
+    "certNumber": "Cert #",
+    "status": "Status",
+    "certificationLevel": "Certification Level",
+    "city": "City",
+    "dateEntered": "Date Entered",
+    "dateModified": "Date Modified",
+    "issuedAt": "Issued At",
+    "expirationDate": "Expiration Date",
+    "certName": "Cert Name",
+    "trainingPlanName": "Training Plan Name",
+    "trainingPlanStatus": "Training Plan Status",
+    "requirementGroupName": "Requirement Group Name",
+    "averageQuizScore": "Average Quiz Score",
+    "totalFails": "Total Fails",
+    "registered": "Registered",
+    "completed": "Completed",
+    "className": "Class Name",
+    "deleted": "Deleted",
+    "takeType": "Take Type",
+    "dateRegistered": "Date Registered",
+    "dateCompleted": "Date Completed",
+    "scheduled": "Scheduled At",
+    "complete": "Complete",
+    "inProgress": "In Progress",
+
+    "id": "ID",
+    "userId": "User ID",
+    "departmentId": "Department ID",
+    "trainingPlanId": "Training Plan ID",
+    "certHexId": "Cert Hex ID",
+    "certNameRefId": "Cert Name Ref ID",
+    "certId": "Cert ID",
+    "quizId": "Quiz ID",
+    "classId": "Class ID",
+    "classSessionUserHexId": "Class Session User Hex ID",
+    "classSessionUserId": "Class Session User ID",
+    "classSessionId": "Class Session ID",
+    "classHexId": "Class Hex ID",
+    "certNameId": "Cert Name Ref ID",
+    "certID": "Cert ID",
+    "certificationImageId": "Certification Image ID",
+    "userHexId": "User Hex ID"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "buttons": {
+    "continue": "Continuer",
+    "continueClass": "Continuer la classe",
+    "continueClassNow": "Continuez le cours maintenant",
+    "downloadTemplate": "Télécharger le modèle",
+    "goToClass": "Aller en classe",
+    "saveAsDraft": "Enregistrer comme brouillon",
+    "submit": "Soumettre",
+    "takeClass": "Prendre un cours",
+    "takeClassNow": "Suivez le cours maintenant",
+    "takeQuiz": "Répondez à un quiz",
+    "save": "sauver",
+    "saveAndPublish": "Enregistrer et publier",
+    "updateClass": "Mettre à jour la classe",
+    "addLiveSession": "Ajouter une session en direct",
+    "backTo": "Retour à",
+    "createNewSection": "Créer une nouvelle section",
+    "addContent": "Ajouter du contenu",
+    "addQuizQuestions": "Ajouter une question de quiz",
+    "continueUploading": "Continuer le téléchargement",
+    "deleteSection": "Supprimer la rubrique",
+    "uploadFile": "Téléverser un fichier",
+    "uploading": "Téléchargement",
+    "addAnswer": "Ajouter une réponse",
+    "registerForSession": "enregistrer pour {{type}}",
+    "shareClass": "Catégorie d'actions"
+  },
+  "filters": {
+    "labels": {
+      "credit": "Crédit",
+      "distributive": "Distributif",
+      "inProgress": "En cours",
+      "live": "Vivre",
+      "nonCredit": "Non-crédit",
+      "purchased": "Acheté",
+      "registered": "Inscrit"
+    },
+    "placeholders": {
+      "searchClasses": "Rechercher des classes",
+      "searchDrafts": "Rechercher des brouillons"
+    },
+    "titles": {
+      "availableOrPurchased": "Disponible / acheté",
+      "classStatus": "Statut de la classe",
+      "classType": "Type de classe",
+      "creditType": "Type de crédit",
+      "liveClassDate": "Date du cours en direct"
+    }
+  },
+  "labels": {
+    "classDescription": "Description de la classe:",
+    "correct": "Corriger",
+    "className": "Nom du cours",
+    "draftName": "Nom provisoire",
+    "headline": "Gros titre",
+    "classImage": "Image de classe",
+    "durationHours": "Durée (heures)",
+    "invalidTime": "Heure invalide, par ex. 12:00",
+    "description": "La description",
+    "distributive": "Distributive",
+    "live": "Vivre",
+    "incorrect": "Incorrect",
+    "nonCredit": "Ceci est une classe sans crédit",
+    "classVisibility": "Visibilité de classe",
+    "classVisibilityOptions": {
+      "visible": "<0>Visible</0>. Accessible via le catalogue de cours, lien direct vers le cours ou les utilisateurs auxquels le cours a été attribué.",
+      "hidden": "<0>Caché</0>. Accessible uniquement par lien direct vers la classe ou par les utilisateurs auxquels la classe a été affectée.",
+      "assignedOnly": "<0>Attribué uniquement</0>. Accessible uniquement par les utilisateurs auxquels la classe a été affectée."
+    },
+    "percentage": "Pourcentage",
+    "questionNumber": "Question {{number}} sur {{total}}",
+    "questionsCorrect": "{{correct}} sur {{total}}",
+    "score": "But",
+    "segmentsComplete": "<0> {{segmentCompleteCount}} </0> segments terminés sur <0> {{segmentCount}} </0>",
+    "segmentStatuses": {
+      "Complete": "Compléter",
+      "In Progress": "En cours",
+      "None": "Rien"
+    },
+    "segmentTypeNames": {
+      "audioLink": "L'audio",
+      "checkInQuestion": "Question d'enregistrement ",
+      "externalLink": "lien externe",
+      "quiz": "Quiz",
+      "reading": "En train de lire",
+      "video": "Vidéo",
+      "youtube": "Lien vidéo",
+      "audio": "Audio",
+      "text": "Texte"
+    },
+    "addSegmentTypeNames": {
+      "audioLink": "Lien audio",
+      "checkInQuestion": "Quiz de vérification",
+      "externalLink": "Lien externe",
+      "reading": "Télécharger un document",
+      "video": "Télécharger une video",
+      "youtube": "Lien vidéo",
+      "audio": "Télécharger l'audio",
+      "text": "Texte"
+    },
+    "shortAnswer": "Entrer la réponse",
+    "shortAnswerLimit": "Limite maximale de {{charactersLimit}} caractères",
+    "status": "Statut",
+    "active": "Actif",
+    "statusValues": {
+      "active": "Actif",
+      "inactive": "Inactif",
+      "draft": "Brouillon"
+    },
+    "takeTypes": "Types de prises",
+    "creditHours": "Heures de crédit",
+    "duration": "Durée",
+    "durationMinutes": "Durée (minutes)",
+    "nextLive": "Prochain direct",
+    "nextLiveNoneScheduled": "Aucun planifié",
+    "addContent": "Ajouter du contenu",
+    "liveClass": {
+      "date": "Date",
+      "start": "Commencer",
+      "end": "Fin",
+      "link": "Lien"
+    },
+    "shuffleQuestions": "Mélanger les questions du quiz ?",
+    "shuffleAnswers": "Mélanger les réponses?",
+    "questions": "Des questions",
+    "question": "Question",
+    "answers": "Réponses",
+    "answer": "Réponse",
+    "correctAnswers": "Réponses correctes",
+    "correctAnswer": "Bonne réponse",
+    "questionType": "Type de question",
+    "feedback": "Retour d'information",
+    "questionsTypes": {
+      "multiple-choice": "Choix multiples - Sélection unique",
+      "choose-many": "Choix multiples - Sélection multiple",
+      "true-false": "Vrai ou faux"
+    },
+    "overview": "Aperçu",
+    "materials": "Matériaux",
+    "contentName": "Nom du contenu",
+    "quizName": "Nom du questionnaire",
+    "uploadedVideo": "Vidéo téléchargée",
+    "remove": "Retirer",
+    "uploadInProgress": "Téléchargement en cours",
+    "preventSeeking": "Empêcher la recherche ? S'il est sélectionné, l'élève ne pourra pas avancer rapidement dans ce contenu.",
+    "autoplay": "Lire le contenu automatiquement ? Si sélectionné, le média sera lu sans intervention de l'utilisateur (uniquement disponible sur les navigateurs pris en charge).",
+    "deleteSection": "Confirmer la suppression de la section",
+    "passingScore": "Note de passage %",
+    "classTags": "Balises de classe",
+    "true": "Vrai",
+    "false": "Faux",
+    "lastUpdatedOn": "Dernière mise à jour le",
+    "charactersLeft": "caractères restants",
+    "deleteDraft": "Supprimer le brouillon",
+    "releaseDate": "Date de sortie",
+    "uploadedAudio": "Audio téléchargé",
+    "removeMedia": "Supprimer le média",
+    "online": "En ligne",
+    "inPerson": "En personne",
+    "showCorrectAnswers": "Afficher les bonnes réponses ? Une fois que l'utilisateur a tenté le quiz, affichez les bonnes réponses.",
+    "instructions": "Instructions",
+    "howToEnterLiveClass": "Comment entrer dans la classe",
+    "section": "Section",
+    "thumbnail": "Vignette",
+    "text": "Texte",
+    "pickAClass": "Choisissez une classe",
+    "pickADepartment": "Choisissez un département",
+    "pickAClassToShare": "Choisissez une classe à partager",
+    "pickADepartmentToShareWith": "Choisissez un département avec qui partager"
+  },
+  "manageClasses": {
+    "titles": {
+      "classes": "Classes",
+      "prodigyClasses": "Classes Prodigy",
+      "organizationClasses": "Classes d'organisation",
+      "organizationDrafts": "Brouillons d'organisation",
+      "sharedClasses": "Cours partagés"
+    },
+    "placeholders": {
+      "noClasses": "Aucune classe trouvée",
+      "noDrafts": "Aucun brouillon trouvé"
+    },
+    "buttons": {
+      "addClass": "Ajouter une classe",
+      "editClassLiveSessions": "Modifier les sessions en direct",
+      "completeClass": "Classe complète pour l'utilisateur"
+    },
+    "validations": {
+      "maxTags": "Vous ne pouvez pas ajouter plus de {{maxTags}} balises",
+      "tagLength": "Vous ne pouvez pas ajouter de balise de plus de {{tagLength}} caractères"
+    }
+  },
+  "classEdit": {
+    "buttons": {
+      "editClassDetails": "Modifier les détails",
+      "editClassLiveSessions": "Modifier les sessions en direct",
+      "editDistributiveContent": "Modifier le contenu",
+      "editClassQuiz": "Modifier le questionnaire"
+    },
+    "liveSessions": {
+      "title": "Séances de cours en direct",
+      "description": "Planifiez des sessions de cours en direct avec des instructions en personne. Vous pourrez modifier toutes les sessions en direct à venir.",
+      "noLiveSessions": "Aucune session en direct n'est prévue pour ce cours. Essayez d'en ajouter une."
+    },
+    "distributiveContent": {
+      "title": "Aperçu de la classe distributive",
+      "noContent": "Cette classe n'a pas de contenu distributif. essayez d'ajouter de nouveaux segments."
+    },
+    "quiz": {
+      "title": "Questionnaire de classe",
+      "labels": {
+        "totalClassRegistrations": "Nombre total d'inscriptions aux cours",
+        "completedClasses": "Cours terminés",
+        "averageQuizScore": "Score moyen du questionnaire",
+        "averageAttempts": "Nombre moyen de tentatives"
+      },
+      "messages": {
+        "totalClassRegistrations": "Tous les utilisateurs enregistrés pour tous les types de cours",
+        "completedClasses": "<0>{{percentage}} %</0> des utilisateurs enregistrés ont terminé ce cours",
+        "averageQuizScore": "Tout le temps à travers toutes les tentatives",
+        "averageAttempts": "Nombre de fois que le quiz est pris pour réussir"
+      }
+    }
+  },
+  "messages": {
+    "materialsError": "Une erreur s'est produite lors du chargement des matériaux. Actualisez la page pour réessayer.",
+    "noMaterials": "Pas de matériel pour ce cours.",
+    "back": "Dos",
+    "backToClass": "Retour en classe",
+    "backToClassDetails": "Retour aux détails du cours",
+    "classAvailableAsDistributiveEducation": "Cette classe est disponible en tant qu'éducation distributive. Veuillez noter que certaines recertifications ne permettent qu'un certain nombre de classes distributives.",
+    "classCanTakenDistributive": "Cette classe peut être considérée comme une éducation distributive. Vérifiez votre plan de formation pour connaître les limites de l'éducation distributive.",
+    "classDetailsDescription": "Entrez les informations de base pour cette classe.",
+    "classDistributiveDescription": "Créez des sections de classe, ajoutez du contenu et structurez votre classe personnalisée en fonction des besoins de votre organisation.",
+    "classLiveDescription": "Planifiez des sessions de cours en direct avec des instructions en personne. Vous pourrez ajouter des sessions en direct supplémentaires après la publication du cours.",
+    "classQuizDescription": "Créer un quiz de classe noté. Les utilisateurs devront réussir ce quiz pour terminer le cours.",
+    "classPublishModalDescription": "La publication de cette classe la rendra disponible dans le catalogue de classes de votre organisation. Vous pouvez toujours activer ou désactiver une classe à partir du tableau des classes personnalisées.",
+    "classUpdateModalDescription": "La mise à jour de cette classe rendra ces modifications disponibles dans la classe de votre organisation.",
+    "scheduleLiveSession": "Choisissez une date et une heure et ajoutez un lien pour créer une nouvelle session en direct.",
+    "noSections": "Essayez d'ajouter un nouveau contenu à cette section de cours.",
+    "noQuestions": "Essayez d'ajouter une nouvelle question à ce quiz.",
+    "selectSegmentType": "Sélectionnez le type de contenu que vous souhaitez ajouter à cette classe.",
+    "classNotAvailable": "Ce cours n'est pas disponible pour le moment. S'il vous plaît contactez\nsupport@prodigyems.com si vous avez des questions.",
+    "clickToJoinClass": "Cliquez ici pour rejoindre la classe",
+    "dragAndDropCSV": "Une fois que vous avez rempli le CSV, faites glisser et déposez ou cliquez pour télécharger.",
+    "failedQuiz": "Vous n’avez pas réussi à terminer le quiz avec une note d’achèvement d’au moins {{passScore}}%. Vous devez réussir ce quiz pour recevoir des crédits pour ce cours.",
+    "methodOfDeliveringEMSEducation": "Il s'agit d'une méthode pour dispenser un enseignement EMS où l'éducateur et l'étudiant ne sont pas en mesure d'interagir en temps réel.",
+    "methodOfDeliveringEMSEducationAvailable": "Il s'agit d'une méthode de prestation de l'enseignement EMS où un éducateur est à la disposition de l'élève pour toute question pendant toute la durée du cours. Ces cours sont dispensés par un webinaire en temps réel et comptent comme une formation en direct selon les normes NREMT.",
+    "missingCertification": "Vous devez <0> entrer une certification valide </0> pour obtenir un crédit pour cette classe.",
+    "noResults": "Aucun résultat...",
+    "noUpcomingLiveSessionsAvailable": "Aucune session en direct à venir n'est actuellement disponible. Veuillez réessayer plus tard.",
+    "noWantReceiveCredit": "Vous ne voulez plus recevoir de crédit pour ce cours?",
+    "quizDescription": "Ce quiz doit être complété avec au moins {{passScore}}% de note d'achèvement afin de recevoir un crédit pour ce cours. Le quiz doit être rempli en une seule fois. Si vous quittez ce quiz, tous les progrès seront perdus.",
+    "sessionAvailableToEnterNow": "Cette session est disponible pour participer maintenant et commencera dans",
+    "sessionInProgressAndStarted": "Cette session est déjà en cours et a commencé",
+    "sessionWillAvailableToEnter": "Cette session sera disponible pour participer",
+    "somethingWentWrong": "Une erreur s'est produite lors du chargement des sessions. Veuillez actualiser la page pour réessayer.",
+    "successfullyCompleteQuiz": "Vous avez réussi le quiz.",
+    "takeQuiz": "Répondez au quiz pour terminer cette session de classe",
+    "unableAttendClass": "Impossible d'assister à ce cours?",
+    "unableContinueClass": "Impossible de continuer ce cours?",
+    "unableTakeClass": "Impossible de suivre ce cours?",
+    "useThisTemplate": "Utilisez ce modèle avec des colonnes prédéfinies et remplissez.",
+    "wantSwitchToLive": "Voulez-vous passer en cours en direct?",
+    "youMissedClassSession": "Vous avez manqué cette session de classe. Vous devez vous désinscrire et choisir un\nsession différente pour terminer le cours.",
+    "segmentTypeTexts": {
+      "audioLink": "Ajoutez un lien vers un fichier audio comme un podcast.",
+      "checkInQuestion": "Créez un mini-quiz pour tester les connaissances d'un segment ou d'un contenu spécifique.",
+      "externalLink": "Ajoutez un lien vers un autre site Web, document ou vidéo.",
+      "reading": "Téléchargez un document .pdf sur Prodigy.",
+      "video": "Téléchargez votre propre contenu vidéo sur Prodigy.",
+      "youtube": "Ajoutez un lien vers une vidéo hébergée sur YouTube.",
+      "audio": "Téléchargez votre propre contenu audio sur Prodigy.",
+      "text": "Contenu écrit avec des liens, des listes et des images."
+    },
+    "classWizardInputsInfo": {
+      "classDetailsHeadline": "Il s'agit d'une brève description utilisée pour le catalogue de classes.",
+      "classDetailsDuration": "La durée doit être par incréments de 0,25 heure",
+      "classLiveLink": "Assurez-vous que ce lien ne nécessite pas de connexion supplémentaire et qu'il a été ajouté correctement.",
+      "externalLink": "Assurez-vous que ce lien ne nécessite pas de connexion supplémentaire et qu'il a été ajouté correctement.",
+      "youtube": "Seuls les liens YouTube sont pris en charge pour le moment.",
+      "inPersonInstructions": "Les utilisateurs pourront le voir lors de leur inscription à un cours.",
+      "thumbnail": "Vous pouvez télécharger une vignette pour votre contenu afin d'ajouter un intérêt visuel."
+    },
+    "confirmExitMultipartUpload": "Êtes-vous sûr de vouloir quitter? La progression du téléchargement de votre fichier sera perdue.",
+    "confirmDeleteSection": "Voulez-vous vraiment supprimer cette section ? Les segments de cette section seront également supprimés.",
+    "questionUploadMediaText": "Téléchargez un fichier vidéo, audio ou image à inclure dans la question.",
+    "passingScore": "Entrez un nombre entre 0 et 100",
+    "confirmDeleteDraft": "Cette action est irréversible, êtes-vous sûr de vouloir supprimer le brouillon de ({{draftName}}) ?",
+    "answerUploadMediaText": "Téléchargez un fichier vidéo, audio ou image à inclure dans la réponse.",
+    "noClassAccessDepartmentUser": "Si vous pensez qu'il s'agit d'une erreur, veuillez contacter votre responsable de la formation pour obtenir de l'aide. Ils peuvent vous aider à résoudre tout problème vous empêchant d'accéder aux cours dont vous avez besoin.",
+    "noClassAccessIndividual": "Cette classe est réservée aux utilisateurs du service uniquement. Veuillez contacter le service concerné ou la personne responsable pour plus d'informations sur la façon d'accéder à cette classe ou sur les options alternatives qui peuvent s'offrir à vous.",
+    "shareClassesModal": "Rendez vos cours disponibles pour d'autres départements associés."
+  },
+  "placeholders": {
+    "enterDescription": "Entrez la description",
+    "enterName": "Entrez le nom",
+    "title": "Titre",
+    "sectionName": "Ajouter un nom de section (facultatif)",
+    "enterHeadline": "Entrez le titre",
+    "enterQuestion": "Saisir la question",
+    "enterFeedback": "Saisissez vos commentaires",
+    "enterDuration": "Entrez la durée en minutes",
+    "segmentsForms": {
+      "audio": "Coller le lien audio",
+      "externalLink": "Coller le lien externe",
+      "youtube": "Coller le lien vidéo"
+    },
+    "enterQuizName": "Entrez le nom du questionnaire",
+    "enterPassingScore": "Entrez la note de passage",
+    "classTags": "Commencez à saisir un nom de balise",
+    "enterText": "Entrez du texte"
+  },
+  "titles": {
+    "classCatalog": "Catalogue de classe",
+    "classDetails": "Détails de la classe",
+    "classDistributive": "Contenu de la classe distributive",
+    "classLive": "Cours en direct",
+    "classQuiz": "Questionnaire de classe",
+    "classPublishModal": "Souhaitez-vous publier cette classe?",
+    "classUpdateModal": "Souhaitez-vous mettre à jour cette classe?",
+    "scheduleLiveSession": "Planifier une session en direct",
+    "classInProgress": "Cours en cours",
+    "classMissed": "Classe manquée",
+    "classNotAvailable": "Classe non disponible",
+    "continueDistributiveClass": "Continuer la classe distributive",
+    "distributiveClasses": "Classes distributives",
+    "downloadTemplate": "Étape 1: Télécharger le modèle",
+    "liveClasses": "Cours en direct",
+    "registerForLiveClasses": "Inscrivez-vous aux cours en direct",
+    "startDistributiveClass": "Démarrer la classe distributive",
+    "takeQuiz": "Répondez au quiz",
+    "upcomingClass": "Classe à venir",
+    "uploadCSV": "Étape 2: Téléchargez le fichier CSV",
+    "noClassAccess": "Oops! Il semble que vous n'ayez pas l'accès nécessaire à cette classe.",
+    "shareClass": "Catégorie d'actions"
+  },
+  "validations": {
+    "classImageUploadRequirements": "L'image doit être {{types}} sous {{size}}. Taille minimale : {{minimumSize}} (rapport d'aspect {{aspectRatio}})."
+  }
+}

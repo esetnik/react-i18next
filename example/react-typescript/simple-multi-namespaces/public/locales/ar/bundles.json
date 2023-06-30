@@ -1,0 +1,16 @@
+{
+  "buttons": {
+    "purchaseFor": "الشراء لـ"
+  },
+  "messages": {
+    "back": "الرجوع"
+  },
+  "placeholders": {
+    "noBundleClasses": "لا يوجد حزم صفوف",
+    "noBundles": "لا يوجد حزم"
+  },
+  "titles": {
+    "exploreBundles": "استكشاف الحزم",
+    "manageBundles": "إدارة الحزم"
+  }
+}

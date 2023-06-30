@@ -1,0 +1,57 @@
+{
+  "buttons": {
+    "addCertification": "Add Certification",
+    "addNewCertification": "Add New Certification",
+    "deleteCertification": "Delete Certification",
+    "saveChanges": "Save Changes"
+  },
+  "labels": {
+    "certificationLevelOptional": "Certification Level (Optional)",
+    "certificationLevel": "Certification Level",
+    "certificationName": "Certification Name",
+    "certificationNumber": "Certification Number",
+    "certificationNumberOptional": "Certification Number (Optional)",
+    "certNumber": "Cert #",
+    "expirationDate": "Expiration Date",
+    "expirationDateOptional": "Expiration Date (Optional)",
+    "expiresAt": "Expires",
+    "issuedAt": "Issued",
+    "issuedDate": "Issued Date",
+    "issuedDateOptional": "Issued Date (Optional)",
+    "level": "Level",
+    "state": "State",
+    "stateOptional": "State (Optional)",
+    "city": "City",
+    "cityOptional": "City (Optional)",
+    "status": "Status",
+    "uploadCertification": "Upload Certification (Optional)",
+    "verified": "Verified"
+  },
+  "links": {
+    "viewTrainingPlan": "View Training Plan"
+  },
+  "messages": {
+    "back": "Back",
+    "backToCertifications": "Back to Certifications",
+    "confirmDeleteCertification": "Are you sure you want to delete this certification? This action cannot be undone.",
+    "dateTip": "Enter the start date of your most recent certification.",
+    "manageAndTrackCertification": "Manage and track certification. Certification may also be used to generate personalized training plans.",
+    "prodigyNotVerifyCertification": "Prodigy EMS does not verify certification information",
+    "prodigyNotVerifyCertificationTO": "All certifications must be manually approved by the department. ProEMS does not verify certifications."
+  },
+  "placeholders": {
+    "certificationLevel": "Select Level",
+    "certificationName": "Select Certification",
+    "certificationNumber": "Enter Number",
+    "state": "--",
+    "city": "Enter City",
+    "selectUser": "Select User"
+  },
+  "titles": {
+    "addCertification": "Add Certification",
+    "certifications": "Certifications",
+    "deleteCertification": "Delete Certification",
+    "noCertifications": "No Certifications Found",
+    "manageCertification": "Manage Certification"
+  }
+}

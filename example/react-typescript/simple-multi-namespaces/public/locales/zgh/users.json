@@ -1,0 +1,81 @@
+{
+  "buttons": {
+    "addNewUser": "ⵉⴹⴰⴼⴰ ⵎⵙⵜⵅⴷⵎ ⵊⴷⵉⴷ",
+    "addToGroup": "ⵉⴹⴰⴼⴰ ⵉⵍⴰ ⴰⵍⵎⵊⵎⵓⵄⵜ",
+    "cancel": "ⴰⵍⵖⴰ",
+    "copyInvitationLink": "ⴰⵏⵙⵅ ⵔⴰⴱⵟ ⴰⵍⴷⵄⵓⵜ",
+    "goToGroups": "ⴰⴷⵀⴱ ⵉⵍⴰ ⴰⵍⵎⵊⵎⵓⵄⴰⵜ",
+    "inviteUser": "ⵇⵎ ⴱⴷⵄⵡⴰ ⵎⵙⵜⵅⴷⵎ ⵊⴷⵉⴷ",
+    "remove": "ⵉⵣⴰⵍⵜ",
+    "removeFromGroup": "ⵉⵣⴰⵍⴰ ⵎⵏ ⴰⵍⵎⵊⵎⵓⵄⵜ",
+    "removeInvitation": "ⵉⵣⴰⵍⴰ ⴰⵍⴷⵄⵓⵜ",
+    "removeUser": "ⵉⵣⴰⵍⴰ ⴰⵍⵎⵙⵜⵅⴷⵎ",
+    "resendInvite": "ⵉⵄⴰⴷⴰ ⵉⵔⵙⴰⵍ ⴷⵄⵓⵜ",
+    "saveChanges": "ⵃⴼⵥ ⴰⵍⵜⵖⵉⵢⵔⴰⵜ",
+    "sendInvite": "ⴰⵔⵙⵍ ⴷⵄⵓⵜ",
+    "sendPasswordReset": "ⵉⵔⵙⴰⵍ ⵉⵄⴰⴷⴰ ⵜⵄⵉⵢⵏ ⴽⵍⵎⴰ ⴰⵍⵎⵔⵓⵔ",
+    "sendResetLink": "ⴰⵔⵙⵍ ⵔⴰⴱⵟ ⵉⵄⴰⴷⴰ ⴰⵍⵜⵄⵉⵢⵏ"
+  },
+  "labels": {
+    "active": "ⴼⵄⴰⵍ",
+    "allRoles": "ⴽⵍ ⴰⵍⴰⴷⵡⴰⵔ",
+    "email": "ⴰⵍⴱⵔⵉⴷ ⴰⵍⵉⵍⴽⵜⵔⵓⵏⵉ",
+    "employeeId": "ⵀⵓⵢⴰ ⴰⵍⵎⵓⵥⴼ",
+    "inactive": "ⵖⵉⵔ ⴼⵄⴰⵍ",
+    "inviteDate": "ⵜⴰⵔⵉⵅ ⴰⵍⴷⵄⵓⵜ",
+    "name": "ⴰⵍⴰⵙⵎ",
+    "members_one": "{{count}} ⵄⴹⵓ",
+    "members_other": "{{count}} ⴰⵄⴹⴰ",
+    "phone": "ⵀⴰⵜⴼ",
+    "role": "ⴰⵍⴷⵓⵔ",
+    "selectGroup": "ⵃⴷⴻⴷ ⵎⵊⵎⵓⵄⴰ ⵍⵉⴹⴰⴼⴰ {{userName}} ⵉⵍⵉⵀⴰ.",
+    "toEmails": "ⴰⵍⴰ:",
+    "status": "ⴰⵍⵃⴰⵍⵜ",
+    "allStatuses": "ⵊⵎⵉⵄ ⴰⵍⵃⴰⵍⴰⵜ"
+  },
+  "messages": {
+    "backToUsers": "ⵔⵊⵓⵄ ⵉⵍⴰ ⴰⵍⵎⵙⵜⵅⴷⵎⵉⵏ",
+    "emptyGroups": "ⵍⵎ ⵜⴻⵜⵎ ⵉⴹⴰⴼⴰ ⵀⴷⴰ ⴰⵍⵎⵙⵜⵅⴷⵎ ⵉⵍⴰ ⴰⵢ ⵎⵊⵎⵓⵄⴰⵜ.",
+    "inviteUsersMessage": "ⴰⵔⵙⵍ ⴷⵄⵡⴰ ⴱⴰⵍⴱⵔⵉⴷ ⴰⵍⵉⵍⴽⵜⵔⵓⵏⵉ ⵉⵍⴰ ⴰⵍⵎⵙⵜⵅⴷⵎⵉⵏ ⵍⵉⵏⵛⴰ ⵃⵙⴰⴱ ⴰⵡ ⵏⵙⵅ ⵔⴰⴱⵟ ⴰⵍⴷⵄⵡⴰ ⵡⵎⵛⴰⵔⴽⵜⵀ.",
+    "mustSelectGroup": "ⵢⵊⴱ ⵄⵍⵉⴽ ⵜⵃⴷⵉⴷ ⵎⵊⵎⵓⵄⴰ ⴰⵡⵍⴰ",
+    "removeUserFromGroup": "ⵀⵍ ⴰⵏⵜ ⵎⵜⴰⴽⴷ ⴰⵏⴽ ⵜⵔⵉⴷ ⵉⵣⴰⵍⴰ {{userName}} ⵎⵏ {{groupName}}? ⵍⴰ ⵢⵎⴽⵏ ⴰⵍⵜⵔⴰⵊⵄ ⵄⵏ ⵀⴷⴰ ⴰⵍⵉⵊⵔⴰ.",
+    "removeInvitation": "ⴰⵏⵜ ⵄⵍⴰ ⵡⵛⴽ ⵉⵣⴰⵍⴰ ⴰⵍⴷⵄⵡⴰ ⴰⵍⵎⵄⵍⵇⴰ ⵍⴻⵍⵎⵙⵜⵅⴷⵎⵉⵏ ⴰⵍⵎⵃⴷⴻⴷⵉⵏ. ⵍⴰ ⵢⵎⴽⵏ ⴰⵍⵜⵔⴰⵊⵄ ⵄⵏ ⵀⴷⴰ ⴰⵍⵉⵊⵔⴰ. ⵀⵍ ⵜⵔⵖⴱ ⴼⵉ ⴰⵍⴰⵙⵜⵎⵔⴰⵔ?",
+    "removeUser": "ⵀⵍ ⴰⵏⵜ ⵎⵜⴰⴽⴷ ⵎⵏ ⴰⵏⴽ ⵜⵔⵉⴷ ⵉⵣⴰⵍⴰ {{userName}} ⵎⵏ {{departmentName}}? ⵙⵉⵥⵍ ⴱⵉⵎⴽⴰⵏ ⵀⴷⴰ ⴰⵍⵎⵙⵜⵅⴷⵎ ⴰⵍⵓⵚⵓⵍ ⵉⵍⴰ ⵃⵙⴰⴱⴰ , ⵡⵍⴽⵏⴰ ⵍⵏ ⵢⴽⵓⵏ ⵎⵔⵜⴱⵟⴰ ⴱⵀⴷⴰ ⴰⵍⵇⵙⵎ ⴱⵄⴷ ⴰⵍⴰⵏ. ⵍⴰ ⵢⵎⴽⵏ ⴰⵍⵜⵔⴰⵊⵄ ⵄⵏ ⵀⴷⴰ ⴰⵍⵉⵊⵔⴰ.",
+    "resetPassword": "ⵀⵍ ⵜⵔⵖⴱ ⴼⵉ ⵉⵔⵙⴰⵍ ⵔⴰⴱⵟ ⵉⵄⴰⴷⴰ ⵜⵄⵉⵢⵏ ⴽⵍⵎⴰ ⴰⵍⵎⵔⵓⵔ ⵉⵍⴰ {{userName}}?"
+  },
+  "placeholders": {
+    "employeeId": "ⵀⵓⵢⴰ ⴰⵍⵎⵓⵥⴼ",
+    "selectGroup": "ⵉⵅⵜⵔ ⵎⵊⵎⵓⵄⵜ",
+    "userName": "ⴰⵙⵎ ⴰⵍⵎⵙⵜⵅⴷⵎ",
+    "userRole": "ⴷⵓⵔ ⴰⵍⵎⵙⵜⵅⴷⵎ",
+    "status": "ⴰⵍⵃⴰⵍⵜ",
+    "groups": "ⴰⵍⵎⵊⵎⵓⵄⴰⵜ"
+  },
+  "titles": {
+    "addNewUser": "ⵉⴹⴰⴼⴰ ⵎⵙⵜⵅⴷⵎ ⵊⴷⵉⴷ",
+    "addToGroup": "ⵉⴹⴰⴼⴰ ⵉⵍⴰ ⴰⵍⵎⵊⵎⵓⵄⵜ",
+    "departmentUsers": "ⵎⵙⵜⵅⴷⵎⵉ ⴰⵍⵇⵙⵎ",
+    "employeeStatus": "ⵃⴰⵍⴰ ⴰⵍⵎⵓⵥⴼ",
+    "groups": "ⴰⵍⵎⵊⵎⵓⵄⴰⵜ",
+    "inviteUsersToDepartment": "ⴷⵄⵡⴰ ⴰⵍⵎⵙⵜⵅⴷⵎⵉⵏ ⵉⵍⴰ {{departmentName}}",
+    "invitedUsers": "ⴰⵍⴷⵄⵡⴰⵜ ⴰⵍⵎⵄⵍⵇⵜ",
+    "noUsers": "ⵍⵎ ⵢⵜⵎ ⴰⵍⵄⵜⵓⵔ ⵄⵍⴰ ⵎⵙⵜⵅⴷⵎⵉⵏ.",
+    "noInvitations": "ⵍⵎ ⵢⵜⵎ ⴰⵍⵄⵜⵓⵔ ⵄⵍⴰ ⴷⵄⵡⴰⵜ.",
+    "removeUserFromGroup": "ⵉⵣⴰⵍⴰ ⴰⵍⵎⵊⵎⵓⵄⵜ",
+    "removeInvitation": "ⵉⵣⴰⵍⴰ ⴰⵍⴷⵄⵡⴰ ⴰⵍⵎⵄⵍⵇⵜ",
+    "resetPassword": "ⵉⵄⴰⴷⴰ ⵜⵄⵉⵢⵏ ⴽⵍⵎⴰ ⴰⵍⵎⵔⵓⵔ",
+    "removeUser": "ⵉⵣⴰⵍⴰ ⴰⵍⵎⵙⵜⵅⴷⵎ",
+    "trainingPlans": "ⵅⵟⴻⵟ ⴰⵍⵜⴷⵔⵉⴱ",
+    "transcripts": "ⵏⵙⵅ ⵟⴱⵇ ⴰⵍⴰⵚⵍ",
+    "userProfile": "ⵎⵍⴼ ⴰⵍⵛⵅⵚⵉ ⵍⴻⵍⵎⵙⵜⵅⴷⵎ",
+    "users": "ⴰⵍⵎⵙⵜⵅⴷⵎⵓⵏ"
+  },
+  "userRoles": {
+    "1": "ⵎⵙⵜⵅⴷⵎ ⵄⴰⵎ",
+    "2": "ⴰⵍⵎⵙⵓⵡⵍ ⴰⵍⵜⴷⵔⵉⴱⵉ",
+    "3": "ⴰⵍⵎⴷⵉⵔ ⴰⵍⵟⴱⵉ",
+    "4": "ⵔⵉⵢⵙ",
+    "5": "ⵎⵙⵜⵅⴷⵎ ⴰⵍⵜⵃⵍⵉⵍⴰⵜ",
+    "6": "ⵎⵙⵓⵡⵍ"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "addOutsideCompletion": "Ajouter un achèvement extérieur"
+  },
+  "contentForEmpty": {
+    "button": "Ajouter une certification",
+    "description": "Les plans de formation sont générés en fonction des certifications que vous avez répertoriées\ndans le système ou par affectation de service. Télécharger une certification sur\ncommencez à démarrer ou contactez votre responsable de la formation pour obtenir de l'aide.",
+    "title": "Aucun plan de formation trouvé"
+  },
+  "imagesAlts": {
+    "headerImage": "plan d'entraînement {{name}}"
+  },
+  "labels": {
+    "complete": "Compléter",
+    "distributiveLimit": "Limite distributive",
+    "headerProgress": "Progression du plan de formation",
+    "overallProgress": "Les progrès d'ensemble",
+    "requirements": "Conditions:",
+    "used": "Utilisé"
+  },
+  "messages": {
+    "noDescription": "Ce plan de formation n'a pas de description"
+  },
+  "placeholders": {
+    "selectTrainingPlan": "Sélectionnez un plan de formation"
+  },
+  "title": "Plans de formation"
+}

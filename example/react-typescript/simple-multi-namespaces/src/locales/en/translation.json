@@ -1,0 +1,211 @@
+{
+  "actions": {
+    "dateRange": {
+      "endDatePlaceholder": "End Date",
+      "startDatePlaceholder": "Start Date"
+    },
+    "sortByName": {
+      "directionDown": "A - Z",
+      "directionUp": "Z - A",
+      "title": "Name"
+    },
+    "sortByUpdatedAt": {
+      "directionDown": "Descending",
+      "directionUp": "Ascending",
+      "title": "Last Update"
+    }
+  },
+  "buttons": {
+    "apply": "Apply",
+    "backToProdigy": "Back to Prodigy",
+    "cancel": "Cancel",
+    "clearSelection": "Clear Selection",
+    "continue": "Continue",
+    "continueClass": "Continue Class",
+    "export": "Export",
+    "getInTouch": "Get In Touch",
+    "gotIt": "Got It",
+    "markComplete": "Mark Complete",
+    "ok": "Ok",
+    "openLink": "Open Link",
+    "register": "Register",
+    "removeSelected": "Remove Selected",
+    "retry": "Retry",
+    "selectAll": "Select All",
+    "submitAnswers": "Submit Answers",
+    "today": "Today",
+    "unregister": "Unregister",
+    "exit": "Exit",
+    "delete": "Delete"
+  },
+  "descriptions": {
+    "notFound": "The page you are looking for could not be found. It may have been removed, renamed or may have never existed.",
+    "confirmUnsavedChanges": "The changes you made are not saved yet! Are you sure you want to cancel?",
+    "takeTypes": {
+      "distributive": "Distributive",
+      "distributiveAndLive": "Distributive and Live",
+      "live": "Live",
+      "liveOnline": "Live Online",
+      "liveInPerson": "Live In-Person"
+    }
+  },
+  "formatters": {
+    "certificationNumber": "Cert #{{certNumber}}",
+    "hoursDescription_one": "{{count}} Hr",
+    "hoursDescription_other": "{{count}} Hrs",
+    "imageFor": "image for {{target}}",
+    "sessions_one": "{{count}} Session",
+    "sessions_other": "{{count}} Sessions",
+    "takeDate": "{{takeType}} on {{date}}",
+    "timeDuration": "<0>Time:</0> {{duration}}",
+    "timeInterval": "{{from}} to {{to}}"
+  },
+  "header": {
+    "userPicker": {
+      "admin": "Admin",
+      "logout": "Logout",
+      "manageProfile": "Manage Profile"
+    }
+  },
+  "labels": {
+    "test": "Test",
+    "active": "Active",
+    "assignedBy": "Assigned By",
+    "assignedTo": "Assigned To",
+    "capceNumber": "CAPCE #",
+    "certificate": "Certificate",
+    "certName": "Cert Name",
+    "classBundle": "Class Bundle",
+    "className": "Class Name",
+    "classStatus": {
+      "completed": "Completed",
+      "inProgress": "In Progress",
+      "registered": "Registered",
+      "started": "Started"
+    },
+    "classType": "Class Type",
+    "clearFile": "Clear File",
+    "closeAllSections": "Close All Sections",
+    "complete": "Complete",
+    "correctAnswer": "Correct Answer",
+    "creditHours": "Credit Hours",
+    "creditTypes": {
+      "credit": "Credit",
+      "nonCredit": "Non-credit"
+    },
+    "daysRemaining": "Days Remaining",
+    "dueDate": "Due Date",
+    "duration": "Duration",
+    "expirationDate": "Expiration Date",
+    "expired": "Expired",
+    "expires": "Expires",
+    "expiresOn": "Expires on",
+    "inactive": "Inactive",
+    "incomplete": "Incomplete",
+    "loadingText": "Loading...",
+    "next7Days": "Next 7 Days",
+    "next30Days": "Next 30 Days",
+    "next60Days": "Next 60 Days",
+    "openAllSections": "Open All Sections",
+    "overdue": "Overdue",
+    "presentedBy": "Presented by",
+    "purchaseDate": "Purchase Date",
+    "rememberMe": "Remember Me",
+    "saveCardInfo": "Save card info for easy checkout",
+    "status": "Status",
+    "takeType": "Take Type",
+    "today": "Today",
+    "uploadingText": "Uploading",
+    "uploadQuiz": "Upload Quiz via .CSV",
+    "uploadVideo": "Upload Video",
+    "useNewPaymentMethod": "Use new payment method",
+    "userName": "User Name",
+    "yourResponse": "Your Response",
+    "searchTheList": "Search the list",
+    "uploadAudio": "Upload Audio",
+    "loadingMedia": "Loading media ...",
+    "selectRange": "Select A Range"
+  },
+  "nav": {
+    "assignments": "Assignments",
+    "bundles": "Bundles",
+    "catalog": "Class Catalog",
+    "classes": "Classes",
+    "certifications": "Certifications",
+    "dashboard": "Dashboard",
+    "department": "Department",
+    "reporting": "Reporting",
+    "resources": "Resources",
+    "trainingPlans": "Training Plans",
+    "transcripts": "Transcripts",
+    "users": "Users",
+    "subNav": {
+      "reports": {
+        "systemReports": "System Reports",
+        "customReports": "Custom Reports",
+        "recertificationSnapshot": "Training Plan Progress",
+        "userClassRecord": "User Class Record",
+        "userCertification": "User Certification",
+        "classStatistics": "Class Statistics",
+        "featureAvailableSoon": "This feature will be available soon."
+      }
+    }
+  },
+  "placeholders": {
+    "allClasses": "All Classes",
+    "assignedBy": "Assigned By",
+    "cardHolderName": "Card holder name",
+    "chooseOption": "Choose an option",
+    "className": "Class Name",
+    "confirmPassword": "Confirm Password",
+    "country": "Country",
+    "creditType": "Credit Type",
+    "dragAndDrop": "Drag and Drop\nor\nClick to Upload",
+    "dueDate": "Due Date",
+    "email": "Email",
+    "expirationDate": "Expiration Date",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "organization": "Organization",
+    "password": "Password",
+    "referralCode": "Referral Code",
+    "status": "Status"
+  },
+  "titles": {
+    "allCertNames": "All Cert Names",
+    "allClasses": "All Classes",
+    "allCreditTypes": "All Credit Types",
+    "allDueDates": "All Due Dates",
+    "allExpirationDates": "All Expiration Dates",
+    "allStatuses": "All Statuses",
+    "allUsers": "All Users",
+    "conferenceSponsors": "Conference Sponsors",
+    "error": "Error",
+    "notFound": "Oops! Looks like like there’s nothing here.",
+    "overview": "Overview",
+    "stillNeedHelp": "Still need help?",
+    "changesWillBeLost": "Changes will be lost",
+    "paymentPastDue": "<0>Attention required</0>: Your department's payment is past due. please get in touch with <1>{{email}}</1>",
+    "featureDisabled": "Your department does not have access to this feature."
+  },
+  "validations": {
+    "minLength": "Must be {{min}} characters or more",
+    "required": "Required",
+    "fileTypesAndSize": "File must be {{types}} under {{size}}.",
+    "certificationNumberFormat": "Must be a letter followed by 7 decimal digits"
+  },
+  "words": {
+    "ago": "ago",
+    "all": "All",
+    "and": "and",
+    "days": "days",
+    "false": "False",
+    "individuals": "individuals",
+    "perPage": "per page",
+    "true": "True",
+    "yes": "Yes"
+  },
+  "attestation": {
+    "audio": "By clicking the \"Mark Complete\" button, I attest that I have listened to the podcast episode on another platform."
+  }
+}

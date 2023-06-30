@@ -1,0 +1,339 @@
+{
+  "buttons": {
+    "continue": "استمرار",
+    "continueClass": "متابعة الصف",
+    "continueClassNow": "تابع الصف الآن",
+    "downloadTemplate": "تحميل النموذج",
+    "goToClass": "اذهب الى الصف",
+    "saveAsDraft": "حفظ كمسودة",
+    "submit": "إرسال",
+    "takeClass": "أخذ الصف",
+    "takeClassNow": "أخذ الصف الآن",
+    "takeQuiz": "تقدم للإختبار",
+    "save": "حفظ",
+    "saveAndPublish": "حفظ ونشر",
+    "updateClass": "تحديث الصف",
+    "addLiveSession": "أضف جلسة مباشرة",
+    "backTo": "ارجع الى",
+    "createNewSection": "إنشاء قسم جديد",
+    "addContent": "إضافة محتوى",
+    "addQuizQuestions": "إضافة سؤال الاختبار",
+    "continueUploading": "مواصلة التحميل",
+    "deleteSection": "حذف القسم",
+    "uploadFile": "رفع ملف",
+    "uploading": "تحميل",
+    "addAnswer": "أضف إجابة",
+    "registerForSession": "التسجيل لـ {{type}}",
+    "shareClass": "مشاركة الصف"
+  },
+  "filters": {
+    "labels": {
+      "credit": "معتمد الساعات",
+      "distributive": "توزيعيّ",
+      "inProgress": "في تَقَدم",
+      "live": "مباشر",
+      "nonCredit": "غير معتمد الساعات",
+      "purchased": "تم شراؤه",
+      "registered": "مسجل"
+    },
+    "placeholders": {
+      "searchClasses": "إبحث في الصفوف",
+      "searchDrafts": "إبحث في المسودات"
+    },
+    "titles": {
+      "availableOrPurchased": "متوفر / تم شراؤه",
+      "classStatus": "حالة الصف",
+      "classType": "نوع الصف",
+      "creditType": "نوع الإعتماد",
+      "liveClassDate": "تاريخ الصف المباشر"
+    }
+  },
+  "labels": {
+    "classDescription": "وصف الصف:",
+    "correct": "صحيح",
+    "className": "إسم الصف",
+    "draftName": "أسم المسودة",
+    "headline": "العنوان",
+    "classImage": "صورة الصف",
+    "durationHours": "مدة الصف (ساعات)",
+    "invalidTime": "الوقت غير صحيح ، على سبيل المثال 12:00",
+    "description": "الوصف",
+    "distributive": "توزيعيّ",
+    "live": "مباشر",
+    "incorrect": "خاطئ",
+    "nonCredit": "هذا الصف غير معتمد الساعات",
+    "classVisibility": "رؤية الصف",
+    "classVisibilityOptions": {
+      "visible": "<0>مرئي</0>يمكن الوصول إليه عبر كتالوج الصف أو الرابط المباشر للصف أو المستخدمين الذين تم تعيينهم للصف.",
+      "hidden": "<0>مخفي</0>.يمكن الوصول إليه فقط عن طريق الارتباط المباشر بالصف أو بواسطة المستخدمين الذين تم تعيينهم للصف.",
+      "assignedOnly": "<0>مسند فقط</0>.يمكن الوصول إليها فقط من قبل المستخدمين الذين تم تعيينهم للصف."
+    },
+    "percentage": "نسبة مئوية",
+    "questionNumber": "السؤال {{number}} من {{total}}",
+    "questionsCorrect": "{{correct}} من {{total}}",
+    "score": "نتيجة",
+    "segmentsComplete": "<0>{{segmentCompleteCount}}</0> عدد المقاطع المكتملة من <0>{{segmentCount}}</0>",
+    "segmentStatuses": {
+      "Complete": "مكتمل",
+      "In Progress": "في تَقَدم",
+      "None": "لا شيء"
+    },
+    "segmentTypeNames": {
+      "audioLink": "رابط صوتي",
+      "checkInQuestion": "إختبار قصير",
+      "externalLink": "رابط خارجي",
+      "quiz": "اختبار",
+      "reading": "قراءة",
+      "video": "فيديو",
+      "youtube": "رابط فيديو",
+      "audio": "صوتي",
+      "text": "نص"
+    },
+    "addSegmentTypeNames": {
+      "audioLink": "رابط صوتي",
+      "checkInQuestion": "إختبار قصير",
+      "externalLink": "رابط خارجي",
+      "reading": "تحميل مستند",
+      "video": "رفع فيديو",
+      "youtube": "رابط الفيديو",
+      "audio": "رفع ملفات صوتية",
+      "text": "نص"
+    },
+    "shortAnswer": "أدخل إجابة",
+    "shortAnswerLimit": "حد أقصى {{charactersLimit}} حرفا",
+    "status": "الحالة",
+    "active": "فعال",
+    "statusValues": {
+      "active": "فعال",
+      "inactive": "غير فعال",
+      "draft": "مسودة"
+    },
+    "takeTypes": "نوع أخذ الصف",
+    "creditHours": "الساعات المعتمدة",
+    "duration": "المدة",
+    "durationMinutes": "المدة (دقائق)",
+    "nextLive": "المباشر القادم",
+    "nextLiveNoneScheduled": "غير مجدول",
+    "addContent": "إضافة محتوى",
+    "liveClass": {
+      "date": "تاريخ",
+      "start": "يبدأ",
+      "end": "ينتهي",
+      "link": "الرابط"
+    },
+    "shuffleQuestions": "خلط أسئلة الاختبار؟",
+    "shuffleAnswers": "خلط الإجابات؟",
+    "questions": "الأسئلة",
+    "question": "سؤال",
+    "answers": "الإجابات",
+    "answer": "إجابة",
+    "correctAnswers": "الإجابات الصحيحة",
+    "correctAnswer": "اجابة صحيحة",
+    "questionType": "نوع السؤال",
+    "feedback": "ملاحظة",
+    "questionsTypes": {
+      "multiple-choice": "اختيار من متعدد - تحديد واحد",
+      "choose-many": "اختيار من متعدد - تحديد متعدد",
+      "true-false": "صحيح أو خاطئ"
+    },
+    "overview": "وصف",
+    "materials": "المواد",
+    "contentName": "اسم المحتوى",
+    "quizName": "اسم الاختبار",
+    "uploadedVideo": "تحميل الفيديو",
+    "remove": "إزالة",
+    "uploadInProgress": "التحميل قيد التقدم",
+    "preventSeeking": "منع السعي؟ إذا تم تحديده ، فلن يتمكن الطالب من التقديم السريع عبر هذا المحتوى.",
+    "autoplay": "هل تريد تشغيل المحتوى تلقائيًا؟ إذا تم تحديد الوسائط ، فسيتم تشغيلها دون تدخل المستخدم (متاح فقط في المتصفحات المدعومة).",
+    "deleteSection": "تأكيد حذف القسم",
+    "passingScore": "درجة النجاح ٪",
+    "classTags": "أوسمة الصف",
+    "true": "صحيح",
+    "false": "خاطئ",
+    "lastUpdatedOn": "آخر تحديث في",
+    "charactersLeft": "أحرف باقية",
+    "deleteDraft": "حذف المسود",
+    "releaseDate": "تاريخ الإصدار",
+    "uploadedAudio": "ملف الصوت المرفوع",
+    "removeMedia": "إزالة الوسائط",
+    "online": "عبر الانترنت",
+    "inPerson": "شخصيا",
+    "showCorrectAnswers": "إظهار الإجابات الصحيحة؟ بعد أن يحاول المستخدم إجراء الاختبار ، أظهر الإجابات الصحيحة.",
+    "instructions": "التعليمات",
+    "howToEnterLiveClass": "كيفية دخول الصف",
+    "section": "قسم",
+    "thumbnail": "صورة مصغرة",
+    "text": "نص",
+    "pickAClass": "اختر الصف",
+    "pickADepartment": "اختر القسم",
+    "pickAClassToShare": "اختر صف للمشاركة",
+    "pickADepartmentToShareWith": "اختر قسم للمشاركة معه"
+  },
+  "manageClasses": {
+    "titles": {
+      "classes": "الصفوف",
+      "prodigyClasses": "صفوف Prodigy",
+      "organizationClasses": "صفوف المنظمة",
+      "organizationDrafts": "مسودات المنظمة",
+      "sharedClasses": "الصفوف المشتركة"
+    },
+    "placeholders": {
+      "noClasses": "لم يتم العثور على صفوف",
+      "noDrafts": "لم يتم العثور على مسودات"
+    },
+    "buttons": {
+      "addClass": "إضافة صف جديد",
+      "completeClass": "أكمل صف لمستخدم"
+    },
+    "validations": {
+      "maxTags": "لا يمكنك إضافة أكثر من {{maxTags}} من العلامات",
+      "tagLength": "لا يمكنك إضافة علامة أطول من {{tagLength}} حرفًا"
+    }
+  },
+  "classEdit": {
+    "buttons": {
+      "editClassDetails": "تعديل التفاصيل",
+      "editClassLiveSessions": "تعديل الجلسات المباشرة",
+      "editDistributiveContent": "تعديل المحتوى",
+      "editClassQuiz": "تعديل الاختبار"
+    },
+    "liveSessions": {
+      "title": "جلسات الصف المباشر",
+      "description": "حدد موعدًا لجلسات الصف المباشر مع التوجيه الشخصي. ستكون قادرًا على تعديل جميع الجلسات المباشرة القادمة.",
+      "noLiveSessions": "هذا الصف ليس له جلسات مباشرة مجدولة ، حاول إضافة واحدة."
+    },
+    "distributiveContent": {
+      "title": "مخطط الصف التوزيعي",
+      "noContent": "هذا الصف ليس له محتوى توزيعي. حاول إضافة مقاطع جديدة."
+    },
+    "quiz": {
+      "title": "الاختبار",
+      "labels": {
+        "totalClassRegistrations": "إجمالي تسجيلات الصف",
+        "completedClasses": "الصفوف المكتملة",
+        "averageQuizScore": "متوسط نقاط الاختبار",
+        "averageAttempts": "متوسط المحاولات"
+      },
+      "messages": {
+        "totalClassRegistrations": "جميع المستخدمين المسجلين لجميع أنواع الصفوف الدراسية",
+        "completedClasses": "أكمل <0> {{percentage}}٪ </0> من المستخدمين المسجلين هذا الصف الدراسي",
+        "averageQuizScore": "في جميع الأوقات عبر كل المحاولات",
+        "averageAttempts": "عدد مرات اجتياز الاختبار"
+      }
+    }
+  },
+  "messages": {
+    "materialsError": "حدث خطأ أثناء تحميل المواد. قم بتحديث الصفحة لإعادة المحاولة.",
+    "noMaterials": "لا توجد مواد لهذه الفئة.",
+    "back": "الرجوع",
+    "backToClass": "الرجوع إلى الصف",
+    "backToClassDetails": "الرجوع إلى تفاصيل الصف",
+    "classAvailableAsDistributiveEducation": "هذا الصف متاح كتعليم توزيعي. يرجى ملاحظة أن بعض عمليات إعادة الشهادات تسمح فقط بعدد معين من فئات التوزيع.",
+    "classCanTakenDistributive": "يمكن اعتبار هذا الصف على أنه تعليم توزيعي. تحقق من خطة التدريب الخاصة بك لمعرفة حدود التعليم التوزيعي.",
+    "classDetailsDescription": "أدخل المعلومات الأساسية لهذا الصف.",
+    "classDistributiveDescription": "قم بإنشاء أقسام الصف وإضافة محتوى وهيكل صفك المخصص بما يتناسب مع احتياجات مؤسستك.",
+    "classLiveDescription": "حدد موعدًا لجلسات الصف المباشر مع التوجيه الشخصي. ستتمكن من إضافة جلسات مباشرة إضافية بعد نشر الصف.",
+    "classQuizDescription": "قم بإنشاء اختبار بعلامات. سيحتاج المستخدمون إلى اجتياز هذا الاختبار لإكمال الصف.",
+    "classPublishModalDescription": "سيؤدي نشر هذا الصف إلى إتاحته في كتالوج الصف لمؤسستك. يمكنك دائمًا تشغيل الصف أو إيقاف تشغيله من جدول الصف المخصص.",
+    "scheduleLiveSession": "اختر التاريخ والوقت وأضف رابطًا لإنشاء جلسة مباشرة جديدة.",
+    "noSections": "جرب إضافة محتوى جديد إلى قسم الصف هذا.",
+    "noQuestions": "جرب إضافة سؤال جديد لهذا الاختبار.",
+    "selectSegmentType": "حدد نوع المحتوى الذي ترغب في إضافته إلى هذا الصف.",
+    "classNotAvailable": "هذا الصف غير متاح للأخذ في هذا الوقت. يرجى الاتصال support@prodigyems.com إذا كان لديك أي أسئلة.",
+    "clickToJoinClass": "انقر هنا للانضمام إلى الصف",
+    "dragAndDropCSV": "بمجرد ملء ملف CSV ، قم بالسحب والإفلات أو انقر للتحميل.",
+    "failedQuiz": "لقد فشلت في إكمال الاختبار بنجاح بدرجة إتمام لا تقل عن {{passScore}}٪. يجب عليك اجتياز هذا الاختبار لتلقي الساعات المعتمدة لهذا الصف.",
+    "methodOfDeliveringEMSEducation": "هذه طريقة لتقديم تعليم EMS حيث لا يستطيع المعلم والطالب التفاعل في الوقت الفعلي.",
+    "methodOfDeliveringEMSEducationAvailable": "هذه طريقة لتقديم تعليم EMS حيث يتوفر المعلم للطالب لأي أسئلة طوال مدة الصف. يتم إجراء هذه الصفوف من خلال ندوة عبر الإنترنت في الوقت الفعلي ويتم اعتبارها تدريبًا مباشرًا وفقًا لمعايير NREMT.",
+    "missingCertification": "يجب عليك <0> إدخال شهادة صالحة <0> للحصول على رصيد لهذه الفئة.",
+    "noResults": "لا نتائج...",
+    "noUpcomingLiveSessionsAvailable": "لا توجد جلسات مباشرة قادمة متاحة حاليا. يرجى التحقق مرة أخرى في وقت لاحق.",
+    "noWantReceiveCredit": "لم تعد ترغب في الحصول على ساعات معتمدة لهذ الصف؟",
+    "quizDescription": "يجب إكمال هذا الاختبار بنسبة إتمام لا تقل عن {{passScore}}٪ من أجل الحصول على الساعات المعتمدة لهذا الصف. يجب إكمال الاختبار في وقت واحد. إذا تركت هذا الاختبار ، فسيتم فقد كل التقدم.",
+    "sessionAvailableToEnterNow": "هذه الجلسة متاحة للدخول الآن وستبدأ في",
+    "sessionInProgressAndStarted": "هذه الجلسة قيد التقدم وبدأت بالفعل",
+    "sessionWillAvailableToEnter": "ستكون هذه الجلسة متاحة للدخول فيها",
+    "somethingWentWrong": "حدث خطأ ما أثناء تحميل الجلسات. يرجى تحديث الصفحة للمحاولة مرة أخرى.",
+    "successfullyCompleteQuiz": "لقد أكملت الاختبار بنجاح.",
+    "takeQuiz": "أجب عن الاختبار لإكمال جلسة الصف هذه",
+    "unableAttendClass": "غير قادر على حضور هذا الصف؟",
+    "unableContinueClass": "غير قادر على الاستمرار في هذا الصف؟",
+    "unableTakeClass": "غير قادر على أخذ هذا الصف؟",
+    "useThisTemplate": "استخدم هذا النموذج مع أعمدة محددة مسبقًا ، وقم بملئها.",
+    "wantSwitchToLive": "هل تريد التبديل إلى الصف المباشر؟",
+    "youMissedClassSession": "لقد فاتتك جلسة الصف هذه. يجب عليك إلغاء التسجيل واختيار جلسة مختلفة لإكمال الصف.",
+    "segmentTypeTexts": {
+      "audioLink": "أضف رابطًا إلى صوت مثل بودكاست.",
+      "checkInQuestion": "قم بإنشاء اختبار قصير لاختبار المعرفة بمقطع أو محتوى معين.",
+      "externalLink": "أضف ارتباطًا إلى موقع ويب أو مستند أو مقطع فيديو آخر.",
+      "reading": "قم رفع مستند pdf إلى Prodigy.",
+      "video": "قم رفع محتوى الفيديو الخاص بك إلى Prodigy.",
+      "youtube": "أضف رابطًا إلى مقطع فيديو مستضاف على موقع YouTube.",
+      "audio": "قم رفع المحتوى الصوتي الخاص بك إلى Prodigy.",
+      "text": "محتوى مكتوب مع روابط وقوائم وصور."
+    },
+    "classWizardInputsInfo": {
+      "classDetailsHeadline": "هذا وصف موجز يستخدم في كتالوج الصف.",
+      "classDetailsDuration": "يجب أن تكون المدة بزيادات قدرها 0.25 ساعة",
+      "classLiveLink": "تأكد من أن هذا الرابط لا يتطلب تسجيل دخول إضافي وأنه قد تمت إضافته بشكل صحيح.",
+      "externalLink": "تأكد من أن هذا الرابط لا يتطلب تسجيل دخول إضافي وأنه قد تمت إضافته بشكل صحيح.",
+      "youtube": "يتم دعم روابط YouTube فقط في الوقت الحالي.",
+      "inPersonInstructions": "سيتمكن المستخدمون من رؤية هذا عند التسجيل في الصف الدراسي.",
+      "thumbnail": "يمكنك تحميل صورة مصغرة للمحتوى الخاص بك لإضافة اهتمام بصري."
+    },
+    "confirmExitMultipartUpload": "هل أنت متأكد أنك تريد الخروج؟ سيتم فقد تقدم تحميل الملف الخاص بك.",
+    "confirmDeleteSection": "هل أنت متأكد أنك تريد حذف هذا القسم؟ سيتم حذف مقاطع هذا القسم أيضًا.",
+    "questionUploadMediaText": "قم بتحميل ملف فيديو أو صوت أو صورة لتضمينها في السؤال.",
+    "passingScore": "أدخل رقمًا بين 0 و 100",
+    "confirmDeleteDraft": "لا يمكن التراجع عن هذا الإجراء ، فهل تريد بالتأكيد حذف مسودة ({{DraftName}})؟",
+    "answerUploadMediaText": "قم بتحميل ملف فيديو أو صوت أو صورة لتضمينها في الإجابة.",
+    "noClassAccessDepartmentUser": "إذا كنت تعتقد أن هذا خطأ ، يرجى الاتصال بمسؤول التدريب للحصول على المساعدة. يمكنهم مساعدتك في حل أي مشاكل تمنعك من الوصول إلى الصفوف الدراسية التي تحتاجها.",
+    "noClassAccessIndividual": "يقتصر هذا الصف على مستخدمي القسم فقط. يرجى الاتصال بالقسم المعني أو الشخص المسؤول للحصول على مزيد من المعلومات حول كيفية الوصول إلى هذا الصف أو للحصول على خيارات بديلة قد تكون متاحة لك.",
+    "shareClassesModal": "اجعل صفوفك متاحة للأقسام الأخرى المرتبطة."
+  },
+  "placeholders": {
+    "enterDescription": "أدخل الوصف",
+    "enterName": "أدخل الاسم",
+    "title": "العنوان",
+    "sectionName": "أضف اسم قسم (اختياري)",
+    "enterHeadline": "أدخل العنوان",
+    "enterQuestion": "أدخل السؤال",
+    "enterFeedback": "أدخل الملاحظات",
+    "enterDuration": "أدخل المدة بالدقائق",
+    "segmentsForms": {
+      "audio": "لصق رابط الصوت",
+      "externalLink": "لصق الرابط الخارجي",
+      "youtube": "لصق رابط الفيديو"
+    },
+    "enterQuizName": "أدخل اسم الاختبار",
+    "enterPassingScore": "أدخل درجة النجاح",
+    "classTags": "أدخل أوسمة الصف",
+    "enterText": "أدخل النص"
+  },
+  "titles": {
+    "classCatalog": "كتالوج الصف",
+    "classDetails": "تفاصيل الصف",
+    "classDistributive": "محتوى الصف التوزيعي",
+    "classLive": "صف مباشر",
+    "classQuiz": "إختبار الصف",
+    "classPublishModal": "هل ترغب في نشر هذا الصف؟",
+    "scheduleLiveSession": "جدولة جلسة مباشرة",
+    "classInProgress": "الصف قيد التقدم",
+    "classMissed": "فوِّت الصف",
+    "classNotAvailable": "الصف غير متوفرة",
+    "continueDistributiveClass": "متابعة الصف التوزيعي",
+    "distributiveClasses": "الصفوف التوزيعة",
+    "downloadTemplate": "الخطوة 1: تنزيل النموذج",
+    "liveClasses": "صفوف مباشرة",
+    "registerForLiveClasses": "التسجيل في الصفوف المباشرة",
+    "startDistributiveClass": "بدء الصف التوزيعي",
+    "takeQuiz": "تقدم للإختبار",
+    "upcomingClass": "الصف القادم",
+    "uploadCSV": "الخطوة الثانية: تحميل ملف CSV",
+    "noClassAccess": "يبدو أنه ليس لديك إمكانية الوصول إلى هذا الصف.",
+    "shareClass": "مشاركة الصف"
+  },
+  "validations": {
+    "classImageUploadRequirements": "يجب أن تكون الصورة {{types}} أقل من {{size}}. الحد الأدنى للحجم: {{minimumSize}} (نسبة العرض إلى الارتفاع {{AspRatio}})."
+  }
+}

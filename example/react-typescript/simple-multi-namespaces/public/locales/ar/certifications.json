@@ -1,0 +1,57 @@
+{
+  "buttons": {
+    "addCertification": "إضافة شهادة",
+    "addNewCertification": "إضافة شهادة جديدة",
+    "deleteCertification": "حذف شهادة",
+    "saveChanges": "حفظ التغييرات"
+  },
+  "labels": {
+    "certificationLevelOptional": "مستوى الشهادة (اختياري)",
+    "certificationLevel": "مستوى الشهادة",
+    "certificationName": "اسم الشهادة",
+    "certificationNumber": "رقم الشهادة",
+    "certificationNumberOptional": "رقم الشهادة (اختياري)",
+    "certNumber": "الشهادة #",
+    "expirationDate": "تاريخ إنتهاء الصلاحية",
+    "expirationDateOptional": "تاريخ انتهاء الصلاحية (اختياري)",
+    "expiresAt": "تنتهي",
+    "issuedAt": "صادر",
+    "issuedDate": "تاريخ الإصدار",
+    "issuedDateOptional": "تاريخ الإصدار (اختياري)",
+    "level": "مستوى",
+    "state": "الولاية",
+    "stateOptional": "الولاية (اختياري)",
+    "city": "المدينة",
+    "cityOptional": "المدينة (اختياري)",
+    "status": "الحالة",
+    "uploadCertification": "تحميل الشهادة (اختياري)",
+    "verified": "مصدق"
+  },
+  "links": {
+    "viewTrainingPlan": "عرض خطة التدريب"
+  },
+  "messages": {
+    "back": "الرجوع",
+    "backToCertifications": "رجوع إلى الشهادات",
+    "confirmDeleteCertification": "هل أنت متأكد أنك تريد حذف هذه الشهادة؟ لا يمكن التراجع عن هذا الإجراء.",
+    "dateTip": "أدخل تاريخ بدء أحدث شهادة حصلت عليها.",
+    "manageAndTrackCertification": "إدارة وتتبع الشهادات. يمكن أيضًا استخدام الشهادة لإنشاء خطط تدريب مخصصة.",
+    "prodigyNotVerifyCertification": "لا يتحقق Prodigy EMS من معلومات الشهادة",
+    "prodigyNotVerifyCertificationTO": "يجب اعتماد جميع الشهادات يدويًا من قبل القسم. لا يتحقق نظام ProEMS من الشهادات."
+  },
+  "placeholders": {
+    "certificationLevel": "اختار مستوى",
+    "certificationName": "حدد الشهادة",
+    "certificationNumber": "أدخل رقم",
+    "state": "--",
+    "city": "أدخل المدينة",
+    "selectUser": "اختر المستخدم"
+  },
+  "titles": {
+    "addCertification": "أضف شهادة",
+    "certifications": "الشهادات",
+    "deleteCertification": "حذف الشهادة",
+    "noCertifications": "لم يتم العثور على شهادات",
+    "manageCertification": "إدارة الشهادة"
+  }
+}

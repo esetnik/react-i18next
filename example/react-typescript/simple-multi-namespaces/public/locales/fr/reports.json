@@ -1,0 +1,67 @@
+{
+  "names": {
+    "recertificationSnapshot": "Rapport d'avancement du plan de formation",
+    "classRecord": "Rapport de classe",
+    "classStatistics": "Rapport de statistiques de classe",
+    "userCertification": "Rapport de certification de l'utilisateur"
+  },
+  "descriptions": {
+    "recertificationSnapshot": "Ce rapport vous permet, en tant qu'agent de formation, d'obtenir une vue unique pour suivre l'évolution des besoins de formation de votre fournisseur.",
+    "classRecord": "Ce rapport vous permet, en tant qu'agent de formation, de faire rapport sur les enregistrements d'achèvement de cours individuels.",
+    "classStatistics": "Obtenez des statistiques générales sur toutes les classes organisationnelles.",
+    "userCertification": "Ce rapport vous permet, en tant que responsable de la formation, de faire rapport sur l'état de la certification des utilisateurs individuels."
+  },
+  "labels": {
+    "selectDateRange": "Sélectionnez une plage de dates"
+  },
+  "placeholders": {
+    "noRecords": "Aucun enregistrement trouvé"
+  },
+  "filters": {
+    "class": "Classe",
+    "user": "Utilisateur",
+    "allUsers": "Tous les utilisateurs",
+    "completionStatus": {
+      "complete": "Compléter",
+      "incomplete": "Incomplet"
+    },
+    "registrationStatus": {
+      "registered": "Inscrit",
+      "notRegistered": "Non enregistré"
+    }
+  },
+  "columns": {
+    "progress": "Progrès",
+    "progressPercent": "Progrès %",
+    "renewalDate": "Date de renouvellement",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "fullName": "Nom",
+    "email": "E-mail",
+    "state": "État",
+    "certNumber": "Certificat #",
+    "status": "Statut",
+    "certificationLevel": "Niveau de certification",
+    "city": "Ville",
+    "dateEntered": "Date entrée",
+    "dateModified": "Date modifiée",
+    "issuedAt": "Émis à",
+    "expirationDate": "Date d'expiration",
+    "certName": "Nom du certificat",
+    "trainingPlanName": "Nom du plan de formation",
+    "trainingPlanStatus": "Statut du plan de formation",
+    "requirementGroupName": "Nom du groupe d'exigences",
+    "averageQuizScore": "Score moyen du questionnaire",
+    "totalFails": "Échecs totaux",
+    "registered": "Inscrit",
+    "completed": "Complété",
+    "className": "Nom du cours",
+    "deleted": "Supprimé",
+    "takeType": "Type de prise",
+    "dateRegistered": "Date d'enregistrement",
+    "dateCompleted": "Rendez-vous complet",
+    "scheduled": "Prévu à",
+    "complete": "Compléter",
+    "inProgress": "En cours"
+  }
+}

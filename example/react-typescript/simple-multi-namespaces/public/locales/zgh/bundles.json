@@ -1,0 +1,16 @@
+{
+  "buttons": {
+    "purchaseFor": "ⵜⴰⵎⵙⵉⵖⵜ"
+  },
+  "messages": {
+    "back": "ⵓⵖⵓⵍ"
+  },
+  "placeholders": {
+    "noBundleClasses": "ⵓⵔ ⵜⵍⵍⵉ ⵜⴰⴽⵎⵎⵓⵙⵜ ⵏ ⴰⴷⴷⵓⵔⵏ",
+    "noBundles": "ⵓⵔ ⵜⵍⵍⵉ ⵜⴰⴽⵎⵎⵓⵙⵜ"
+  },
+  "titles": {
+    "exploreBundles": "ⴰⵎⵏⵉⴳ ⵏ ⵜⴰⴽⵕⵕⵓⵙⵜ",
+    "manageBundles": "ⵜⴰⵎⵙⵙⵓⴳⵓⵔⵜ ⵏ ⵜⴰⴽⵎⵎⵓⵙⵜ"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "classCompletionSuccess": {
+    "message": "Vous avez terminé avec succès <0> {{className}} </0>.",
+    "title": "Toutes nos félicitations!"
+  },
+  "makePurchase": {
+    "buttons": {
+      "cancelPayment": "Annuler le paiement",
+      "purchaseFor": "Achat pour"
+    },
+    "labels": {
+      "hasPaymentMethods": "Terminez cet achat en sélectionnant le paiement ci-dessous.",
+      "noPaymentMethods": "Terminez cet achat en saisissant les informations de votre carte de crédit ci-dessous."
+    },
+    "messages": {
+      "discountApplied": "remise appliquée"
+    },
+    "placeholders": {
+      "couponCode": "Code de coupon"
+    },
+    "title": "Achat - {{purchaseName}}"
+  },
+  "outsideCompletion": {
+    "buttons": {
+      "add": "Ajouter Fin externe",
+      "delete": "Supprimer l'achèvement en dehors",
+      "saveChanges": "Sauvegarder les modifications"
+    },
+    "confirmModal": {
+      "destructiveButtonTitle": "Supprimer l'achèvement en dehors",
+      "message": "Il n'apparaîtra plus dans votre dossier d'entraînement.",
+      "title": "Voulez-vous vraiment supprimer la complétion externe?"
+    },
+    "description": "Les finitions extérieures et les catégories auxquelles elles sont associées ne sont pas vérifiées par Prodigy.",
+    "labels": {
+      "approvalNumber": "Numéro d'agrément",
+      "certificateUpload": "Téléchargement de certificat",
+      "classCategory": "Catégorie de classe",
+      "completionDate": "Date d'achèvement",
+      "creditHours": "Des heures de credit"
+    },
+    "placeholders": {
+      "approvalNumber": "Le numéro d'homologation de la classe (facultatif)",
+      "classCategory": "Choisissez une catégorie de cours",
+      "className": "Le nom de la classe",
+      "creditHours": "La durée du cours"
+    },
+    "titleAdd": "Ajouter Fin externe - {{requirementGroupName}}",
+    "titleEdit": "Éditer Fin externe - {{requirementGroupName}}"
+  },
+  "paymentComplete": {
+    "message": "Vous avez acheté avec succès <0> {{purchaseName}} </0>",
+    "title": "Paiement terminé!"
+  },
+  "purchase": {
+    "buttons": {
+      "purchaseClass": "Classe d'achat",
+      "seeClassBundles": "Voir les lots de cours"
+    },
+    "messages": {
+      "individualPurchaseAllowed": "Ce cours peut être acheté individuellement ou dans le cadre d'un groupe de cours.",
+      "individualPurchaseNotAllowed": "Ce cours doit être acheté dans le cadre d'un groupe de cours."
+    },
+    "title": "Achat - {{className}}"
+  },
+  "registrationSuccess": {
+    "messages": {
+      "available": "Ce lien de cours sera disponible\n<0> {{minutesAvailableBefore}} </0> minutes avant le début\nde la classe. Revenir à cette page\n<0> {{minutesAvailableBefore}} </0> minutes avant le début\nde la classe pour entrer dans la classe virtuelle.",
+      "general": "Vous vous êtes inscrit avec succès au <0> {{takeType}} </0>\nclasse de <0> {{className}} </0> sur\n<0> {{sessionStartString}} </0>."
+    },
+    "title": "Enregistré avec succès!"
+  },
+  "unregisterConfirmation": {
+    "message": "Vous êtes sur le point de vous désinscrire de cette session de classe. Votre progression\nsera perdu. Voulez-vous vraiment vous désinscrire de ce cours?",
+    "title": "Se désinscrire"
+  }
+}

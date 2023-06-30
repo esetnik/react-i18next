@@ -1,0 +1,180 @@
+{
+  "actions": {
+    "dateRange": {
+      "endDatePlaceholder": "ⵜⴰⵔⵉⵅ ⴰⵍⴰⵏⵜⵀⴰ",
+      "startDatePlaceholder": "ⵜⴰⵔⵉⵅ ⴰⵍⴱⴷ"
+    },
+    "sortByName": {}
+  },
+  "buttons": {
+    "apply": "ⴰⵎⴹⵍⵉ",
+    "backToProdigy": "ⵓⵖⵓⵍ ⵙ  Prodigy",
+    "cancel": "ⵉⵍⵖⴰ",
+    "clearSelection": "ⵉⵣⴰⵍⴰ ⴰⵍⵜⵃⴷⵉⴷ",
+    "continue": "ⵜⴰⵙⵓⵍⵜ",
+    "continueClass": "ⵎⵜⴰⴱⵄⴰ ⴰⵍⵚⴼ",
+    "export": "ⵜⵚⴷⵉⵔ",
+    "getInTouch": "ⵜⵡⴰⵚⵍ ⵎⵄⵏⴰ",
+    "gotIt": "ⴼⵀⵎⵜⵀⴰ",
+    "markComplete": "ⵜⵄⵍⵉⵎ ⴽⵎⴽⵜⵎⵍ",
+    "ok": "ⵃⵙⵏⴰ",
+    "openLink": "ⴰⴼⵜⵃ ⴰⵍⵔⴰⴱⵟ",
+    "register": "ⵣⵎⵎⵉⵎ",
+    "removeSelected": "ⴰⵣⵍ ⴰⵍⵎⵃⴷⴻⴷ",
+    "retry": "ⴰⵄⴷ ⴰⵍⵎⵃⴰⵡⵍⵜ",
+    "selectAll": "ⴰⵅⵜⵔ ⴰⵍⴽⵍ",
+    "submitAnswers": "ⵉⵔⵙⴰⵍ ⴰⵍⵉⵊⴰⴱⴰⵜ",
+    "today": "ⴰⵙⵙ",
+    "unregister": "ⴰⵍⵖⴰ ⴰⵍⵜⵙⵊⵉⵍ",
+    "exit": "ⵙⴳ"
+  },
+  "descriptions": {
+    "notFound": "ⴰⵍⵚⴼⵃⴰ ⴰⵍⵜⵉ ⵜⴱⵃⵜ ⵄⵏⵀⴰ ⵍⴰ ⵢⵎⴽⵏ ⴰⵍⵄⵜⵓⵔ ⵄⵍⵉⵀⴰ. ⵔⴱⵎⴰ ⵜⵎⵜ ⵉⵣⴰⵍⵜⴰ ⴰⵡ ⵉⵄⴰⴷⴰ ⵜⵙⵎⵉⵜⴰ ⴰⵡ ⵔⴱⵎⴰ ⵍⵎ ⵢⴽⵏ ⵎⵓⵊⵓⴷⴰ ⵄⵍⴰ ⴰⵍⵉⵟⵍⴰⵇ.",
+    "takeTypes": {
+      "distributive": "ⵜⵓⵣⵉⵄⴻⵢⵢ",
+      "distributiveAndLive": "ⵜⵓⵣⵉⵄⴻⵢⵢ ⵡ ⵎⴱⴰⵛⵔ",
+      "live": "ⵓⵙⵔⵉⴷ"
+    }
+  },
+  "formatters": {
+    "certificationNumber": "ⵓⵙⵔⵉⴷ #{{certNumber}}",
+    "hoursDescription_one": "{{count}} ⵜⴰⵙⵔⴰⴳⵜ",
+    "hoursDescription_other": "{{count}} ⵜⴰⵙⵇⵇⵓⵍⵉⵏ",
+    "hoursDescription": "{{count}} ⵜⴰⵙⵇⵇⵓⵍⵉⵏ",
+    "imageFor": "ⵚⵓⵔⴰ ⵍـ {{target}}",
+    "sessions_one": "{{count}} ⵊⵍⵙⵜ",
+    "sessions_other": "{{count}} ⵊⵍⵙⴰⵜ",
+    "takeDate": "{{takeType}} ⴼⵉ ⵜⴰⵔⵉⵅ {{date}}",
+    "timeDuration": "<0> ⴰⴽⵓⴷ:</0> {{duration}}",
+    "timeInterval": "{{from}} ⵖⵔ {{to}}"
+  },
+  "header": {
+    "userPicker": {
+      "admin": "ⵎⵙⵓⵡⵍ",
+      "logout": "ⵜⵙⵊⵉⵍ ⴰⵍⵅⵔⵓⵊ",
+      "manageProfile": "ⵉⴷⴰⵔⴰ ⴰⵍⵎⵍⴼ ⴰⵍⵛⵅⵚⵉ"
+    }
+  },
+  "labels": {
+    "active": "ⴼⵄⴰⵍ",
+    "assignedBy": "ⵎⵙⵏⴷ ⵎⵏ ⵇⴱⵍ",
+    "assignedTo": "ⵎⵙⵏⴷ ⴰⵍⴰ",
+    "capceNumber": "ⴰⵍⴰⵄⵜⵎⴰⴷ ⴰⵍⴰⴽⴰⴷⵉⵎⵉ",
+    "certificate": "ⵜⵓⴳⴳⴰ",
+    "certName": "ⴰⵙⵎ ⴰⵍⵛⵀⴰⴷⵜ",
+    "classBundle": "ⵃⵣⵎⴰ ⴰⵍⵚⴼ",
+    "className": "ⵉⵙⵎ ⴰⵍⵚⴼ",
+    "classStatus": {
+      "completed": "ⵎⴽⵜⵎⵍ",
+      "inProgress": "ⴼⵉ ⵜⴰⵇⴰⴷⵎ",
+      "registered": "ⵎⵙⵊⵍ",
+      "started": "ⴰⴷⴷⴰ"
+    },
+    "classType": "ⵏⵓⵄ ⴰⵍⵚⴼ",
+    "clearFile": "ⴰⵣⴰⵍⴰ ⴰⵍⵎⵍⴼ",
+    "closeAllSections": "ⴰⵖⵍⵇ ⴽⴰⴼⴰ ⴰⵍⴰⵇⵙⴰⵎ",
+    "complete": "ⴰⴽⵎⵍ",
+    "correctAnswer": "ⴰⵊⴰⴱⴰ ⵚⵃⵉⵃⵜ",
+    "creditHours": "ⴰⵍⵙⴰⵄⴰⵜ ⴰⵍⵎⵄⵜⵎⴷⵜ",
+    "creditTypes": {
+      "credit": "ⵎⵄⵜⵎⴷ ⴰⵍⵙⴰⵄⴰⵜ",
+      "nonCredit": "ⵖⵉⵔ ⵎⵄⵜⵎⴷ ⴰⵍⵙⴰⵄⴰⵜ"
+    },
+    "daysRemaining": "ⴰⵍⴰⵢⴰⵎ ⴰⵍⵎⵜⴱⵇⵉⵜ",
+    "dueDate": "ⵜⴰⵔⵉⵅ ⴰⵍⴰⵙⵜⵃⵇⴰⵇ",
+    "duration": "ⴰⵍⵎⴷⵜ",
+    "expirationDate": ": ⴰⵎⵣⵔⴰⵢ ⵏ ⵓⴼⵓⴹ ⵏ ⵜⵉⵡⵓⵔⵉⵡⵉⵏ",
+    "expired": "ⵎⵏⵜⵀⵉ ⴰⵍⵚⵍⴰⵃⵉⵜ",
+    "expires": "ⴰⵔ ⵜⴰⴼⵓⴹ",
+    "expiresOn": "ⵜⵏⵜⵀⵉ ⵚⵍⴰⵃⵉⵜⴰ ⴼⵉ",
+    "inactive": "ⵖⵉⵔ ⵏⵛⵟ",
+    "incomplete": "ⵖⵉⵔ ⵎⴽⵜⵎⵍ",
+    "loadingText": "ⵊⴰⵔ ⴰⵍⵜⵃⵎⵉⵍ...",
+    "next7Days": "ⴰⵍⵙⴱⵄⴰ ⴰⵢⴰⵎ ⴰⵍⵇⴰⴷⵎⵜ",
+    "next30Days": "30 ⵢⵓⵎⴰ ⴰⵍⵇⴰⴷⵎⵜ",
+    "next60Days": "60 ⵢⵓⵎⴰ ⴰⵍⵇⴰⴷⵎⵜ",
+    "openAllSections": "ⴰⴼⵜⵃ ⴽⵍ ⴰⵍⴰⵇⵙⴰⵎ",
+    "overdue": "ⵎⵜⴰⵅⵔ",
+    "presentedBy": "ⵇⴷⵎ ⴱⵡⴰⵙⵟⵜ",
+    "purchaseDate": "ⵜⴰⵔⵉⵅ ⴰⵍⵛⵔⴰ",
+    "rememberMe": "ⵜⴷⴽⵔⵏⵉ",
+    "saveCardInfo": "ⵃⴼⵥ ⵎⵄⵍⵓⵎⴰⵜ ⴰⵍⴱⵟⴰⵇⴰ ⵍⵙⵀⵓⵍⴰ ⴰⵍⴷⴼⵄ",
+    "status": "ⴰⵍⵃⴰⵍⵜ",
+    "takeType": "ⵏⵓⵄ ⴰⵅⴷ ⴰⵍⵚⴼ",
+    "today": "ⴰⵙⵙ ",
+    "uploadingText": "ⵊⴰⵔⵉ ⴰⵍⵜⵃⵎⵉⵍ",
+    "uploadQuiz": "ⵜⵃⵎⵉⵍ ⴰⵍⴰⵅⵜⴱⴰⵔ ⵄⴱⵔ .CSV",
+    "uploadVideo": "ⵜⵃⵎⵉⵍ ⴼⵉⴷⵉⵡ",
+    "useNewPaymentMethod": "ⴰⵙⵜⵅⴷⵎ ⵟⵔⵉⵇⴰ ⴷⴼⵄ ⵊⴷⵉⴷⵜ",
+    "userName": "ⴰⵙⵎ ⴰⵍⵎⵙⵜⵅⴷⵎ",
+    "yourResponse": "ⵔⴷⴽ",
+    "searchTheList": "ⴰⴱⵃⵜ ⴼⵉ ⴰⵍⵇⴰⵉⵎⵜ"
+  },
+  "nav": {
+    "assignments": "ⴰⵍⴰⵙⵏⴰⴷⴰⵜ",
+    "bundles": "ⴰⵍⵃⵣⵎ",
+    "catalog": "ⴽⵜⴰⵍⵓⵊ ⴰⵍⵚⴼⵓⴼ",
+    "classes": "ⴰⵍⵚⴼⵓⴼ",
+    "certifications": "ⴰⵍⵛⵀⴰⴷⴰⵜ",
+    "dashboard": "ⴰⵍⵔⵉⵢⵙⵉⵜ",
+    "department": "ⴰⵍⵇⵙⵎ",
+    "reporting": "ⴰⵍⵜⵃⵍⵉⵍⴰⵜ",
+    "resources": "ⵉⵖⴱⵓⵍⴰ",
+    "trainingPlans": "ⵅⵟⴻⵟ ⴰⵍⵜⴷⵔⵉⴱ",
+    "transcripts": "ⵏⵙⵅ ⵟⴱⵇ ⴰⵍⴰⵚⵍ",
+    "users": "ⴰⵍⵎⵙⵜⵅⴷⵎⵓⵏ"
+  },
+  "placeholders": {
+    "allClasses": "ⵊⵎⵉⵄ ⴰⵍⵚⴼⵓⴼ",
+    "assignedBy": "ⵎⵙⵏⴷ ⵎⵏ ⵇⴱⵍ",
+    "cardHolderName": "ⵉⵙⵎ ⵚⴰⵃⴱ ⴰⵍⴱⵟⴰⵇⵜ",
+    "chooseOption": "ⵉⵅⵜⵔ ⵅⵢⴰⵔⴰ",
+    "className": "ⵉⵙⵎ ⴰⵍⵚⴼ",
+    "confirmPassword": "ⵜⴰⴽⵉⴷ ⴽⵍⵎⴰ ⴰⵍⵎⵔⵓⵔ",
+    "country": "ⵜⴰⵎⵓⵔⵜ",
+    "creditType": "ⵏⵓⵄ ⴰⵍⴰⵄⵜⵎⴰⴷ",
+    "dragAndDrop": "ⵇⵎ ⴱⴰⵍⵙⵃⴱ ⵡⴰⵍⵉⴼⵍⴰⵜ ⴰⵡ ⴰⵏⵇⵔ ⵍⴻⵍⵜⵃⵎⵉⵍ",
+    "dueDate": "ⵜⴰⵔⵉⵅ ⴰⵍⴰⵙⵜⵃⵇⴰⵇ",
+    "email": "ⴰⵍⴱⵔⵉⴷ ⴰⵍⵉⵍⴽⵜⵔⵓⵏⵉ",
+    "expirationDate": "ⵜⴰⵔⵉⵅ ⵉⵏⵜⵀⴰ ⴰⵍⵚⵍⴰⵃⵉⵜ",
+    "firstName": "ⴰⵍⴰⵙⵎ ⴰⵍⴰⵡⵍ",
+    "lastName": "ⴰⵍⴽⵏⵉⵜ",
+    "organization": "ⴰⵍⵎⵏⵥⵎⵜ",
+    "password": "ⵜⴰⴳⵓⵔⵉ ⵏ ⵜⴰⵏⵜⵍⴰ",
+    "referralCode": "ⴽⵓⴷ ⴰⵍⵉⵃⴰⵍⵜ",
+    "status": "ⴰⵍⵃⴰⵍⵜ"
+  },
+  "titles": {
+    "allCertNames": "ⵊⵎⵉⵄ ⴰⵙⵎⴰ ⴰⵍⵛⵀⴰⴷⴰⵜ",
+    "allClasses": "ⵊⵎⵉⵄ ⴰⵍⵚⴼⵓⴼ",
+    "allCreditTypes": "ⵊⵎⵉⵄ ⴰⵏⵡⴰⵄ ⴰⵍⴰⵄⵜⵎⴰⴷ",
+    "allDueDates": "ⵊⵎⵉⵄ ⵜⵡⴰⵔⵉⵅ ⴰⵍⴰⵙⵜⵃⵇⴰⵇ",
+    "allExpirationDates": "ⵊⵎⵉⵄ ⵜⵡⴰⵔⵉⵅ ⴰⵏⵜⵀⴰ ⴰⵍⵚⵍⴰⵃⵉⵜ",
+    "allStatuses": "ⵊⵎⵉⵄ ⴰⵍⵃⴰⵍⴰⵜ",
+    "allUsers": "ⵊⵎⵉⵄ ⴰⵍⵎⵙⵜⵅⴷⵎⵉⵏ",
+    "conferenceSponsors": "ⵔⵄⴰ ⴰⵍⵎⵓⵜⵎⵔ",
+    "error": "ⵅⵟⴰ",
+    "notFound": "ⵢⴱⴷⵓ ⴰⵏⴰ ⵍⴰ ⵢⵓⵊⴷ ⵛⵉ ⵀⵏⴰ.",
+    "overview": "ⵎⵍⵅⵚ",
+    "stillNeedHelp": "ⵀⵍ ⵎⴰⵣⵍⵜ ⴱⵃⴰⵊⴰ ⵍⴻⵍⵎⵙⴰⵄⴷⵜ?"
+  },
+  "validations": {
+    "minLength": "ⵢⵊⴱ ⴰⵏ ⵢⴽⵓⵏ ⵄⴷⴻⴷ ⴰⵍⴰⵃⵔⴼ {{min}} ⴰⵡ ⴰⴽⵜⵔ",
+    "required": "ⵎⵟⵍⵓⴱ",
+    "fileTypesAndSize": "ⵢⵊⴱ ⴰⵏ ⵢⴽⵓⵏ ⴰⵍⵎⵍⴼ {{types}} ⴰⵇⵍ ⵎⵏ {{size}}.",
+    "certificationNumberFormat": "Must be a letter followed by 7 decimal digits"
+  },
+  "words": {
+    "ago": "ⵙⴳ",
+    "all": "ⵎⴰⵕⵕⴰ",
+    "and": "ⴷ",
+    "days": "ⵓⵙⵙⴰⵏ",
+    "false": "ⵅⵟⴰ",
+    "individuals": "ⴰⵍⴰⴼⵔⴰⴷ",
+    "perPage": "ⵍⴽⵍ ⵚⴼⵃⵜ",
+    "true": "ⵚⵃⵉⵃ"
+  },
+  "attestation": {
+    "audio": "ⴱⴰⵍⵏⵇⵔ ⴼⵓⵇ ⴰⵍⵣⵔ \"ⵜⵄⵍⵉⵎ ⴽⵎⴽⵜⵎⵍ\" , ⴰⵛⵀⴷ ⴰⵏⴻⵏⵉ ⴰⵙⵜⵎⵄⵜ ⵉⵍⴰ ⵃⵍⵇⴰ ⴰⵍⴱⵓⴷⴽⴰⵙⵜ ⵄⵍⴰ ⵎⵏⵚⴰ ⴰⵅⵔⴰ."
+  }
+}

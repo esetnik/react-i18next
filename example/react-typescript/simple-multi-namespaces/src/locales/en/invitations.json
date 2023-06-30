@@ -1,0 +1,7 @@
+{
+  "title": "Join <0>{{departmentName}}</0> on Prodigy",
+  "description": "By clicking the \"Accept Invitation\" button below you will become a member of {{departmentName}}. By joining {{departmentName}} you will be able to access additional content and features.",
+  "buttons": {
+    "acceptInvite": "Accept Invite"
+  }
+}

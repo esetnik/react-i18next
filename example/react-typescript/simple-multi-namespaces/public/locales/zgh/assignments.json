@@ -1,0 +1,46 @@
+{
+  "addEditAssignment": {
+    "buttons": {
+      "assignClass": "ⴰⵥⵍⴰⵢ ⵏ ⴰⴷⵓⵔ",
+      "deleteAssignment": "ⵓⴽⵓⵙ ⵏ ⵓⵥⵍⴰⵢ",
+      "saveChanges": "ⴰⵃⵙⵙⵓ ⵏ ⴰⵙⵏⴼⵍ"
+    },
+    "labels": {
+      "assignDate": "ⴰⵎⵣⵔⵓⵢ ⵏ ⴰⵥⵍⴰⵢ",
+      "assignedUsers": "ⵉⵅⴷⴷⴰⵎⵏ ⵉⵎⵏⵏⵉ ⴰⵙⵏ",
+      "excludeAnyone": "ⵜⴰⵙⴰⴳⴳⵓⴳⵜ ⵏ ⵉⵅⴷⴷⴰⵎⵏ ⵓⵙⵉⵏ ⴰⴷⵓⵔ ⵖ 12 ⴰⵢⵢⵓⵔ ⴰⵎⴳⴳⴰⵔⵓ",
+      "users": "ⵉⵅⴷⴷⴰⵎⵏ",
+      "usersSelected": "ⵉⵅⴷⴷⴰⵎⵏ ⵙⵜⵉⵏⵉⵏ"
+    },
+    "messages": {
+      "backToAssignments": "ⵓⵖⵓⵍ ⵙ ⵉⵥⵍⴰⵢⵏ"
+    },
+    "titles": {
+      "addAssignment": "ⴰⵙⵙⴹⴼⵕ ⵏ ⵓⵥⵍⴰⵢ",
+      "manageAssignment": "ⵜⴰⵎⵙⵙⵓⴳⵓⵔⵜ ⵏ ⵉⵥⵍⴰⵢⵏ"
+    }
+  },
+  "manageAssignments": {
+    "buttons": {
+      "addAssignment": "ⴰⵙⵙⴹⴼⵕ ⵏ ⵓⵥⵍⴰⵢ",
+      "removeAssignments": "ⵓⴽⵓⵙ ⵏ ⵓⵥⵍⴰⵢ"
+    },
+    "messages": {
+      "removeAssignments": "ⴽⵉⵢⵢⵉ ⵜⴰⵣⵜ ⵓⴽⵓⵙ ⵏ ⵉⵥⵍⴰⵢⵏⵉⵅⴷⴷⴰⵎⵏ ⵙⵜⵉⵏⵉⵏⵓⵔ ⴰⵜⵜⴰⵔⵣⵜ ⵖ ⴰⵙⴽⴽⵉⵔ, ⵜⵔⵉⵜ ⴰⵙⵎⴷ ⵏⵉⵖ ⵓⵀⵓ?"
+    },
+    "placeholders": {
+      "noAssignments": "ⵓⵔ ⵍⵉⵏ ⵉⵥⵍⴰⵢⵏ"
+    },
+    "titles": {
+      "assignments": "ⵉⵥⵍⴰⵢⵏ",
+      "individualRecords": "ⴰⵔⵔⴰⵜⵏ ⵏ ⵎⵉⴷⴷⵏ",
+      "removeAssignment": "ⵓⴽⵓⵙ ⵏ ⵓⵥⵍⴰⵢ"
+    }
+  },
+  "userAssignments": {
+    "placeholders": {
+      "noAssignedClasses": "ⵓⵔ ⵉⵍⵉⵏ ⴰⴷⴷⵓⵔⵏ ⵉⵎⵏⵏⵉ"
+    },
+    "title": "ⵉⵥⵍⴰⵢⵏ"
+  }
+}

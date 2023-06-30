@@ -1,0 +1,67 @@
+{
+  "names": {
+    "recertificationSnapshot": "تقرير تقدم خطة التدريب",
+    "classRecord": "تقرير سجل الصف",
+    "classStatistics": "تقرير إحصائيات الصف",
+    "userCertification": "تقرير شهادة المستخدم"
+  },
+  "descriptions": {
+    "recertificationSnapshot": "يتيح لك هذا التقرير كمسؤول تدريب الحصول على عرض واحد لتتبع التقدم المحرز في متطلبات التدريب لمزود الخدمة الخاص بك.",
+    "classRecord": "تتيح لك هذه التقارير بصفتك مسؤول تدريب الإبلاغ عن سجلات إكمال الصف الفردي.",
+    "classStatistics": "احصل على احصائيات عامة في لجميع صفوف المنظمة.",
+    "userCertification": "تتيح لك هذه التقارير بصفتك مسؤول تدريب الإبلاغ عن حالة شهادة المستخدمين الفرديين."
+  },
+  "labels": {
+    "selectDateRange": "حدد نطاق التاريخ"
+  },
+  "placeholders": {
+    "noRecords": "لا توجد سجلات"
+  },
+  "filters": {
+    "class": "الصف",
+    "user": "المستخدم",
+    "allUsers": "جميع المستخدمين",
+    "completionStatus": {
+      "complete": "مكتمل",
+      "incomplete": "غير مكتمل"
+    },
+    "registrationStatus": {
+      "registered": "مسجل",
+      "notRegistered": "غير مسجل"
+    }
+  },
+  "columns": {
+    "progress": "التقدم",
+    "progressPercent": "التقدم %",
+    "renewalDate": "تاريخ التجديد",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "fullName": "الاسم",
+    "email": "بريد إلكتروني",
+    "state": "الدولة",
+    "certNumber": "الشهادة #",
+    "status": "الحالة",
+    "certificationLevel": "مستوى الشهادة",
+    "city": "المدينة",
+    "dateEntered": "تاريخ الادخال",
+    "dateModified": "تاريخ التعديل",
+    "issuedAt": "تم إصداره في",
+    "expirationDate": "تاريخ الإنتهاء",
+    "certName": "اسم الشهادة",
+    "trainingPlanName": "اسم خطة التدريب",
+    "trainingPlanStatus": "حالة خطة التدريب",
+    "requirementGroupName": "اسم مجموعة المتطلبات",
+    "averageQuizScore": "متوسط نقاط الاختبار",
+    "totalFails": "عدد الرسوب",
+    "registered": "مسجل",
+    "completed": "مكتمل",
+    "className": "اسم الصف",
+    "deleted": "محذوف",
+    "takeType": "نوع الصف",
+    "dateRegistered": "تاريخ التسجيل",
+    "dateCompleted": "تاريخ الإكمال",
+    "scheduled": "مجدول في",
+    "complete": "مكتمل",
+    "inProgress": "قيد التقدم"
+  }
+}

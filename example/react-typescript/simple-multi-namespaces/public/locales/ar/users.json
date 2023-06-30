@@ -1,0 +1,81 @@
+{
+  "buttons": {
+    "addNewUser": "إضافة مستخدم جديد",
+    "addToGroup": "إضافة إلى المجموعة",
+    "cancel": "الغاء",
+    "copyInvitationLink": "انسخ رابط الدعوة",
+    "goToGroups": "اذهب إلى المجموعات",
+    "inviteUser": "قم بدعوة مستخدم جديد",
+    "remove": "إزالة",
+    "removeFromGroup": "إزالة من المجموعة",
+    "removeInvitation": "إزالة الدعوة",
+    "removeUser": "إزالة المستخدم",
+    "resendInvite": "إعادة إرسال دعوة",
+    "saveChanges": "حفظ التغييرات",
+    "sendInvite": "ارسل دعوة",
+    "sendPasswordReset": "إرسال إعادة تعيين كلمة المرور",
+    "sendResetLink": "أرسل رابط إعادة التعيين"
+  },
+  "labels": {
+    "active": "فعال",
+    "allRoles": "كل الأدوار",
+    "email": "البريد الإلكتروني",
+    "employeeId": "هوية الموظف",
+    "inactive": "غير فعال",
+    "inviteDate": "تاريخ الدعوة",
+    "name": "الاسم",
+    "members_one": "{{count}} عضو",
+    "members_other": "{{count}} أعضاء",
+    "phone": "هاتف",
+    "role": "الدور",
+    "selectGroup": "حدد مجموعة لإضافة {{userName}} إليها.",
+    "toEmails": "الى:",
+    "status": "الحالة",
+    "allStatuses": "جميع الحالات"
+  },
+  "messages": {
+    "backToUsers": "رجوع إلى المستخدمين",
+    "emptyGroups": "لم تتم إضافة هذا المستخدم إلى أي مجموعات.",
+    "inviteUsersMessage": "أرسل دعوة بالبريد الإلكتروني إلى المستخدمين لإنشاء حساب أو نسخ رابط الدعوة ومشاركته.",
+    "mustSelectGroup": "يجب عليك تحديد مجموعة أولا",
+    "removeUserFromGroup": "هل أنت متأكد من أنك تريد إزالة {{userName}} من {{groupName}}؟ لا يمكن التراجع عن هذا الإجراء.",
+    "removeInvitation": "أنت على وشك إزالة الدعوة المعلقة للمستخدمين المحددين. لا يمكن التراجع عن هذا الإجراء. هل ترغب في الاستمرار؟",
+    "removeUser": "هل أنت متأكد من أنك تريد إزالة {{userName}} من {{departmentName}}؟ سيظل بإمكان هذا المستخدم الوصول إلى حسابه ، ولكنه لن يكون مرتبطًا بهذا القسم بعد الآن. لا يمكن التراجع عن هذا الإجراء.",
+    "resetPassword": "هل ترغب في إرسال رابط إعادة تعيين كلمة المرور إلى {{userName}}؟"
+  },
+  "placeholders": {
+    "employeeId": "هوية الموظف",
+    "selectGroup": "إختر مجموعة",
+    "userName": "اسم المستخدم",
+    "userRole": "دور المستخدم",
+    "status": "الحالة",
+    "groups": "المجموعات"
+  },
+  "titles": {
+    "addNewUser": "إضافة مستخدم جديد",
+    "addToGroup": "إضافة إلى المجموعة",
+    "departmentUsers": "مستخدمي القسم",
+    "employeeStatus": "حالة الموظف",
+    "groups": "المجموعات",
+    "inviteUsersToDepartment": "دعوة المستخدمين إلى {{departmentName}}",
+    "invitedUsers": "الدعوات المعلقة",
+    "noUsers": "لم يتم العثور على مستخدمين.",
+    "noInvitations": "لم يتم العثور على دعوات.",
+    "removeUserFromGroup": "إزالة المستخدم من المجموعة",
+    "removeInvitation": "إزالة الدعوة المعلقة",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "removeUser": "إزالة المستخدم",
+    "trainingPlans": "خطط التدريب",
+    "transcripts": "نسخ طبق الأصل",
+    "userProfile": "ملف الشخصي للمستخدم",
+    "users": "المستخدمون"
+  },
+  "userRoles": {
+    "1": "مستخدم عام",
+    "2": "المسؤول التدريبي",
+    "3": "المدير الطبي",
+    "4": "رئيس",
+    "5": "مستخدم التحليلات",
+    "6": "مسؤول"
+  }
+}

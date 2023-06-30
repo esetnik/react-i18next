@@ -1,0 +1,211 @@
+{
+  "actions": {
+    "dateRange": {
+      "endDatePlaceholder": "تاريخ الانتهاء",
+      "startDatePlaceholder": "تاريخ البدء"
+    },
+    "sortByName": {
+      "directionDown": "أ - ي",
+      "directionUp": "ي - أ",
+      "title": "الاسم"
+    },
+    "sortByUpdatedAt": {
+      "directionDown": "تنازلي",
+      "directionUp": "تصاعدي",
+      "title": "تاريخ الإصدار"
+    }
+  },
+  "buttons": {
+    "apply": "طبق",
+    "backToProdigy": "العودة إلى Prodigy",
+    "cancel": "إلغاء",
+    "clearSelection": "إزالة التحديد",
+    "continue": "استمر",
+    "continueClass": "متابعة الصف",
+    "export": "تصدير",
+    "getInTouch": "تواصل معنا",
+    "gotIt": "فهمتها",
+    "markComplete": "تعليم كمكتمل",
+    "ok": "حسناً",
+    "openLink": "افتح الرابط",
+    "register": "سجل",
+    "removeSelected": "ازل المحدد",
+    "retry": "أعد المحاولة",
+    "selectAll": "اختر الكل",
+    "submitAnswers": "إرسال الإجابات",
+    "today": "اليوم",
+    "unregister": "الغاء التسجيل",
+    "exit": "خروج",
+    "delete": "حذف"
+  },
+  "descriptions": {
+    "notFound": "الصفحة التي تبحث عنها لا يمكن العثور عليها. ربما تمت إزالته أو إعادة تسميته أو ربما لم يكن موجودًا على الإطلاق.",
+    "confirmUnsavedChanges": "التغييرات التي أجريتها لم يتم حفظها بعد! هل أنت متأكد أنك تريد إلغاء؟",
+    "takeTypes": {
+      "distributive": "توزيعيّ",
+      "distributiveAndLive": "توزيعيّ و مباشر",
+      "live": "مباشر",
+      "liveOnline": "مباشر اون لاين",
+      "liveInPerson": "مباشر شخصيا"
+    }
+  },
+  "formatters": {
+    "certificationNumber": "الشهادة #{{certNumber}}",
+    "hoursDescription_one": "{{count}} ساعة",
+    "hoursDescription_other": "{{count}} ساعات",
+    "hoursDescription": "{{count}} ساعات",
+    "imageFor": "صورة لـ {{target}}",
+    "sessions_one": "{{count}} جلسة",
+    "sessions_other": "{{count}} جلسات",
+    "takeDate": "{{takeType}} في تاريخ {{date}}",
+    "timeDuration": "<0>الوقت:</0> {{duration}}",
+    "timeInterval": "{{from}} الى {{to}}"
+  },
+  "header": {
+    "userPicker": {
+      "admin": "مسؤول",
+      "logout": "تسجيل الخروج",
+      "manageProfile": "إدارة الملف الشخصي"
+    }
+  },
+  "labels": {
+    "active": "فعال",
+    "assignedBy": "مسند من قبل",
+    "assignedTo": "مسند الى",
+    "capceNumber": "الاعتماد الاكاديمي",
+    "certificate": "شهادة",
+    "certName": "اسم الشهادة",
+    "classBundle": "حزمة الصف",
+    "className": "إسم الصف",
+    "classStatus": {
+      "completed": "مكتمل",
+      "inProgress": "في تَقَدم",
+      "registered": "مسجل",
+      "started": "بدأ"
+    },
+    "classType": "نوع الصف",
+    "clearFile": "ازالة الملف",
+    "closeAllSections": "أغلق كافة الأقسام",
+    "complete": "أكمل",
+    "correctAnswer": "اجابة صحيحة",
+    "creditHours": "الساعات المعتمدة",
+    "creditTypes": {
+      "credit": "معتمد الساعات",
+      "nonCredit": "غير معتمد الساعات"
+    },
+    "daysRemaining": "الأيام المتبقية",
+    "dueDate": "تاريخ الاستحقاق",
+    "duration": "المدة",
+    "expirationDate": "تاريخ إنتهاء الصلاحية",
+    "expired": "منتهي الصلاحية",
+    "expires": "تنتهي",
+    "expiresOn": "تنتهي صلاحيته في",
+    "inactive": "غير نشط",
+    "incomplete": "غير مكتمل",
+    "loadingText": "جار التحميل...",
+    "next7Days": "السبعة أيام القادمة",
+    "next30Days": "٣٠ يومًا القادمة",
+    "next60Days": "٦٠ يومًا القادمة",
+    "openAllSections": "افتح كل الأقسام",
+    "overdue": "متأخر",
+    "presentedBy": "قدم بواسطة",
+    "purchaseDate": "تاريخ الشراء",
+    "rememberMe": "تذكرني",
+    "saveCardInfo": "حفظ معلومات البطاقة لسهولة الدفع",
+    "status": "الحالة",
+    "takeType": "نوع أخذ الصف",
+    "today": "اليوم",
+    "uploadingText": "جاري التحميل",
+    "uploadQuiz": "تحميل الاختبار عبر .CSV",
+    "uploadVideo": "تحميل فيديو",
+    "useNewPaymentMethod": "استخدم طريقة دفع جديدة",
+    "userName": "اسم االمستخدم",
+    "yourResponse": "ردك",
+    "searchTheList": "ابحث في القائمة",
+    "uploadAudio": "رفع ملفات صوتية",
+    "loadingMedia": "جارٍ تحميل الوسائط ...",
+    "selectRange": "حدد نطاق"
+  },
+  "nav": {
+    "assignments": "الاسنادات",
+    "bundles": "الحزم",
+    "catalog": "كتالوج الصفوف",
+    "classes": "الصفوف",
+    "certifications": "الشهادات",
+    "dashboard": "الرئيسية",
+    "department": "القسم",
+    "reporting": "التحليلات",
+    "resources": "المصادر",
+    "trainingPlans": "خطط التدريب",
+    "transcripts": "نسخ طبق الأصل",
+    "users": "المستخدمون",
+    "subNav": {
+      "reports": {
+        "systemReports": "تقارير النظام",
+        "customReports": "تقارير مخصصة",
+        "recertificationSnapshot": "تقدم خطة التدريب",
+        "userClassRecord": "سجل الصف",
+        "userCertification": "شهادة المستخدم",
+        "classStatistics": "إحصائيات الصف",
+        "featureAvailableSoon": "ستتوفر هذه الميزة قريبًا."
+      }
+    }
+  },
+  "placeholders": {
+    "allClasses": "جميع الصفوف",
+    "assignedBy": "مسند من قبل",
+    "cardHolderName": "إسم صاحب البطاقة",
+    "chooseOption": "إختر خياراً",
+    "className": "إسم الصف",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "country": "الدولة",
+    "creditType": "نوع الاعتماد",
+    "dragAndDrop": "قم بالسحب والإفلات أو انقر للتحميل",
+    "dueDate": "تاريخ الاستحقاق",
+    "email": "البريد الإلكتروني",
+    "expirationDate": "تاريخ إنتهاء الصلاحية",
+    "firstName": "الاسم الاول",
+    "lastName": "الكنية",
+    "organization": "المنظمة",
+    "password": "كلمة المرور",
+    "referralCode": "كود الإحالة",
+    "status": "الحالة"
+  },
+  "titles": {
+    "allCertNames": "جميع أسماء الشهادات",
+    "allClasses": "جميع الصفوف",
+    "allCreditTypes": "جميع أنواع الاعتماد",
+    "allDueDates": "جميع تواريخ الاستحقاق",
+    "allExpirationDates": "جميع تواريخ انتهاء الصلاحية",
+    "allStatuses": "جميع الحالات",
+    "allUsers": "جميع المستخدمين",
+    "conferenceSponsors": "رعاة المؤتمر",
+    "error": "خطأ",
+    "notFound": "يبدو أنه لا يوجد شيء هنا.",
+    "overview": "ملخص",
+    "stillNeedHelp": "هل مازلت بحاجه للمساعدة؟",
+    "changesWillBeLost": "ستفقد التغييرات",
+    "paymentPastDue": "<0> يرجى الانتباه </0>: مدفوعات قسمك فات موعد استحقاقها. الرجاء الاتصال بـ <1> {{email}} </1>",
+    "featureDisabled": "لا يمتلك قسمك حق الوصول إلى هذه الميزة."
+  },
+  "validations": {
+    "minLength": "يجب أن يكون عدد الأحرف {{min}} أو أكثر",
+    "required": "مطلوب",
+    "fileTypesAndSize": "يجب أن يكون الملف {{types}} أقل من {{size}}.",
+    "certificationNumberFormat": "يجب أن يكون حرفًا متبوعًا بـ ٧ أرقام"
+  },
+  "words": {
+    "ago": "منذ",
+    "all": "جميع",
+    "and": "و",
+    "days": "أيام",
+    "false": "خطأ",
+    "individuals": "الأفراد",
+    "perPage": "لكل صفحة",
+    "true": "صحيح",
+    "yes": "نعم"
+  },
+  "attestation": {
+    "audio": "بالنقر فوق الزر \"تعليم كمكتمل\" ، أشهد أنني استمعت إلى حلقة البودكاست على منصة أخرى."
+  }
+}

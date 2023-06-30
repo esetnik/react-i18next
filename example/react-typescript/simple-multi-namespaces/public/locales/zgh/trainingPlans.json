@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "addOutsideCompletion": "ⵉⴹⴰⴼⴰ ⴰⵙⵜⴽⵎⴰⵍ ⵅⴰⵔⵊⵉ"
+  },
+  "contentForEmpty": {
+    "button": "ⴰⴹⴼ ⵛⵀⴰⴷⵜ",
+    "description": "ⵢⵜⵎ ⵉⵏⵛⴰ ⵅⵟⴻⵟ ⴰⵍⵜⴷⵔⵉⴱ ⴱⵏⴰ ⵄⵍⴰ ⴰⵍⵛⵀⴰⴷⴰⵜ ⴰⵍⵜⵉ ⵇⵎⵜ ⴱⵉⴷⵔⴰⵊⵀⴰ ⴼⵉ ⴰⵍⵏⵥⴰⵎ ⴰⵡ ⵄⵏ ⵟⵔⵉⵇ ⵜⵄⵉⵢⵏ ⴰⵍⵇⵙⵎ. ⵇⵎ ⴱⵜⵃⵎⵉⵍ ⵛⵀⴰⴷⴰ ⵍⴻⵍⴱⴷ ⴰⵡ ⴰⵜⵚⵍ ⴱⵎⵙⵓⵡⵍ ⴰⵍⵜⴷⵔⵉⴱ ⵍⴻⵍⵃⵚⵓⵍ ⵄⵍⴰ ⴰⵍⵎⵙⴰⵄⴷⵜ.",
+    "title": "ⵍⵎ ⵢⵜⵎ ⴰⵍⵄⵜⵓⵔ ⵄⵍⴰ ⵅⵟⴻⵟ ⵜⴷⵔⵉⴱ"
+  },
+  "imagesAlts": {
+    "headerImage": "ⵅⵟⴰ ⵜⴷⵔⵉⴱ {{name}}"
+  },
+  "labels": {
+    "complete": "ⵎⴽⵜⵎⵍ",
+    "distributiveLimit": "ⵃⴷ ⴰⵍⵜⵓⵣⵉⵄ",
+    "headerProgress": "ⵜⵇⴷⵎ ⵅⵟⴰ ⴰⵍⵜⴷⵔⵉⴱ",
+    "overallProgress": "ⴰⵍⵜⵇⴷⵎ ⴰⵍⴽⴰⵎⵍ",
+    "requirements": "ⴰⵍⵎⵜⵟⵍⴱⴰⵜ:",
+    "used": "ⴰⵅⴷⴷⴰⵎ"
+  },
+  "messages": {
+    "noDescription": "ⵍⴰ ⵜⵃⵜⵓⵢ ⵅⵟⴰ ⴰⵍⵜⴷⵔⵉⴱ ⵀⴷⴰ ⵄⵍⴰ ⵡⵚⴼ"
+  },
+  "placeholders": {
+    "selectTrainingPlan": "ⵉⵅⵜⵔ ⵅⵟⴰ ⴰⵍⵜⴷⵔⵉⴱ"
+  },
+  "title": "ⵅⵟⴻⵟ ⴰⵍⵜⴷⵔⵉⴱ"
+}

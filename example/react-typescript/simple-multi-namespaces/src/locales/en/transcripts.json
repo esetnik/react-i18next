@@ -1,0 +1,15 @@
+{
+  "placeholders": {
+    "noTranscripts": "No Transcripts found.",
+    "searchClassName": "Search Class Name",
+    "trainingPlan": "Training Plan"
+  },
+  "titles": {
+    "allTrainingPlans": "All Training Plans",
+    "transcripts": "Transcripts",
+    "deleteTranscript": "Delete Transcript"
+  },
+  "messages": {
+    "confirmDeleteTranscript": "This action is irreversible, are you sure you want to delete ({{className}}) transcript?"
+  }
+}

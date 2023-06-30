@@ -1,0 +1,81 @@
+{
+  "buttons": {
+    "addNewUser": "Add New User",
+    "addToGroup": "Add To Group",
+    "cancel": "Cancel",
+    "copyInvitationLink": "Copy Invitation Link",
+    "goToGroups": "Go To Groups",
+    "inviteUser": "Invite New User",
+    "remove": "Remove",
+    "removeFromGroup": "Remove From Group",
+    "removeInvitation": "Remove Invitation",
+    "removeUser": "Remove User",
+    "resendInvite": "Resend Invite",
+    "saveChanges": "Save Changes",
+    "sendInvite": "Send Invite",
+    "sendPasswordReset": "Send Password Reset",
+    "sendResetLink": "Send Reset Link"
+  },
+  "labels": {
+    "active": "Active",
+    "allRoles": "All Roles",
+    "email": "Email",
+    "employeeId": "Employee ID",
+    "inactive": "Inactive",
+    "inviteDate": "Invite Date",
+    "name": "Name",
+    "members_one": "{{count}} Member",
+    "members_other": "{{count}} Members",
+    "phone": "Phone",
+    "role": "Role",
+    "selectGroup": "Select a group to add {{userName}} to.",
+    "toEmails": "To:",
+    "status": "Status",
+    "allStatuses": "All Statuses"
+  },
+  "messages": {
+    "backToUsers": "Back to Users",
+    "emptyGroups": "This user hasn't been added to any groups.",
+    "inviteUsersMessage": "Send an invitation email to users to create an account or copy and share the invitation link.",
+    "mustSelectGroup": "You must select a group first",
+    "removeUserFromGroup": "Are you sure you want to remove {{userName}} from {{groupName}}? This action cannot be undone.",
+    "removeInvitation": "You are about to remove the pending invite for the selected users. This action can not be undone. Would you like to continue?",
+    "removeUser": "Are you sure you want to remove {{userName}} from {{departmentName}}? This user will still have access to their account, but will no longer be tied to this department. This action cannot be undone.",
+    "resetPassword": "Would you like to send a password reset link to {{userName}}?"
+  },
+  "placeholders": {
+    "employeeId": "Employee ID",
+    "selectGroup": "Select a group",
+    "userName": "User name",
+    "userRole": "User Role",
+    "status": "Status",
+    "groups": "Groups"
+  },
+  "titles": {
+    "addNewUser": "Add New User",
+    "addToGroup": "Add To Group",
+    "departmentUsers": "Department Users",
+    "employeeStatus": "Employee Status",
+    "groups": "Groups",
+    "inviteUsersToDepartment": "Invite Users to {{departmentName}}",
+    "invitedUsers": "Pending Invites",
+    "noUsers": "No Users found.",
+    "noInvitations": "No Invitations found.",
+    "removeUserFromGroup": "Remove User From Group",
+    "removeInvitation": "Remove Pending Invitation",
+    "resetPassword": "Reset Password",
+    "removeUser": "Remove User",
+    "trainingPlans": "Training Plans",
+    "transcripts": "Transcripts",
+    "userProfile": "User Profile",
+    "users": "My Users"
+  },
+  "userRoles": {
+    "1": "General User",
+    "2": "Training Officer",
+    "3": "Medical Director",
+    "4": "Chief",
+    "5": "Reporting User",
+    "6": "Admin"
+  }
+}

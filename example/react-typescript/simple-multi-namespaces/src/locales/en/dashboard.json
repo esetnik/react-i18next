@@ -1,0 +1,64 @@
+{
+  "accountType": {
+    "bundles": {
+      "item_one": "<0></0> ends in {{daysRemaining}} day",
+      "item_other": "<0></0> ends in {{daysRemaining}} days",
+      "title": "Bundles"
+    },
+    "description": {
+      "basicUser": "You have access to select classes for free. Additional classes can be purchased individually or in a Prodigy bundle.",
+      "bundleUser": "You have access to the following <0>classes</0> based on your subscription.",
+      "departmentUser": "You have access to the following <0>classes</0> as part of your department subscription."
+    },
+    "manageAccountLink": "Manage Account",
+    "title": {
+      "basicUser": "Basic User Account",
+      "bundleUser": "Subscription User Account",
+      "departmentUser": "Department User Account"
+    }
+  },
+  "assignments": {
+    "item": {
+      "assignedBy": "Assigned by {{assignedBy}}",
+      "dueOn": "Due on"
+    },
+    "title": "Assignments",
+    "noAssignments": "No assigned classes found.",
+    "manageAssignments": "Manage Assignments"
+  },
+  "continueClasses": {
+    "item": {
+      "startedOn": "Started on {{date}} at {{time}}"
+    },
+    "title": "Continue Classes"
+  },
+  "salesBanner": {
+    "buttons": {
+      "learnMore": "Learn More",
+      "seeOtherBundles": "See other bundles"
+    },
+    "description": "Unlock access to premium content with a Prodigy bundle!",
+    "title": "Get the most out of your account."
+  },
+  "title": "Welcome Back, {{userName}}!",
+  "trainingPlans": {
+    "contentForEmpty": {
+      "button": "View Training Plans",
+      "descriptionPart1": "Get started with training plans by adding a certification. Prodigy will build a plan based on your certification level, department affiliation, and state.",
+      "descriptionPart2": "Our training plans allow you to enter your certification details and instantly see what you need to complete. Training plans take the stress out of tracking your recertification and allow for customized training paths."
+    },
+    "titleForEmpty": "Get Started with Training Plans",
+    "titleForExist": "Training Plans"
+  },
+  "upcomingLiveSessions": {
+    "descriptionForEmpty": "There are no upcoming live classes available at this time",
+    "title": "Upcoming Live Sessions",
+    "trainingPlansPickerTitle": "All Upcoming"
+  },
+  "virtualConferences": {
+    "item": {
+      "viewConferenceButton": "View Conference"
+    },
+    "title": "Virtual Conferences"
+  }
+}

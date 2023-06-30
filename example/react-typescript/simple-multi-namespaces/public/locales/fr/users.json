@@ -1,0 +1,81 @@
+{
+  "buttons": {
+    "addNewUser": "Ajouter un nouvel utilisateur",
+    "addToGroup": "Add To Group",
+    "cancel": "Annuler",
+    "copyInvitationLink": "Copier le lien d'invitation",
+    "goToGroups": "Go To Groups",
+    "inviteUser": "Inviter un nouvel utilisateur",
+    "remove": "Remove",
+    "removeFromGroup": "Remove From Group",
+    "removeInvitation": "Supprimer l'invitation",
+    "removeUser": "Remove User",
+    "resendInvite": "Renvoyer l'invitation",
+    "saveChanges": "Save Changes",
+    "sendInvite": "Envoyer une invitation",
+    "sendPasswordReset": "Send Password Reset",
+    "sendResetLink": "Send Reset Link"
+  },
+  "labels": {
+    "active": "Active",
+    "allRoles": "Tous les rôles",
+    "email": "E-mail",
+    "employeeId": "Employee ID",
+    "inactive": "Inactive",
+    "inviteDate": "Date d'invitation",
+    "name": "Nom",
+    "members_one": "{{count}} Membre",
+    "members_other": "{{count}} Members",
+    "phone": "Téléphoner",
+    "role": "Rôle",
+    "selectGroup": "Select a group to add {{userName}} to.",
+    "toEmails": "À:",
+    "status": "Statut",
+    "allStatuses": "Tous les statuts"
+  },
+  "messages": {
+    "backToUsers": "Retour aux utilisateurs",
+    "emptyGroups": "This user hasn't been added to any groups.",
+    "inviteUsersMessage": "Envoyez un e-mail d'invitation aux utilisateurs pour créer un compte ou copiez et partagez le lien d'invitation.",
+    "mustSelectGroup": "You must select a group first",
+    "removeUserFromGroup": "Voulez-vous vraiment supprimer {{userName}} de {{groupName}} ? Cette action ne peut pas être annulée.",
+    "removeInvitation": "Vous êtes sur le point de supprimer l'invitation en attente pour les utilisateurs sélectionnés. Cette action ne peut pas être annulée. Voulez-vous continuer?",
+    "removeUser": "Are you sure you want to remove {{userName}} from {{departmentName}}? This user will still have access to their account, but will no longer be tied to this department. This action cannot be undone.",
+    "resetPassword": "Would you like to send a password reset link to {{userName}}?"
+  },
+  "placeholders": {
+    "employeeId": "Employee ID",
+    "selectGroup": "Select a group",
+    "userName": "Nom d'utilisateur",
+    "userRole": "Rôle d'utilisateur",
+    "status": "Statut",
+    "groups": "Groupes"
+  },
+  "titles": {
+    "addNewUser": "Ajouter un nouvel utilisateur",
+    "addToGroup": "Add To Group",
+    "departmentUsers": "Utilisateurs du département",
+    "employeeStatus": "Employee Status",
+    "groups": "Groups",
+    "inviteUsersToDepartment": "Inviter des utilisateurs à {{departmentName}}",
+    "invitedUsers": "Invitations en attente",
+    "noUsers": "Aucun utilisateur trouvé.",
+    "noInvitations": " Aucune invitation trouvée.",
+    "removeUserFromGroup": "Supprimer l'utilisateur du groupe",
+    "removeInvitation": "Supprimer l'invitation en attente",
+    "resetPassword": "Reset Password",
+    "removeUser": "Remove User",
+    "trainingPlans": "Plans de formation",
+    "transcripts": "Transcriptions",
+    "userProfile": "Profil de l'utilisateur",
+    "users": "Mes utilisateurs"
+  },
+  "userRoles": {
+    "1": "Utilisateur général",
+    "2": "Officier de formation",
+    "3": "Directeur médical",
+    "4": "Chef",
+    "5": "Utilisateur de rapport",
+    "6": "Administrateur"
+  }
+}

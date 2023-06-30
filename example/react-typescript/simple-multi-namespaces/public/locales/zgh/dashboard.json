@@ -1,0 +1,62 @@
+{
+  "accountType": {
+    "bundles": {
+      "item_one": "<0></0> ⵢⵏⵜⵀⵉ ⴼⵉ ⵖⴹⵓⵏ {{daysRemaining}} ⵢⵓⵎ",
+      "item_other": "<0></0> ⵢⵏⵜⵀⵉ ⴼⵉ ⵖⴹⵓⵏ {{daysRemaining}} ⴰⵢⴰⵎ",
+      "title": "ⴰⵍⵃⵣⵎ"
+    },
+    "description": {
+      "basicUser": "ⵍⴷⵉⴽ ⵃⵇ ⴰⵍⵓⵚⵓⵍ ⵉⵍⴰ ⴼⵢⴰⵜ ⵎⵃⴷⴻⴷⴰ ⵎⵊⴰⵏⴰ. ⵢⵎⴽⵏ ⵛⵔⴰ ⴰⵍⴼⵢⴰⵜ ⴰⵍⵉⴹⴰⴼⵢⴰ ⴱⵛⴽⵍ ⴼⵔⴷⵉ ⴰⵡ ⴼⵉ ⵃⵣⵎⴰ Prodigy.",
+      "bundleUser": "ⵢⵎⴽⵏⴽ ⴰⵍⵓⵚⵓⵍ ⵉⵍⴰ ⴼⵢⴰⵜ <0>ⴰⵍⵚⴼⵓⴼ</0> ⴱⵏⴰ ⵄⵍⴰ ⴰⵛⵜⵔⴰⴽⴻⴽ.",
+      "departmentUser": "ⵍⴷⵉⴽ ⵃⵇ ⴰⵍⵓⵚⵓⵍ ⵉⵍⴰ ⴰⵍⴼⵢⴰⵜ <0>ⴰⵍⵚⴼⵓⴼ</0> ⴽⵊⵣ ⵎⵏ ⴰⵛⵜⵔⴰⴽ ⴰⵍⵇⵙⵎ ⴰⵍⵅⴰⵚ ⴱⴽ."
+    },
+    "manageAccountLink": "ⵉⴷⴰⵔⴰ ⴰⵍⵃⵙⴰⴱ",
+    "title": {
+      "basicUser": "ⵃⵙⴰⴱ ⵎⵙⵜⵅⴷⵎ ⵄⴰⴷⵉ",
+      "bundleUser": "ⵃⵙⴰⴱ ⵎⵙⵜⵅⴷⵎ ⴰⵍⴰⵛⵜⵔⴰⴽ",
+      "departmentUser": "ⵃⵙⴰⴱ ⵎⵙⵜⵅⴷⵎ ⴰⵍⵇⵙⵎ"
+    }
+  },
+  "assignments": {
+    "item": {
+      "assignedBy": "ⵎⵙⵏⴷ ⵎⵏ ⵇⵉⴱⵍ {{assignBy}}",
+      "dueOn": "ⵜⴰⵔⵉⵅ ⴰⵍⴰⵙⵜⵃⵇⴰⵇ"
+    },
+    "title": "ⴰⵍⵉⵙⵏⴰⴷⴰⵜ"
+  },
+  "continueClasses": {
+    "item": {
+      "startedOn": "ⴰⴷⴷⴰ ⴳ {{date}} ⴳ {{time}}"
+    },
+    "title": "ⵎⵜⴰⴱⵄⴰ ⴰⵍⵚⴼⵓⴼ",
+    "noAssignments": "ⵍⴰ ⵢⵓⵊⴷ ⵚⴼⵓⴼ ⵎⵙⵏⴷⵜ",
+    "manageAssignments": "ⵉⴷⴰⵔⴰ ⴰⵍⵉⵙⵏⴰⴷⴰⵜ"
+  },
+  "salesBanner": {
+    "buttons": {
+      "learnMore": "ⵉⵄⵍⵎ ⴰⵍⵎⵣⵉⴷ",
+      "seeBundles": "ⵄⵔⴹ ⴰⵍⵃⵣⵎ"
+    },
+    "description": "ⴰⴼⵜⵃ ⴰⵍⵓⵚⵓⵍ ⵉⵍⴰ ⴰⵍⵎⵃⵜⵡⴰ ⴰⵍⵎⵜⵎⵉⵣ ⴱⴰⵙⵜⵅⴷⴰⵎ ⵃⵣⵎⴰ Prodigy!",
+    "title": "ⴰⵃⵚⵍ ⵄⵍⴰ ⴰⵇⵚⴰ ⴰⵙⵜⴼⴰⴷⴰ ⵎⵏ ⵃⵙⴰⴱⴽ."
+  },
+  "title": "ⴰⵏⵙⵓⴼ, {{userName}}!",
+  "trainingPlans": {
+    "contentForEmpty": {
+      "button": "ⵄⵔⴹ ⵅⵟⴻⵟ ⴰⵍⵜⴷⵔⵉⴱ"
+    },
+    "titleForEmpty": "ⴰⴱⴷⴰ ⵅⵟⴻⵟ ⴰⵍⵜⴷⵔⵉⴱ",
+    "titleForExist": "ⵅⵟⴻⵟ ⴰⵍⵜⴷⵔⵉⴱ"
+  },
+  "upcomingLiveSessions": {
+    "descriptionForEmpty": "ⵍⴰ ⵜⵓⵊⴷ ⵚⴼⵓⴼ ⵎⴱⴰⵛⵔⴰ ⵇⴰⴷⵎⴰ ⵎⵜⴰⵃⴰ ⴼⵉ ⵀⴷⴰ ⴰⵍⵓⵇⵜ",
+    "title": "ⴰⵍⵊⵍⵙⴰⵜ ⴰⵍⵎⴱⴰⵛⵔⴰ ⴰⵍⵇⴰⴷⵎⵜ",
+    "trainingPlansPickerTitle": "ⴽⵍ ⴰⵍⵇⴰⴷⵎ"
+  },
+  "virtualConferences": {
+    "item": {
+      "viewConferenceButton": "ⵎⵛⴰⵀⴷⴰ ⴰⵍⵎⵓⵜⵎⵔ"
+    },
+    "title": "ⴰⵍⵎⵓⵜⵎⵔⴰⵜ ⴰⵍⴰⴼⵜⵔⴰⴹⵉⵜ"
+  }
+}
